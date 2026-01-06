@@ -3,23 +3,26 @@
 # Node deps
 node_modules/
 npm-debug.log*
+package-lock.json
 
 # Build outputs
 out/
 course-helper-web/.next/
 course-helper-web/out/
 
-# Environment files (keep .env.example in repo)
-.env
-.env.local
+# Environment files (靜態網站不需要)
+.env*
+!.env.example
 
 # Logs and caches
 logs/
 *.log
 .cache/
+*.tsbuildinfo
 
 # macOS / Editor
 .DS_Store
+**/.DS_Store
 .vscode/
 .idea/
 

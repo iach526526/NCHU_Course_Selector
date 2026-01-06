@@ -3,15 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "LOCAL_DEV=true next dev --turbopack",
+    "dev": "next dev --turbopack",
     "build": "next build",
-    "build:local": "LOCAL_DEV=true next build",
-    "build:static": "./build-static.sh",
     "start": "next start",
     "lint": "next lint",
-    "preview": "cd out && python3 -m http.server 3000",
-    "test:search": "./test-search.sh",
-    "clean": "rm -rf .next out"
+    "clean": "rm -rf .next out .cache *.tsbuildinfo"
   },
   "dependencies": {
     "next": "15.3.3",
