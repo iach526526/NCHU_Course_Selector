@@ -24,6 +24,7 @@ class NCHUCourseCrawler:
         Args:
             data_dir: 資料儲存目錄
         """
+        # 對中興大學課程 API 依學制（課程種類）逐一發送 GET 請求
         self.base_url = "https://onepiece.nchu.edu.tw/cofsys/plsql/json_for_course"
         self.data_dir = data_dir
         self.career_mapping = {
@@ -53,49 +54,51 @@ class NCHUCourseCrawler:
             ]
         )
         self.logger = logging.getLogger(__name__)
-    
     def _clean_json_text(self, text: str) -> str:
-        """
-        清理 JSON 文本中的控制字符
-        
-        Args:
-            text: 原始文本
-            
-        Returns:
-            清理後的文本
-        """
-        # 移除所有 ASCII 控制字符 (0-31) 和 DEL + 擴展控制字符 (127-159)
-        cleaned = re.sub(r'[\x00-\x1f\x7f-\x9f]', '', text)
+        # 先把常見空白控制字元換空白
+        text = re.sub(r'[\t\r\n]+', ' ', text)
 
-        # 有時候回應尾端會夾帶多餘符號 (例如 % 或其他雜訊)，導致 JSONDecodeError
-        # 策略：截斷到最後一個 '}' 為止（確保最外層物件閉合），避免尾端殘留非 JSON 字元
-        last_brace = cleaned.rfind('}')
-        if last_brace != -1:
-            trimmed = cleaned[:last_brace + 1]
-        else:
-            trimmed = cleaned  # 若找不到就維持原樣，後續會在解析階段失敗並紀錄
+        # 移除其他控制字元
+        cleaned = re.sub(r'[\x00-\x08\x0b-\x1f\x7f-\x9f]', '', text)
 
-        # 進一步檢查是否存在開頭雜訊：取第一個 '{' 之後的內容
-        first_brace = trimmed.find('{')
-        if first_brace > 0:
-            trimmed = trimmed[first_brace:]
+        # 找 JSON 起點：'[' 或 '{'
+        first_obj = cleaned.find('{')
+        first_arr = cleaned.find('[')
+        starts = [i for i in [first_obj, first_arr] if i != -1]
+        if starts:
+            cleaned = cleaned[min(starts):]
 
-        return trimmed
+        # 找 JSON 終點：']' 或 '}'
+        last_obj = cleaned.rfind('}')
+        last_arr = cleaned.rfind(']')
+        end = max(last_obj, last_arr)
+        if end != -1:
+            cleaned = cleaned[:end+1]
+
+        return cleaned
+
 
     def _repair_common_corruption(self, text: str) -> str:
-        """針對已知的 API JSON 資料異常模式進行修補。
-
-        目前觀察到的問題：
-        1. 陣列開頭出現多餘逗號: [ ,2,3] -> [2,3]
-        2. 重複逗號: [2,,3] -> [2,3]
-        3. time_parsed 區段內空白逗號組合導致解析失敗
-        """
         repaired = text
-        # 1. 移除陣列左中括號後緊跟的逗號與空白
+
+        # (A) 開頭多餘逗號
+        repaired = re.sub(r'^\s*,+\s*', '', repaired)
+
+        # (B) 陣列開頭多逗號
         repaired = re.sub(r'\[\s*,+\s*', '[', repaired)
-        # 2. 將連續兩個或以上逗號壓成一個
+
+        # (C) 連續逗號
         repaired = re.sub(r',\s*,+', ',', repaired)
+
+        # (D) 冒號後缺值 -> null
+        repaired = re.sub(r':\s*(?=,|\}|\])', ': null', repaired)
+
+        # (E) 尾逗號（可選，常見）
+        repaired = re.sub(r',\s*]', ']', repaired)
+        repaired = re.sub(r',\s*}', '}', repaired)
+
         return repaired
+
     
     def _save_raw_response(self, career: str, content: str, status: str):
         """
@@ -135,7 +138,11 @@ class NCHUCourseCrawler:
             self.logger.info(f"開始爬取 {career_name} 課程資料...")
             
             # 發送請求
-            response = requests.get(url, timeout=30)
+            response = requests.get(
+                url,
+                timeout=30,
+            )
+
             response.raise_for_status()
             
             # 檢查回應內容
@@ -267,15 +274,7 @@ class NCHUCourseCrawler:
 def main():
     """主程式"""
     crawler = NCHUCourseCrawler()
-    
-    # 執行爬取任務
     results = crawler.crawl_all_careers()
-    
-    # # 檢查是否所有任務都成功
-    # if all(results.values()):
-    #     exit(0)  # 成功
-    # else:
-    #     exit(1)  # 部分或全部失敗
 
 
 if __name__ == "__main__":
