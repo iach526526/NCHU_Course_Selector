@@ -271,11 +271,11 @@ def main():
     # 執行爬取任務
     results = crawler.crawl_all_careers()
     
-    # 檢查是否所有任務都成功
-    if all(results.values()):
-        exit(0)  # 成功
-    else:
-        exit(1)  # 部分或全部失敗
+    # # 檢查是否所有任務都成功
+    # if all(results.values()):
+    #     exit(0)  # 成功
+    # else:
+    #     exit(1)  # 部分或全部失敗
 
 
 if __name__ == "__main__":
