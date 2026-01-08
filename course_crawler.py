@@ -5,13 +5,13 @@
 定期爬取各學制的課程資料並儲存為JSON格式
 """
 
-import requests
 import json
 import os
 import logging
 import re
-from typing import Dict, Optional
+from typing import Dict, Optional, Any
 import time
+import requests
 
 
 class NCHUCourseCrawler:
@@ -99,7 +99,7 @@ class NCHUCourseCrawler:
 
         return repaired
 
-    def _save_raw_response(self, career: str, content: str, status: str):
+    def _save_raw_response(self, career: str, content: str, status: str) -> None:
         """
         保存原始回應內容用於調試
 
@@ -108,19 +108,19 @@ class NCHUCourseCrawler:
             content: 原始內容
             status: 狀態標記
         """
+        # 使用固定檔名用於調試，不含時間戳記
+        filename = f"raw_{career}_{status}.txt"
+        filepath = os.path.join(self.data_dir, filename)
+
         try:
-            # 使用固定檔名用於調試，不含時間戳記
-            filename = f"raw_{career}_{status}.txt"
-            filepath = os.path.join(self.data_dir, filename)
+            with open(filepath, "w", encoding="utf-8") as file:
+                file.write(content)
+            self.logger.info("原始回應已保存至: %s", filepath)
+        except (OSError, UnicodeError) as exc:
+            # OSError: 路徑/權限/磁碟問題；UnicodeError: 編碼寫入問題
+            self.logger.error("保存原始回應失敗: %s", exc)
 
-            with open(filepath, "w", encoding="utf-8") as f:
-                f.write(content)
-
-            self.logger.info(f"原始回應已保存至: {filepath}")
-        except Exception as e:
-            self.logger.error(f"保存原始回應失敗: {e}")
-
-    def fetch_course_data(self, career: str) -> Optional[Dict]:
+    def fetch_course_data(self, career: str) -> Optional[Dict[str, Any]]:
         """
         爬取指定學制的課程資料
 
@@ -128,76 +128,64 @@ class NCHUCourseCrawler:
             career: 學制代碼 (U, O, N, W, G, D)
 
         Returns:
-            課程資料字典，失敗時回傳None
+            課程資料字典，失敗時回傳 None
         """
         url = f"{self.base_url}?p_career={career}"
         career_name = self.career_mapping.get(career, career)
 
         try:
-            self.logger.info(f"開始爬取 {career_name} 課程資料...")
+            self.logger.info("開始爬取 %s 課程資料...", career_name)
 
-            # 發送請求
-            response = requests.get(
-                url,
-                timeout=30,
-            )
+            response = requests.get(url, timeout=30)
+            response.raise_for_status()  # 4xx/5xx 直接丟 RequestException (HTTPError)
 
-            response.raise_for_status()
+            cleaned_text = self._clean_json_text(response.text)
 
-            # 檢查回應內容
-            if response.status_code == 200:
-                # 清理回應文本中的控制字符
-                cleaned_text = self._clean_json_text(response.text)
-
-                try:
-                    # 進一步修補常見破損再解析
-                    repaired_text = self._repair_common_corruption(cleaned_text)
-                    data = json.loads(repaired_text)
-                    self.logger.info(
-                        f"{career_name} 課程資料爬取成功，共 {len(data)} 筆資料"
-                    )
-                    return data
-                except json.JSONDecodeError as e:
-                    # 嘗試進階救援：只擷取最外層 { ... } 區段後再解析
-                    self.logger.warning(
-                        f"{career_name} 第一次解析失敗，嘗試進階救援: {e}"
-                    )
-                    brace_match = re.search(r"\{.*\}", cleaned_text, flags=re.S)
-                    if brace_match:
-                        rescue_text = brace_match.group(0)
-                        # 再次截斷到最後一個 '}'（避免結尾殘留）
-                        rescue_text = rescue_text[: rescue_text.rfind("}") + 1]
-                        try:
-                            data = json.loads(rescue_text)
-                            self.logger.info(
-                                f"{career_name} 課程資料救援成功，共 {len(data)} 筆資料"
-                            )
-                            return data
-                        except json.JSONDecodeError as e2:
-                            self.logger.error(f"{career_name} 進階救援仍失敗: {e2}")
-                    else:
-                        self.logger.error(f"{career_name} 無法找到可疑 JSON 主體以救援")
-
-                    # 保存原始回應以供調試
-                    self._save_raw_response(career, response.text, "failed")
-                    return None
-            else:
-                self.logger.error(
-                    f"{career_name} 課程資料爬取失敗，狀態碼: {response.status_code}"
+            try:
+                # 進一步修補常見破損再解析
+                repaired_text = self._repair_common_corruption(cleaned_text)
+                data: Dict[str, Any] = json.loads(repaired_text)
+                self.logger.info(
+                    "%s 課程資料爬取成功，共 %s 筆資料", career_name, len(data)
                 )
+                return data
+
+            except json.JSONDecodeError as exc:
+                # 嘗試進階救援：只擷取最外層 { ... } 區段後再解析
+                self.logger.warning(
+                    "%s 第一次解析失敗，嘗試進階救援: %s", career_name, exc
+                )
+
+                brace_match = re.search(r"\{.*\}", cleaned_text, flags=re.S)
+                if brace_match:
+                    rescue_text = brace_match.group(0)
+                    # 再次截斷到最後一個 '}'（避免結尾殘留）
+                    last_brace = rescue_text.rfind("}")
+                    if last_brace != -1:
+                        rescue_text = rescue_text[: last_brace + 1]
+
+                    try:
+                        data = json.loads(rescue_text)
+                        self.logger.info(
+                            "%s 課程資料救援成功，共 %s 筆資料", career_name, len(data)
+                        )
+                        return data
+                    except json.JSONDecodeError as exc2:
+                        self.logger.error("%s 進階救援仍失敗: %s", career_name, exc2)
+                else:
+                    self.logger.error("%s 無法找到可疑 JSON 主體以救援", career_name)
+
+                # 保存原始回應以供調試
+                self._save_raw_response(career, response.text, "failed")
                 return None
 
-        except requests.exceptions.RequestException as e:
-            self.logger.error(f"{career_name} 網路請求失敗: {e}")
+        except requests.exceptions.RequestException as exc:
+            self.logger.error("%s 網路請求失敗: %s", career_name, exc)
             return None
-        except json.JSONDecodeError as e:
-            self.logger.error(f"{career_name} JSON 解析失敗: {e}")
-            # 嘗試保存原始回應提供測試使用
-            if "response" in locals():
-                self._save_raw_response(career, response.text, "failed")
-            return None
-        except Exception as e:
-            self.logger.error(f"{career_name} 未預期錯誤: {e}")
+
+        except (ValueError, TypeError) as exc:
+            # 你的 clean/repair 或後續處理有可能丟 ValueError/TypeError（看你實作）
+            self.logger.error("%s 資料處理失敗: %s", career_name, exc)
             return None
 
     def save_course_data(self, career: str, data: Dict) -> bool:
@@ -220,11 +208,11 @@ class NCHUCourseCrawler:
             with open(filepath, "w", encoding="utf-8") as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)
 
-            self.logger.info(f"{career_name} 資料已儲存至: {filepath}")
+            self.logger.info("%s資料已儲存至:%s", career_name, filepath)
             return True
 
-        except Exception as e:
-            self.logger.error(f"儲存 {career_name} 資料失敗: {e}")
+        except (OSError, ValueError) as e:
+            self.logger.error("儲存 %s 資料失敗: %s", career_name, e)
             return False
 
     def crawl_all_careers(self) -> Dict[str, bool]:
@@ -234,13 +222,14 @@ class NCHUCourseCrawler:
         Returns:
             各學制爬取結果的字典
         """
-        results = {}
+        results: Dict[str, bool] = {}
 
-        self.logger.info("=" * 50)
-        self.logger.info("開始執行課程資料爬取任務")
-        self.logger.info("=" * 50)
+        self.logger.info("%s", "=" * 50)
+        self.logger.info("%s", "開始執行課程資料爬取任務")
+        self.logger.info("%s", "=" * 50)
 
-        for career in self.career_mapping.keys():
+        # 直接迭代 dict（不呼叫 .keys()）
+        for career in self.career_mapping.items():
             career_name = self.career_mapping[career]
 
             # 爬取資料
@@ -260,29 +249,29 @@ class NCHUCourseCrawler:
         self._print_summary(results)
         return results
 
-    def _print_summary(self, results: Dict[str, bool]):
+    def _print_summary(self, results: Dict[str, bool]) -> None:
         """輸出爬取結果摘要"""
-        self.logger.info("=" * 50)
-        self.logger.info("爬取任務執行完成")
-        self.logger.info("=" * 50)
+        self.logger.info("%s", "=" * 50)
+        self.logger.info("%s", "爬取任務執行完成")
+        self.logger.info("%s", "=" * 50)
 
         successful = sum(1 for success in results.values() if success)
         total = len(results)
 
-        self.logger.info(f"總計: {total} 個學制")
-        self.logger.info(f"成功: {successful} 個")
-        self.logger.info(f"失敗: {total - successful} 個")
+        self.logger.info("總計: %s 個學制", total)
+        self.logger.info("成功: %s 個", successful)
+        self.logger.info("失敗: %s 個", total - successful)
         self.logger.info("")
 
         for career_name, success in results.items():
             status = "✓ 成功" if success else "✗ 失敗"
-            self.logger.info(f"{career_name}: {status}")
+            self.logger.info("%s: %s", career_name, status)
 
 
 def main():
     """主程式"""
     crawler = NCHUCourseCrawler()
-    results = crawler.crawl_all_careers()
+    crawler.crawl_all_careers()
 
 
 if __name__ == "__main__":
