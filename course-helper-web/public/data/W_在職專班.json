@@ -260,45 +260,46 @@
     {
       "class": "6",
       "code": "7606",
-      "credits": "2",
-      "credits_parsed": 2,
-      "department": "法律學系碩士在職專班",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "高階經理人碩士在職專班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "法律學系碩士在職專班",
-      "hours": "2",
-      "hours_parsed": "2",
+      "for_dept": "高階經理人碩士在職專班",
+      "hours": "3",
+      "hours_parsed": "3",
       "intern_location": [
         ""
       ],
       "intern_time": "",
       "language": "中文",
       "location": [
-        "SC101"
+        "SC416"
       ],
-      "note": "",
-      "number": "60",
-      "number_parsed": 60,
+      "note": "核心",
+      "number": "25",
+      "number_parsed": 25,
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "李惠宗",
-      "time": "51011",
+      "professor": "謝焸君",
+      "time": "5111213",
       "time_parsed": [
         {
           "day": 5,
           "time": [
-            10,
-            11
+            11,
+            12,
+            13
           ]
         }
       ],
-      "title": "法學論文編輯與寫作 `LL.M. Thesis Writing Format and Citation",
+      "title": "營運管理c `Operations Management",
       "title_parsed": {
-        "en_US": "LL.M. Thesis Writing Format and Citation",
-        "zh_TW": "法學論文編輯與寫作"
+        "en_US": "Operations Management",
+        "zh_TW": "營運管理c"
       },
-      "url": "2696",
+      "url": "2821",
       "year": "半"
     },
     {
@@ -352,7 +353,7 @@
       "credits_parsed": 3,
       "department": "歷史學系碩士在職專班",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "1",
       "for_dept": "歷史學系碩士在職專班",
       "hours": "3",
       "hours_parsed": "3",
@@ -440,7 +441,7 @@
       "credits_parsed": 3,
       "department": "中國文學系碩士在職專班",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "10",
       "for_dept": "中國文學系碩士在職專班",
       "hours": "0",
       "hours_parsed": "0",
@@ -600,7 +601,7 @@
       "credits_parsed": 3,
       "department": "歷史學系碩士在職專班",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "9",
       "for_dept": "歷史學系碩士在職專班",
       "hours": "0",
       "hours_parsed": "0",
@@ -769,43 +770,7 @@
       "credits_parsed": 3,
       "department": "台灣文學與跨國文化研究所碩士在職專班",
       "discipline": "",
-      "enrolled_num": "0",
-      "for_dept": "no_data_foundno_data_found",
-      "hours": "0",
-      "hours_parsed": "0",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "*"
-      ],
-      "note": "",
-      "number": "100",
-      "number_parsed": 100,
-      "obligatory": "必修",
-      "obligatory_tf": true,
-      "prerequisite": "",
-      "professor": "全體教師",
-      "time": "*",
-      "time_parsed": [],
-      "title": "碩士論文 `Thesis",
-      "title_parsed": {
-        "en_US": "Thesis",
-        "zh_TW": "碩士論文"
-      },
-      "url": "2828",
-      "year": "全"
-    },
-    {
-      "class": "7",
-      "code": "7618",
-      "credits": "3",
-      "credits_parsed": 3,
-      "department": "台灣文學與跨國文化研究所碩士在職專班",
-      "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "13",
       "for_dept": "台灣文學與跨國文化研究所碩士在職專班",
       "hours": "0",
       "hours_parsed": "0",
@@ -832,6 +797,42 @@
         "zh_TW": "碩士論文"
       },
       "url": "5013",
+      "year": "全"
+    },
+    {
+      "class": "7",
+      "code": "7618",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "台灣文學與跨國文化研究所碩士在職專班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "",
+      "hours": "0",
+      "hours_parsed": "0",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "*"
+      ],
+      "note": "",
+      "number": "100",
+      "number_parsed": 100,
+      "obligatory": "必修",
+      "obligatory_tf": true,
+      "prerequisite": "",
+      "professor": "全體教師",
+      "time": "*",
+      "time_parsed": [],
+      "title": "碩士論文 `Thesis",
+      "title_parsed": {
+        "en_US": "Thesis",
+        "zh_TW": "碩士論文"
+      },
+      "url": "2828",
       "year": "全"
     },
     {
@@ -918,37 +919,46 @@
     {
       "class": "6",
       "code": "7621",
-      "credits": "2",
-      "credits_parsed": 2,
-      "department": "高階經理人碩士在職專班兩岸台商組",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "國際政治研究所碩士在職專班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "高階經理人碩士在職專班兩岸台商組",
-      "hours": "2",
-      "hours_parsed": "2",
+      "for_dept": "國際政治研究所碩士在職專班",
+      "hours": "3",
+      "hours_parsed": "3",
       "intern_location": [
         ""
       ],
       "intern_time": "",
       "language": "中文",
       "location": [
-        "*"
+        "SC931"
       ],
       "note": "",
-      "number": "0",
-      "number_parsed": 0,
-      "obligatory": "必修",
-      "obligatory_tf": true,
+      "number": "20",
+      "number_parsed": 20,
+      "obligatory": "選修",
+      "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "蔡明志",
-      "time": "*",
-      "time_parsed": [],
-      "title": "行銷策略與市場分析 `Marketing Strategy and Market Analysis",
+      "professor": "譚偉恩",
+      "time": "3101112",
+      "time_parsed": [
+        {
+          "day": 3,
+          "time": [
+            10,
+            11,
+            12
+          ]
+        }
+      ],
+      "title": "「碳」治理與國家安全 `The governance of Carbon Dioxide Removal and National Security",
       "title_parsed": {
-        "en_US": "Marketing Strategy and Market Analysis",
-        "zh_TW": "行銷策略與市場分析"
+        "en_US": "The governance of Carbon Dioxide Removal and National Security",
+        "zh_TW": "「碳」治理與國家安全"
       },
-      "url": "4911",
+      "url": "5134",
       "year": "半"
     },
     {
@@ -1129,7 +1139,7 @@
       "credits_parsed": 3,
       "department": "國際政治研究所碩士在職專班",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "17",
       "for_dept": "國際政治研究所碩士在職專班",
       "hours": "0",
       "hours_parsed": "0",
@@ -1508,51 +1518,6 @@
     },
     {
       "class": "6",
-      "code": "7635",
-      "credits": "3",
-      "credits_parsed": 3,
-      "department": "國際政治研究所碩士在職專班",
-      "discipline": "",
-      "enrolled_num": "0",
-      "for_dept": "國際政治研究所碩士在職專班",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "SC931"
-      ],
-      "note": "",
-      "number": "20",
-      "number_parsed": 20,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "譚偉恩",
-      "time": "3101112",
-      "time_parsed": [
-        {
-          "day": 3,
-          "time": [
-            10,
-            11,
-            12
-          ]
-        }
-      ],
-      "title": "國際合作與全球治理 `International Cooperation and Global Governance",
-      "title_parsed": {
-        "en_US": "International Cooperation and Global Governance",
-        "zh_TW": "國際合作與全球治理"
-      },
-      "url": "4211",
-      "year": "半"
-    },
-    {
-      "class": "6",
       "code": "7636",
       "credits": "2",
       "credits_parsed": 2,
@@ -1612,7 +1577,7 @@
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "陳啟垂",
+      "professor": "陳啓垂",
       "time": "21011",
       "time_parsed": [
         {
@@ -1638,7 +1603,7 @@
       "credits_parsed": 3,
       "department": "法律學系碩士在職專班",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "33",
       "for_dept": "法律學系碩士在職專班",
       "hours": "0",
       "hours_parsed": "0",
@@ -1728,7 +1693,7 @@
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "陳啟垂",
+      "professor": "陳啓垂",
       "time": "21213",
       "time_parsed": [
         {
@@ -1799,7 +1764,7 @@
       "credits_parsed": 3,
       "department": "高階經理人碩士在職專班",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "15",
       "for_dept": "高階經理人碩士在職專班",
       "hours": "0",
       "hours_parsed": "0",
@@ -2334,7 +2299,7 @@
       "obligatory": "必修",
       "obligatory_tf": true,
       "prerequisite": "",
-      "professor": "陳家彬",
+      "professor": "賴榮裕",
       "time": "68",
       "time_parsed": [
         {
@@ -2402,10 +2367,10 @@
       "code": "7656",
       "credits": "3",
       "credits_parsed": 3,
-      "department": "高階經理人中科碩士在職專班事業經營組",
+      "department": "",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "高階經理人中科碩士在職專班事業經營組",
+      "for_dept": "",
       "hours": "0",
       "hours_parsed": "0",
       "intern_location": [
@@ -2529,7 +2494,7 @@
       "credits_parsed": 3,
       "department": "高階經理人碩士在職專班",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "15",
       "for_dept": "高階經理人碩士在職專班",
       "hours": "0",
       "hours_parsed": "0",
@@ -2628,7 +2593,7 @@
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "喬友慶",
+      "professor": "蔡玫亭",
       "time": "*",
       "time_parsed": [],
       "title": "企業經營個案研討 `Case Studies of Business Management",
@@ -3047,7 +3012,7 @@
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "葉宗穎",
+      "professor": "董澍琦",
       "time": "2111213",
       "time_parsed": [
         {
@@ -3556,7 +3521,7 @@
       "credits_parsed": 3,
       "department": "資訊管理學系碩士在職專班",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "12",
       "for_dept": "資訊管理學系碩士在職專班",
       "hours": "0",
       "hours_parsed": "0",
@@ -3631,7 +3596,7 @@
       "year": "半"
     },
     {
-      "class": "6",
+      "class": "7",
       "code": "7685",
       "credits": "2",
       "credits_parsed": 2,
@@ -3860,7 +3825,7 @@
       "credits_parsed": 3,
       "department": "應用數學系大數據碩士在職專班",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "14",
       "for_dept": "應用數學系大數據碩士在職專班",
       "hours": "0",
       "hours_parsed": "0",
@@ -4247,7 +4212,7 @@
       "credits_parsed": 3,
       "department": "應用經濟學系碩士在職專班",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "5",
       "for_dept": "應用經濟學系碩士在職專班",
       "hours": "0",
       "hours_parsed": "0",
@@ -4405,14 +4370,14 @@
     {
       "class": "6",
       "code": "7703",
-      "credits": "3",
-      "credits_parsed": 3,
+      "credits": "2",
+      "credits_parsed": 2,
       "department": "食品暨應用生物科技學系碩士在職專班",
       "discipline": "",
       "enrolled_num": "0",
       "for_dept": "食品暨應用生物科技學系碩士在職專班",
-      "hours": "3",
-      "hours_parsed": "3",
+      "hours": "2",
+      "hours_parsed": "2",
       "intern_location": [
         ""
       ],
@@ -4516,6 +4481,51 @@
         "zh_TW": "水土保持特論"
       },
       "url": "5114",
+      "year": "半"
+    },
+    {
+      "class": "6",
+      "code": "7706",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "高階經理人碩士在職專班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "高階經理人碩士在職專班",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "SC416"
+      ],
+      "note": "共同",
+      "number": "20",
+      "number_parsed": 20,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "紀信義",
+      "time": "2111213",
+      "time_parsed": [
+        {
+          "day": 2,
+          "time": [
+            11,
+            12,
+            13
+          ]
+        }
+      ],
+      "title": "新創事業與財務策略管理a `Financial strategy Management in New Venture",
+      "title_parsed": {
+        "en_US": "Financial strategy Management in New Venture",
+        "zh_TW": "新創事業與財務策略管理a"
+      },
+      "url": "3428",
       "year": "半"
     },
     {
@@ -4939,7 +4949,7 @@
       "credits_parsed": 3,
       "department": "水土保持學系碩士在職專班",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "14",
       "for_dept": "水土保持學系碩士在職專班",
       "hours": "0",
       "hours_parsed": "0",
@@ -4993,7 +5003,7 @@
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "葉宗穎",
+      "professor": "董澍琦",
       "time": "*",
       "time_parsed": [],
       "title": "產業經濟學a `Economics of Industrial Organization",
@@ -5110,7 +5120,7 @@
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "林振祥",
+      "professor": "黃盟元",
       "time": "634",
       "time_parsed": [
         {
@@ -5121,12 +5131,12 @@
           ]
         }
       ],
-      "title": "植物組織培養 `Plant Tissue Culture",
+      "title": "高等生物學 `Advanced Biology",
       "title_parsed": {
-        "en_US": "Plant Tissue Culture",
-        "zh_TW": "植物組織培養"
+        "en_US": "Advanced Biology",
+        "zh_TW": "高等生物學"
       },
-      "url": "3724",
+      "url": "2588",
       "year": "半"
     },
     {
@@ -5242,7 +5252,7 @@
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "林月能",
+      "professor": "待聘",
       "time": "*",
       "time_parsed": [],
       "title": "企業風險管理 `Enterprise Risk Management",
@@ -5365,15 +5375,15 @@
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "鄭菲菲",
-      "time": "5111213",
+      "professor": "謝焸君",
+      "time": "6567",
       "time_parsed": [
         {
-          "day": 5,
+          "day": 6,
           "time": [
-            11,
-            12,
-            13
+            5,
+            6,
+            7
           ]
         }
       ],
@@ -5606,7 +5616,7 @@
       "credits_parsed": 3,
       "department": "食品暨應用生物科技學系碩士在職專班",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "18",
       "for_dept": "食品暨應用生物科技學系碩士在職專班",
       "hours": "0",
       "hours_parsed": "0",
@@ -6323,7 +6333,7 @@
       "credits_parsed": 3,
       "department": "生命科學院碩士在職專班",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "18",
       "for_dept": "生命科學院碩士在職專班",
       "hours": "0",
       "hours_parsed": "0",
@@ -6931,7 +6941,7 @@
       "credits_parsed": 3,
       "department": "科技管理研究所智慧科技管理班",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "5",
       "for_dept": "科技管理研究所智慧科技管理班",
       "hours": "0",
       "hours_parsed": "0",
@@ -7144,7 +7154,7 @@
       "credits_parsed": 3,
       "department": "資訊工程學系碩士在職專班",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "51",
       "for_dept": "資訊工程學系碩士在職專班",
       "hours": "0",
       "hours_parsed": "0",
@@ -7360,7 +7370,7 @@
       "credits_parsed": 3,
       "department": "機械工程學系碩士在職專班",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "38",
       "for_dept": "機械工程學系碩士在職專班",
       "hours": "0",
       "hours_parsed": "0",
@@ -7617,7 +7627,7 @@
       "credits_parsed": 3,
       "department": "土木工程學系碩士在職專班",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "30",
       "for_dept": "土木工程學系碩士在職專班",
       "hours": "0",
       "hours_parsed": "0",
@@ -7967,7 +7977,7 @@
       "credits_parsed": 3,
       "department": "高階經理人碩士在職專班兩岸台商組",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "5",
       "for_dept": "高階經理人碩士在職專班兩岸台商組",
       "hours": "0",
       "hours_parsed": "0",
@@ -8063,8 +8073,8 @@
       "note": "",
       "number": "50",
       "number_parsed": 50,
-      "obligatory": "選修",
-      "obligatory_tf": false,
+      "obligatory": "必修",
+      "obligatory_tf": true,
       "prerequisite": "",
       "professor": "潘競恒",
       "time": "3101112",
@@ -8093,7 +8103,7 @@
       "credits_parsed": 3,
       "department": "國家政策與公共事務研究所碩士在職專班",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "17",
       "for_dept": "國家政策與公共事務研究所碩士在職專班",
       "hours": "0",
       "hours_parsed": "0",
@@ -8283,10 +8293,10 @@
       "obligatory_tf": false,
       "prerequisite": "",
       "professor": "林伯雄",
-      "time": "11011",
+      "time": "31011",
       "time_parsed": [
         {
-          "day": 1,
+          "day": 3,
           "time": [
             10,
             11
@@ -8408,7 +8418,7 @@
       "intern_time": "",
       "language": "中文",
       "location": [
-        "C409"
+        "C407"
       ],
       "note": "",
       "number": "60",
@@ -8417,10 +8427,10 @@
       "obligatory_tf": true,
       "prerequisite": "",
       "professor": "何幸修",
-      "time": "2101112",
+      "time": "1101112",
       "time_parsed": [
         {
-          "day": 2,
+          "day": 1,
           "time": [
             10,
             11,
@@ -8503,8 +8513,8 @@
       "note": "",
       "number": "65",
       "number_parsed": 65,
-      "obligatory": "選修",
-      "obligatory_tf": false,
+      "obligatory": "必修",
+      "obligatory_tf": true,
       "prerequisite": "",
       "professor": "李長晏",
       "time": "6678",
@@ -8533,7 +8543,7 @@
       "credits_parsed": 3,
       "department": "環境工程學系碩士在職專班",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "36",
       "for_dept": "環境工程學系碩士在職專班",
       "hours": "0",
       "hours_parsed": "0",
@@ -8633,10 +8643,10 @@
       "obligatory_tf": true,
       "prerequisite": "",
       "professor": "林明德",
-      "time": "5101112",
+      "time": "2101112",
       "time_parsed": [
         {
-          "day": 5,
+          "day": 2,
           "time": [
             10,
             11,
@@ -8878,6 +8888,50 @@
       "year": "半"
     },
     {
+      "class": "7",
+      "code": "7917",
+      "credits": "2",
+      "credits_parsed": 2,
+      "department": "法律學系碩士在職專班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "法律學系碩士在職專班",
+      "hours": "2",
+      "hours_parsed": "2",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "SC732"
+      ],
+      "note": "",
+      "number": "20",
+      "number_parsed": 20,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "劉柏駿",
+      "time": "41011",
+      "time_parsed": [
+        {
+          "day": 4,
+          "time": [
+            10,
+            11
+          ]
+        }
+      ],
+      "title": "刑事法案例研究(二) `Seminar on Case Study of Criminal Law (II)",
+      "title_parsed": {
+        "en_US": "Seminar on Case Study of Criminal Law (II)",
+        "zh_TW": "刑事法案例研究(二)"
+      },
+      "url": "5388",
+      "year": "半"
+    },
+    {
       "class": "6",
       "code": "7918",
       "credits": "3",
@@ -9010,6 +9064,51 @@
         "zh_TW": "農產品加工學"
       },
       "url": "6171",
+      "year": "半"
+    },
+    {
+      "class": "6",
+      "code": "7921",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "精密工程研究所碩士在職專班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "精密工程研究所碩士在職專班",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "AT629"
+      ],
+      "note": "",
+      "number": "30",
+      "number_parsed": 30,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "林明澤",
+      "time": "3101112",
+      "time_parsed": [
+        {
+          "day": 3,
+          "time": [
+            10,
+            11,
+            12
+          ]
+        }
+      ],
+      "title": "微機電材料 `MEMS Materials",
+      "title_parsed": {
+        "en_US": "MEMS Materials",
+        "zh_TW": "微機電材料"
+      },
+      "url": "3264",
       "year": "半"
     },
     {
@@ -9154,7 +9253,7 @@
       "credits_parsed": 3,
       "department": "電機工程學系碩士在職專班",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "39",
       "for_dept": "電機工程學系碩士在職專班",
       "hours": "0",
       "hours_parsed": "0",
@@ -9190,7 +9289,7 @@
       "credits_parsed": 3,
       "department": "化學工程學系碩士在職專班",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "29",
       "for_dept": "化學工程學系碩士在職專班",
       "hours": "0",
       "hours_parsed": "0",
@@ -9405,7 +9504,7 @@
       "credits_parsed": 3,
       "department": "材料科學與工程學系碩士在職專班",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "45",
       "for_dept": "材料科學與工程學系碩士在職專班",
       "hours": "0",
       "hours_parsed": "0",
@@ -9538,7 +9637,7 @@
         ""
       ],
       "intern_time": "",
-      "language": "中文",
+      "language": "中/英文",
       "location": [
         "EE202"
       ],
@@ -9575,7 +9674,7 @@
       "credits_parsed": 3,
       "department": "精密工程研究所碩士在職專班",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "18",
       "for_dept": "精密工程研究所碩士在職專班",
       "hours": "0",
       "hours_parsed": "0",
@@ -9603,51 +9702,6 @@
       },
       "url": "5224",
       "year": "全"
-    },
-    {
-      "class": "6",
-      "code": "7938",
-      "credits": "3",
-      "credits_parsed": 3,
-      "department": "精密工程研究所碩士在職專班",
-      "discipline": "",
-      "enrolled_num": "0",
-      "for_dept": "精密工程研究所碩士在職專班",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "AT629"
-      ],
-      "note": "",
-      "number": "30",
-      "number_parsed": 30,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "林明澤",
-      "time": "3101112",
-      "time_parsed": [
-        {
-          "day": 3,
-          "time": [
-            10,
-            11,
-            12
-          ]
-        }
-      ],
-      "title": "高等精密量測科學與技術 `Advanced Precision Measurement Science and Technology",
-      "title_parsed": {
-        "en_US": "Advanced Precision Measurement Science and Technology",
-        "zh_TW": "高等精密量測科學與技術"
-      },
-      "url": "3264",
-      "year": "半"
     },
     {
       "class": "6",
@@ -10123,7 +10177,7 @@
       "credits_parsed": 3,
       "department": "農業企業經營管理碩士在職專班",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "26",
       "for_dept": "農業企業經營管理碩士在職專班",
       "hours": "0",
       "hours_parsed": "0",
@@ -10232,13 +10286,49 @@
       "year": "半"
     },
     {
+      "class": "6",
+      "code": "7961",
+      "credits": "2",
+      "credits_parsed": 2,
+      "department": "高階經理人碩士在職專班越南台商組",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "高階經理人碩士在職專班越南台商組",
+      "hours": "2",
+      "hours_parsed": "2",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "*"
+      ],
+      "note": "",
+      "number": "60",
+      "number_parsed": 60,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "蕭仁傑",
+      "time": "*",
+      "time_parsed": [],
+      "title": "企業危機管理 `Business Crisis Management",
+      "title_parsed": {
+        "en_US": "Business Crisis Management",
+        "zh_TW": "企業危機管理"
+      },
+      "url": "3408",
+      "year": "半"
+    },
+    {
       "class": "7",
       "code": "7962",
       "credits": "3",
       "credits_parsed": 3,
       "department": "高階經理人碩士在職專班越南台商組",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "2",
       "for_dept": "高階經理人碩士在職專班越南台商組",
       "hours": "0",
       "hours_parsed": "0",
@@ -10266,42 +10356,6 @@
       },
       "url": "4917",
       "year": "全"
-    },
-    {
-      "class": "6",
-      "code": "7963",
-      "credits": "2",
-      "credits_parsed": 2,
-      "department": "高階經理人碩士在職專班越南台商組",
-      "discipline": "",
-      "enrolled_num": "0",
-      "for_dept": "高階經理人碩士在職專班越南台商組",
-      "hours": "2",
-      "hours_parsed": "2",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "*"
-      ],
-      "note": "",
-      "number": "60",
-      "number_parsed": 60,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "莊智薰",
-      "time": "*",
-      "time_parsed": [],
-      "title": "跨境人力資源管理 `Cross-Border Human Resource Management",
-      "title_parsed": {
-        "en_US": "Cross-Border Human Resource Management",
-        "zh_TW": "跨境人力資源管理"
-      },
-      "url": "4925",
-      "year": "半"
     },
     {
       "class": "6",
@@ -10430,7 +10484,7 @@
       "year": "半"
     },
     {
-      "class": "6",
+      "class": "7",
       "code": "7969",
       "credits": "2",
       "credits_parsed": 2,
@@ -10538,12 +10592,12 @@
         "C103"
       ],
       "note": "",
-      "number": "60",
-      "number_parsed": 60,
+      "number": "30",
+      "number_parsed": 30,
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "張惠雲",
+      "professor": "林樹根",
       "time": "4101112",
       "time_parsed": [
         {
@@ -10555,10 +10609,10 @@
           ]
         }
       ],
-      "title": "結構分析理論 `Computer-Assisted Structural Analysis and Modeling",
+      "title": "鋼筋輕質混凝土 `Reinforced Light weight Concrete",
       "title_parsed": {
-        "en_US": "Computer-Assisted Structural Analysis and Modeling",
-        "zh_TW": "結構分析理論"
+        "en_US": "Reinforced Light weight Concrete",
+        "zh_TW": "鋼筋輕質混凝土"
       },
       "url": "3240",
       "year": "半"
@@ -10615,7 +10669,7 @@
       "credits_parsed": 3,
       "department": "人工智慧與資料科學碩士在職學位學程",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "35",
       "for_dept": "人工智慧與資料科學碩士在職學位學程",
       "hours": "0",
       "hours_parsed": "0",

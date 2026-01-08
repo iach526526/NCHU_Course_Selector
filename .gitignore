@@ -1,73 +1,32 @@
-# Dependencies
+# Simplified .gitignore for this repository
+
+# Node deps
 node_modules/
 npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+package-lock.json
 
-# Production builds
-course-helper-web/out/
+# Build outputs
+out/
 course-helper-web/.next/
-course-helper-web/dist/
+course-helper-web/out/
 
-# Environment variables
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+# Environment files (靜態網站不需要)
+.env*
+!.env.example
 
-# Logs
+# Logs and caches
 logs/
 *.log
-
-# Runtime data
-pids
-*.pid
-*.seed
-*.pid.lock
-
-# Cache
 .cache/
-course-helper-web/.next/cache/
+*.tsbuildinfo
 
-# macOS
+# macOS / Editor
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-
-# IDE
+**/.DS_Store
 .vscode/
 .idea/
-*.swp
-*.swo
 
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-/lib/
-/lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-
-# Keep data files (these should be committed)
+# Keep course data JSON files in repo
 !course-helper-web/public/data/*.json
 *.pem
 .DS_Store
