@@ -229,9 +229,7 @@ class NCHUCourseCrawler:
         self.logger.info("%s", "=" * 50)
 
         # 直接迭代 dict（不呼叫 .keys()）
-        for career in self.career_mapping.items():
-            career_name = self.career_mapping[career]
-
+        for career, career_name in self.career_mapping.items():
             # 爬取資料
             data = self.fetch_course_data(career)
 
@@ -244,6 +242,7 @@ class NCHUCourseCrawler:
 
             # 避免對伺服器造成過大負擔
             time.sleep(2)
+
 
         # 輸出結果摘要
         self._print_summary(results)
