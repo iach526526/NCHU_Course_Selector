@@ -7705,7 +7705,7 @@
       "obligatory": "必修",
       "obligatory_tf": true,
       "prerequisite": "",
-      "professor": "陳正龍",
+      "professor": "橋本哲也",
       "time": "56",
       "time_parsed": [
         {
@@ -12150,7 +12150,7 @@
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "潘怡君",
+      "professor": "陳昶霖",
       "time": "3234",
       "time_parsed": [
         {
@@ -27718,7 +27718,7 @@
       "obligatory_tf": true,
       "prerequisite": "",
       "professor": "張功耀",
-      "time": "12",
+      "time": "1234",
       "time_parsed": [
         {
           "day": 1,
@@ -43644,10 +43644,10 @@
       "obligatory_tf": false,
       "prerequisite": "",
       "professor": "柳婉郁",
-      "time": "2234",
+      "time": "1234",
       "time_parsed": [
         {
-          "day": 2,
+          "day": 1,
           "time": [
             2,
             3,
@@ -60103,7 +60103,7 @@
       "obligatory": "必修",
       "obligatory_tf": true,
       "prerequisite": "",
-      "professor": "橋本哲也",
+      "professor": "陳坤麟",
       "time": "55",
       "time_parsed": [
         {
@@ -60147,7 +60147,7 @@
       "obligatory_tf": true,
       "prerequisite": "",
       "professor": "張功耀",
-      "time": "12",
+      "time": "1234",
       "time_parsed": [
         {
           "day": 1,
