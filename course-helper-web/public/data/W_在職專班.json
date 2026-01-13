@@ -955,7 +955,7 @@
       "obligatory": "必修",
       "obligatory_tf": true,
       "prerequisite": "",
-      "professor": "董澍琦",
+      "professor": "李超雄",
       "time": "*",
       "time_parsed": [],
       "title": "投資與風險管理 `Investment and Risk",
@@ -7650,10 +7650,10 @@
       "obligatory_tf": true,
       "prerequisite": "",
       "professor": "林坤儀",
-      "time": "4101112",
+      "time": "2101112",
       "time_parsed": [
         {
-          "day": 4,
+          "day": 2,
           "time": [
             10,
             11,
