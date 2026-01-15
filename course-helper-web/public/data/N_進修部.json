@@ -3938,7 +3938,7 @@
       "credits_parsed": 2,
       "department": "數位人文與文創產業進修學士學位學程",
       "discipline": "",
-      "enrolled_num": "26",
+      "enrolled_num": "25",
       "for_dept": "數位人文與文創產業進修學士學位學程",
       "hours": "2",
       "hours_parsed": "2",
@@ -3982,7 +3982,7 @@
       "credits_parsed": 2,
       "department": "數位人文與文創產業進修學士學位學程",
       "discipline": "",
-      "enrolled_num": "26",
+      "enrolled_num": "25",
       "for_dept": "數位人文與文創產業進修學士學位學程",
       "hours": "2",
       "hours_parsed": "2",
@@ -4070,7 +4070,7 @@
       "credits_parsed": 2,
       "department": "數位人文與文創產業進修學士學位學程",
       "discipline": "",
-      "enrolled_num": "26",
+      "enrolled_num": "25",
       "for_dept": "數位人文與文創產業進修學士學位學程",
       "hours": "2",
       "hours_parsed": "2",
@@ -4114,7 +4114,7 @@
       "credits_parsed": 2,
       "department": "數位人文與文創產業進修學士學位學程",
       "discipline": "",
-      "enrolled_num": "26",
+      "enrolled_num": "25",
       "for_dept": "數位人文與文創產業進修學士學位學程",
       "hours": "2",
       "hours_parsed": "2",
@@ -4158,7 +4158,7 @@
       "credits_parsed": 2,
       "department": "數位人文與文創產業進修學士學位學程",
       "discipline": "",
-      "enrolled_num": "26",
+      "enrolled_num": "25",
       "for_dept": "數位人文與文創產業進修學士學位學程",
       "hours": "2",
       "hours_parsed": "2",
@@ -4962,7 +4962,7 @@
         ""
       ],
       "intern_time": "",
-      "language": "中文",
+      "language": "英文",
       "location": [
         "Y403"
       ],
@@ -5529,6 +5529,51 @@
     },
     {
       "class": "3",
+      "code": "3530",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "生物產業管理進修學士學位學程",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "生物產業管理進修學士學位學程",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "Y605"
+      ],
+      "note": "",
+      "number": "30",
+      "number_parsed": 30,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "楊上禾",
+      "time": "1101112",
+      "time_parsed": [
+        {
+          "day": 1,
+          "time": [
+            10,
+            11,
+            12
+          ]
+        }
+      ],
+      "title": "台灣新式調茶-茶遊世界 `Taiwan's Creative Tea Mocktail and Take Tea To The World",
+      "title_parsed": {
+        "en_US": "Taiwan's Creative Tea Mocktail and Take Tea To The World",
+        "zh_TW": "台灣新式調茶-茶遊世界"
+      },
+      "url": "4059",
+      "year": "半"
+    },
+    {
+      "class": "3",
       "code": "3532",
       "credits": "3",
       "credits_parsed": 3,
@@ -5970,51 +6015,6 @@
       "year": "半"
     },
     {
-      "class": "3",
-      "code": "3551",
-      "credits": "3",
-      "credits_parsed": 3,
-      "department": "創新產業經營進修學士學位學程",
-      "discipline": "",
-      "enrolled_num": "0",
-      "for_dept": "創新產業經營進修學士學位學程",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "Y313"
-      ],
-      "note": "",
-      "number": "50",
-      "number_parsed": 50,
-      "obligatory": "必修",
-      "obligatory_tf": true,
-      "prerequisite": "",
-      "professor": "黃瑞庭",
-      "time": "3111213",
-      "time_parsed": [
-        {
-          "day": 3,
-          "time": [
-            11,
-            12,
-            13
-          ]
-        }
-      ],
-      "title": "人力資源管理 `Human Resource Management",
-      "title_parsed": {
-        "en_US": "Human Resource Management",
-        "zh_TW": "人力資源管理"
-      },
-      "url": "5214",
-      "year": "半"
-    },
-    {
       "class": "4",
       "code": "3551",
       "credits": "3",
@@ -6057,6 +6057,51 @@
         "zh_TW": "人力資源管理A"
       },
       "url": "4297",
+      "year": "半"
+    },
+    {
+      "class": "3",
+      "code": "3551",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "創新產業經營進修學士學位學程",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "創新產業經營進修學士學位學程",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "Y313"
+      ],
+      "note": "",
+      "number": "50",
+      "number_parsed": 50,
+      "obligatory": "必修",
+      "obligatory_tf": true,
+      "prerequisite": "",
+      "professor": "黃瑞庭",
+      "time": "3111213",
+      "time_parsed": [
+        {
+          "day": 3,
+          "time": [
+            11,
+            12,
+            13
+          ]
+        }
+      ],
+      "title": "人力資源管理 `Human Resource Management",
+      "title_parsed": {
+        "en_US": "Human Resource Management",
+        "zh_TW": "人力資源管理"
+      },
+      "url": "5214",
       "year": "半"
     },
     {
@@ -7844,7 +7889,7 @@
         ""
       ],
       "intern_time": "",
-      "language": "中/英文",
+      "language": "英文",
       "location": [
         "Y208"
       ],
