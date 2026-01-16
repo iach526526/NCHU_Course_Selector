@@ -1896,7 +1896,7 @@
       "location": [
         "*"
       ],
-      "note": "密集課程",
+      "note": "密集課程 ",
       "number": "25",
       "number_parsed": 25,
       "obligatory": "選修",
@@ -1932,7 +1932,7 @@
       "location": [
         "*"
       ],
-      "note": "密集課程",
+      "note": "密集課程 ",
       "number": "25",
       "number_parsed": 25,
       "obligatory": "選修",
@@ -14240,50 +14240,6 @@
       "department": "植物病理學系碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "植物保健碩士學位學程",
-      "hours": "2",
-      "hours_parsed": "2",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "R6B09"
-      ],
-      "note": "",
-      "number": "30",
-      "number_parsed": 30,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "黃姿碧",
-      "time": "534",
-      "time_parsed": [
-        {
-          "day": 5,
-          "time": [
-            3,
-            4
-          ]
-        }
-      ],
-      "title": "微生物訊息傳遞機制與生理機能調控 `Microbial Communication – Mechanisms and Regulation of Physiological",
-      "title_parsed": {
-        "en_US": "Microbial Communication – Mechanisms and Regulation of Physiological",
-        "zh_TW": "微生物訊息傳遞機制與生理機能調控"
-      },
-      "url": "5605",
-      "year": "全"
-    },
-    {
-      "class": "6",
-      "code": "6216",
-      "credits": "2",
-      "credits_parsed": 2,
-      "department": "植物病理學系碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
       "for_dept": "植物病理學系碩士班",
       "hours": "2",
       "hours_parsed": "2",
@@ -14318,6 +14274,50 @@
         "zh_TW": "微生物訊息傳遞機制與生理機能調控"
       },
       "url": "2068",
+      "year": "全"
+    },
+    {
+      "class": "6",
+      "code": "6216",
+      "credits": "2",
+      "credits_parsed": 2,
+      "department": "植物病理學系碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "植物保健碩士學位學程",
+      "hours": "2",
+      "hours_parsed": "2",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "R6B09"
+      ],
+      "note": "",
+      "number": "30",
+      "number_parsed": 30,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "黃姿碧",
+      "time": "534",
+      "time_parsed": [
+        {
+          "day": 5,
+          "time": [
+            3,
+            4
+          ]
+        }
+      ],
+      "title": "微生物訊息傳遞機制與生理機能調控 `Microbial Communication – Mechanisms and Regulation of Physiological",
+      "title_parsed": {
+        "en_US": "Microbial Communication – Mechanisms and Regulation of Physiological",
+        "zh_TW": "微生物訊息傳遞機制與生理機能調控"
+      },
+      "url": "5605",
       "year": "全"
     },
     {
@@ -15069,50 +15069,6 @@
       "year": "全"
     },
     {
-      "class": "8",
-      "code": "6239",
-      "credits": "1",
-      "credits_parsed": 1,
-      "department": "昆蟲學系碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
-      "for_dept": "昆蟲學系博士班",
-      "hours": "2",
-      "hours_parsed": "2",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "EC9C03"
-      ],
-      "note": "",
-      "number": "6",
-      "number_parsed": 6,
-      "obligatory": "必修",
-      "obligatory_tf": true,
-      "prerequisite": "",
-      "professor": "陳美娥",
-      "time": "312",
-      "time_parsed": [
-        {
-          "day": 3,
-          "time": [
-            1,
-            2
-          ]
-        }
-      ],
-      "title": "專題討論(七) `Seminar(VII)",
-      "title_parsed": {
-        "en_US": "Seminar(VII)",
-        "zh_TW": "專題討論(七)"
-      },
-      "url": "3465",
-      "year": "半"
-    },
-    {
       "class": "6",
       "code": "6239",
       "credits": "1",
@@ -15154,6 +15110,50 @@
         "zh_TW": "專題討論(七)"
       },
       "url": "3466",
+      "year": "半"
+    },
+    {
+      "class": "8",
+      "code": "6239",
+      "credits": "1",
+      "credits_parsed": 1,
+      "department": "昆蟲學系碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "昆蟲學系博士班",
+      "hours": "2",
+      "hours_parsed": "2",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "EC9C03"
+      ],
+      "note": "",
+      "number": "6",
+      "number_parsed": 6,
+      "obligatory": "必修",
+      "obligatory_tf": true,
+      "prerequisite": "",
+      "professor": "陳美娥",
+      "time": "312",
+      "time_parsed": [
+        {
+          "day": 3,
+          "time": [
+            1,
+            2
+          ]
+        }
+      ],
+      "title": "專題討論(七) `Seminar(VII)",
+      "title_parsed": {
+        "en_US": "Seminar(VII)",
+        "zh_TW": "專題討論(七)"
+      },
+      "url": "3465",
       "year": "半"
     },
     {
@@ -15568,50 +15568,6 @@
       "year": "半"
     },
     {
-      "class": "8",
-      "code": "6247",
-      "credits": "1",
-      "credits_parsed": 1,
-      "department": "昆蟲學系碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
-      "for_dept": "昆蟲學系博士班",
-      "hours": "2",
-      "hours_parsed": "2",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中/英文",
-      "location": [
-        "EC7D09"
-      ],
-      "note": "使用全英文課綱、教材與評量方式Syllabus, teaching materials and assessment methods are all in english",
-      "number": "30",
-      "number_parsed": 30,
-      "obligatory": "必修",
-      "obligatory_tf": true,
-      "prerequisite": "",
-      "professor": "郭美華",
-      "time": "334",
-      "time_parsed": [
-        {
-          "day": 3,
-          "time": [
-            3,
-            4
-          ]
-        }
-      ],
-      "title": "專題演講(二) `Seminar(II)",
-      "title_parsed": {
-        "en_US": "Seminar(II)",
-        "zh_TW": "專題演講(二)"
-      },
-      "url": "3405",
-      "year": "半"
-    },
-    {
       "class": "6",
       "code": "6247",
       "credits": "1",
@@ -15653,6 +15609,50 @@
         "zh_TW": "專題演講(二)"
       },
       "url": "5244",
+      "year": "半"
+    },
+    {
+      "class": "8",
+      "code": "6247",
+      "credits": "1",
+      "credits_parsed": 1,
+      "department": "昆蟲學系碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "昆蟲學系博士班",
+      "hours": "2",
+      "hours_parsed": "2",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中/英文",
+      "location": [
+        "EC7D09"
+      ],
+      "note": "使用全英文課綱、教材與評量方式Syllabus, teaching materials and assessment methods are all in english",
+      "number": "30",
+      "number_parsed": 30,
+      "obligatory": "必修",
+      "obligatory_tf": true,
+      "prerequisite": "",
+      "professor": "郭美華",
+      "time": "334",
+      "time_parsed": [
+        {
+          "day": 3,
+          "time": [
+            3,
+            4
+          ]
+        }
+      ],
+      "title": "專題演講(二) `Seminar(II)",
+      "title_parsed": {
+        "en_US": "Seminar(II)",
+        "zh_TW": "專題演講(二)"
+      },
+      "url": "3405",
       "year": "半"
     },
     {
@@ -16420,7 +16420,7 @@
       "department": "獸醫學系碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "獸醫學系碩士班",
+      "for_dept": "獸醫病理生物學研究所碩士班",
       "hours": "2",
       "hours_parsed": "2",
       "intern_location": [
@@ -16453,7 +16453,7 @@
         "en_US": "Avian Pathology",
         "zh_TW": "家禽病理學*"
       },
-      "url": "3498",
+      "url": "3500",
       "year": "半"
     },
     {
@@ -16508,7 +16508,7 @@
       "department": "獸醫學系碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "獸醫病理生物學研究所碩士班",
+      "for_dept": "獸醫學系碩士班",
       "hours": "2",
       "hours_parsed": "2",
       "intern_location": [
@@ -16541,7 +16541,7 @@
         "en_US": "Avian Pathology",
         "zh_TW": "家禽病理學*"
       },
-      "url": "3500",
+      "url": "3498",
       "year": "半"
     },
     {
@@ -16756,42 +16756,6 @@
       "department": "獸醫學系碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "微生物暨公共衛生學研究所碩士班",
-      "hours": "1",
-      "hours_parsed": "1",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "英文",
-      "location": [
-        "*"
-      ],
-      "note": "上課時間另定，請洽開課單位。",
-      "number": "30",
-      "number_parsed": 30,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "王之仰",
-      "time": "*",
-      "time_parsed": [],
-      "title": "動物病毒學文獻探討(一)* `Seminar on Animal Virology (I)",
-      "title_parsed": {
-        "en_US": "Seminar on Animal Virology (I)",
-        "zh_TW": "動物病毒學文獻探討(一)*"
-      },
-      "url": "3505",
-      "year": "全"
-    },
-    {
-      "class": "6",
-      "code": "6279",
-      "credits": "1",
-      "credits_parsed": 1,
-      "department": "獸醫學系碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
       "for_dept": "獸醫學系碩士班",
       "hours": "1",
       "hours_parsed": "1",
@@ -16818,6 +16782,42 @@
         "zh_TW": "動物病毒學文獻探討(一)*"
       },
       "url": "3504",
+      "year": "全"
+    },
+    {
+      "class": "6",
+      "code": "6279",
+      "credits": "1",
+      "credits_parsed": 1,
+      "department": "獸醫學系碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "微生物暨公共衛生學研究所碩士班",
+      "hours": "1",
+      "hours_parsed": "1",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "英文",
+      "location": [
+        "*"
+      ],
+      "note": "上課時間另定，請洽開課單位。",
+      "number": "30",
+      "number_parsed": 30,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "王之仰",
+      "time": "*",
+      "time_parsed": [],
+      "title": "動物病毒學文獻探討(一)* `Seminar on Animal Virology (I)",
+      "title_parsed": {
+        "en_US": "Seminar on Animal Virology (I)",
+        "zh_TW": "動物病毒學文獻探討(一)*"
+      },
+      "url": "3505",
       "year": "全"
     },
     {
@@ -22177,54 +22177,6 @@
       "department": "微生物暨公共衛生學研究所碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "獸醫病理生物學研究所碩士班",
-      "hours": "0",
-      "hours_parsed": "0",
-      "intern_location": [
-        "QB708"
-      ],
-      "intern_time": "1123567",
-      "language": "中文",
-      "location": [
-        ""
-      ],
-      "note": "",
-      "number": "30",
-      "number_parsed": 30,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "黃千衿",
-      "time": "1123567",
-      "time_parsed": [
-        {
-          "day": 1,
-          "time": [
-            1,
-            2,
-            3,
-            5,
-            6,
-            7
-          ]
-        }
-      ],
-      "title": "單源抗體技術學* `Monoclonal Antibody Techniques",
-      "title_parsed": {
-        "en_US": "Monoclonal Antibody Techniques",
-        "zh_TW": "單源抗體技術學*"
-      },
-      "url": "3507",
-      "year": "半"
-    },
-    {
-      "class": "6",
-      "code": "6486",
-      "credits": "2",
-      "credits_parsed": 2,
-      "department": "微生物暨公共衛生學研究所碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
       "for_dept": "微生物暨公共衛生學研究所碩士班",
       "hours": "0",
       "hours_parsed": "0",
@@ -22263,6 +22215,54 @@
         "zh_TW": "單源抗體技術學*"
       },
       "url": "2294",
+      "year": "半"
+    },
+    {
+      "class": "6",
+      "code": "6486",
+      "credits": "2",
+      "credits_parsed": 2,
+      "department": "微生物暨公共衛生學研究所碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "獸醫病理生物學研究所碩士班",
+      "hours": "0",
+      "hours_parsed": "0",
+      "intern_location": [
+        "QB708"
+      ],
+      "intern_time": "1123567",
+      "language": "中文",
+      "location": [
+        ""
+      ],
+      "note": "",
+      "number": "30",
+      "number_parsed": 30,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "黃千衿",
+      "time": "1123567",
+      "time_parsed": [
+        {
+          "day": 1,
+          "time": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7
+          ]
+        }
+      ],
+      "title": "單源抗體技術學* `Monoclonal Antibody Techniques",
+      "title_parsed": {
+        "en_US": "Monoclonal Antibody Techniques",
+        "zh_TW": "單源抗體技術學*"
+      },
+      "url": "3507",
       "year": "半"
     },
     {
@@ -24684,7 +24684,7 @@
         ""
       ],
       "intern_time": "",
-      "language": "中文",
+      "language": "英文",
       "location": [
         "*"
       ],
@@ -32643,7 +32643,7 @@
       "department": "電機工程學系碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "電機工程學系碩士班",
+      "for_dept": "電機工程學系電子系統產業碩士專班",
       "hours": "",
       "hours_parsed": "",
       "intern_location": [
@@ -32655,8 +32655,8 @@
         ""
       ],
       "note": "",
-      "number": "50",
-      "number_parsed": 50,
+      "number": "7",
+      "number_parsed": 7,
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
@@ -32678,7 +32678,7 @@
         "en_US": "Lab in Measurement of Semiconductor Devices",
         "zh_TW": "半導體元件量測實驗"
       },
-      "url": "4750",
+      "url": "5100",
       "year": "半"
     },
     {
@@ -32735,7 +32735,7 @@
       "department": "電機工程學系碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "電機工程學系電子系統產業碩士專班",
+      "for_dept": "電機工程學系碩士班",
       "hours": "",
       "hours_parsed": "",
       "intern_location": [
@@ -32747,8 +32747,8 @@
         ""
       ],
       "note": "",
-      "number": "7",
-      "number_parsed": 7,
+      "number": "50",
+      "number_parsed": 50,
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
@@ -32770,52 +32770,7 @@
         "en_US": "Lab in Measurement of Semiconductor Devices",
         "zh_TW": "半導體元件量測實驗"
       },
-      "url": "5100",
-      "year": "半"
-    },
-    {
-      "class": "6",
-      "code": "6802",
-      "credits": "3",
-      "credits_parsed": 3,
-      "department": "電機工程學系碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
-      "for_dept": "電機工程學系碩士班",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "EE202"
-      ],
-      "note": "",
-      "number": "50",
-      "number_parsed": 50,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "吳崇賓",
-      "time": "3678",
-      "time_parsed": [
-        {
-          "day": 3,
-          "time": [
-            6,
-            7,
-            8
-          ]
-        }
-      ],
-      "title": "系統晶片整合設計實驗 `Lab in System-on-Chip Integrated Design",
-      "title_parsed": {
-        "en_US": "Lab in System-on-Chip Integrated Design",
-        "zh_TW": "系統晶片整合設計實驗"
-      },
-      "url": "3988",
+      "url": "4750",
       "year": "半"
     },
     {
@@ -32861,6 +32816,51 @@
         "zh_TW": "系統晶片整合設計實驗"
       },
       "url": "5674",
+      "year": "半"
+    },
+    {
+      "class": "6",
+      "code": "6802",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "電機工程學系碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "電機工程學系碩士班",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "EE202"
+      ],
+      "note": "",
+      "number": "50",
+      "number_parsed": 50,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "吳崇賓",
+      "time": "3678",
+      "time_parsed": [
+        {
+          "day": 3,
+          "time": [
+            6,
+            7,
+            8
+          ]
+        }
+      ],
+      "title": "系統晶片整合設計實驗 `Lab in System-on-Chip Integrated Design",
+      "title_parsed": {
+        "en_US": "Lab in System-on-Chip Integrated Design",
+        "zh_TW": "系統晶片整合設計實驗"
+      },
+      "url": "3988",
       "year": "半"
     },
     {
@@ -32961,51 +32961,6 @@
       "department": "電機工程學系碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "電機工程學系碩士班",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "EE208"
-      ],
-      "note": "",
-      "number": "30",
-      "number_parsed": 30,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "賴聰賢",
-      "time": "2567",
-      "time_parsed": [
-        {
-          "day": 2,
-          "time": [
-            5,
-            6,
-            7
-          ]
-        }
-      ],
-      "title": "固態物理 `Solid State Physics",
-      "title_parsed": {
-        "en_US": "Solid State Physics",
-        "zh_TW": "固態物理"
-      },
-      "url": "2501",
-      "year": "半"
-    },
-    {
-      "class": "6",
-      "code": "6805",
-      "credits": "3",
-      "credits_parsed": 3,
-      "department": "電機工程學系碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
       "for_dept": "電機工程學系電子系統產業碩士專班",
       "hours": "3",
       "hours_parsed": "3",
@@ -33041,6 +32996,51 @@
         "zh_TW": "固態物理"
       },
       "url": "5144",
+      "year": "半"
+    },
+    {
+      "class": "6",
+      "code": "6805",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "電機工程學系碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "電機工程學系碩士班",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "EE208"
+      ],
+      "note": "",
+      "number": "30",
+      "number_parsed": 30,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "賴聰賢",
+      "time": "2567",
+      "time_parsed": [
+        {
+          "day": 2,
+          "time": [
+            5,
+            6,
+            7
+          ]
+        }
+      ],
+      "title": "固態物理 `Solid State Physics",
+      "title_parsed": {
+        "en_US": "Solid State Physics",
+        "zh_TW": "固態物理"
+      },
+      "url": "2501",
       "year": "半"
     },
     {
@@ -33231,51 +33231,6 @@
       "department": "化學工程學系碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "化學工程學系化工系產業碩士專班",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "CE301"
-      ],
-      "note": "",
-      "number": "5",
-      "number_parsed": 5,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "林慶炫",
-      "time": "1234",
-      "time_parsed": [
-        {
-          "day": 1,
-          "time": [
-            2,
-            3,
-            4
-          ]
-        }
-      ],
-      "title": "綠色化學及技術 `Green Chemistry and Technology",
-      "title_parsed": {
-        "en_US": "Green Chemistry and Technology",
-        "zh_TW": "綠色化學及技術"
-      },
-      "url": "5727",
-      "year": "半"
-    },
-    {
-      "class": "6",
-      "code": "6809",
-      "credits": "3",
-      "credits_parsed": 3,
-      "department": "化學工程學系碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
       "for_dept": "化學工程學系碩士班",
       "hours": "3",
       "hours_parsed": "3",
@@ -33315,13 +33270,13 @@
     },
     {
       "class": "6",
-      "code": "6810",
+      "code": "6809",
       "credits": "3",
       "credits_parsed": 3,
-      "department": "電機工程學系碩士班",
+      "department": "化學工程學系碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "電機工程學系智慧電動車及綠能科技產業碩士專班",
+      "for_dept": "化學工程學系化工系產業碩士專班",
       "hours": "3",
       "hours_parsed": "3",
       "intern_location": [
@@ -33330,19 +33285,19 @@
       "intern_time": "",
       "language": "中文",
       "location": [
-        "EE507"
+        "CE301"
       ],
       "note": "",
-      "number": "14",
-      "number_parsed": 14,
+      "number": "5",
+      "number_parsed": 5,
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "沈玉如",
-      "time": "4234",
+      "professor": "林慶炫",
+      "time": "1234",
       "time_parsed": [
         {
-          "day": 4,
+          "day": 1,
           "time": [
             2,
             3,
@@ -33350,12 +33305,12 @@
           ]
         }
       ],
-      "title": "智慧電能監控系統專題 `Special Topics in Intelligent Energy Monitor",
+      "title": "綠色化學及技術 `Green Chemistry and Technology",
       "title_parsed": {
-        "en_US": "Special Topics in Intelligent Energy Monitor",
-        "zh_TW": "智慧電能監控系統專題"
+        "en_US": "Green Chemistry and Technology",
+        "zh_TW": "綠色化學及技術"
       },
-      "url": "5728",
+      "url": "5727",
       "year": "半"
     },
     {
@@ -33401,6 +33356,51 @@
         "zh_TW": "智慧電能監控系統專題"
       },
       "url": "3566",
+      "year": "半"
+    },
+    {
+      "class": "6",
+      "code": "6810",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "電機工程學系碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "電機工程學系智慧電動車及綠能科技產業碩士專班",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "EE507"
+      ],
+      "note": "",
+      "number": "14",
+      "number_parsed": 14,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "沈玉如",
+      "time": "4234",
+      "time_parsed": [
+        {
+          "day": 4,
+          "time": [
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "title": "智慧電能監控系統專題 `Special Topics in Intelligent Energy Monitor",
+      "title_parsed": {
+        "en_US": "Special Topics in Intelligent Energy Monitor",
+        "zh_TW": "智慧電能監控系統專題"
+      },
+      "url": "5728",
       "year": "半"
     },
     {
@@ -33636,51 +33636,6 @@
       "department": "化學工程學系碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "化學工程學系碩士班",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "CE301"
-      ],
-      "note": "",
-      "number": "70",
-      "number_parsed": 70,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "李榮和",
-      "time": "2678",
-      "time_parsed": [
-        {
-          "day": 2,
-          "time": [
-            6,
-            7,
-            8
-          ]
-        }
-      ],
-      "title": "高等化工熱力學 `Advanced Thermodynamics in Chemical Engineering",
-      "title_parsed": {
-        "en_US": "Advanced Thermodynamics in Chemical Engineering",
-        "zh_TW": "高等化工熱力學"
-      },
-      "url": "3999",
-      "year": "半"
-    },
-    {
-      "class": "6",
-      "code": "6813",
-      "credits": "3",
-      "credits_parsed": 3,
-      "department": "化學工程學系碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
       "for_dept": "化學工程學系化工系產業碩士專班",
       "hours": "3",
       "hours_parsed": "3",
@@ -33720,7 +33675,7 @@
     },
     {
       "class": "6",
-      "code": "6814",
+      "code": "6813",
       "credits": "3",
       "credits_parsed": 3,
       "department": "化學工程學系碩士班",
@@ -33738,16 +33693,16 @@
         "CE301"
       ],
       "note": "",
-      "number": "60",
-      "number_parsed": 60,
+      "number": "70",
+      "number_parsed": 70,
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
       "professor": "李榮和",
-      "time": "5678",
+      "time": "2678",
       "time_parsed": [
         {
-          "day": 5,
+          "day": 2,
           "time": [
             6,
             7,
@@ -33755,12 +33710,12 @@
           ]
         }
       ],
-      "title": "功能性高分子特論 `Special Topics in Functional Polymer",
+      "title": "高等化工熱力學 `Advanced Thermodynamics in Chemical Engineering",
       "title_parsed": {
-        "en_US": "Special Topics in Functional Polymer",
-        "zh_TW": "功能性高分子特論"
+        "en_US": "Advanced Thermodynamics in Chemical Engineering",
+        "zh_TW": "高等化工熱力學"
       },
-      "url": "5648",
+      "url": "3999",
       "year": "半"
     },
     {
@@ -33810,13 +33765,13 @@
     },
     {
       "class": "6",
-      "code": "6815",
+      "code": "6814",
       "credits": "3",
       "credits_parsed": 3,
-      "department": "電機工程學系碩士班",
+      "department": "化學工程學系碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "電機工程學系碩士班",
+      "for_dept": "化學工程學系碩士班",
       "hours": "3",
       "hours_parsed": "3",
       "intern_location": [
@@ -33825,7 +33780,7 @@
       "intern_time": "",
       "language": "中文",
       "location": [
-        "EE106"
+        "CE301"
       ],
       "note": "",
       "number": "60",
@@ -33833,24 +33788,24 @@
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "賴永康",
-      "time": "5234",
+      "professor": "李榮和",
+      "time": "5678",
       "time_parsed": [
         {
           "day": 5,
           "time": [
-            2,
-            3,
-            4
+            6,
+            7,
+            8
           ]
         }
       ],
-      "title": "高科技專利取得與攻防 `Patent Writing and Defense in Hight Technology",
+      "title": "功能性高分子特論 `Special Topics in Functional Polymer",
       "title_parsed": {
-        "en_US": "Patent Writing and Defense in Hight Technology",
-        "zh_TW": "高科技專利取得與攻防"
+        "en_US": "Special Topics in Functional Polymer",
+        "zh_TW": "功能性高分子特論"
       },
-      "url": "5174",
+      "url": "5648",
       "year": "半"
     },
     {
@@ -33896,6 +33851,51 @@
         "zh_TW": "高科技專利取得與攻防"
       },
       "url": "2066",
+      "year": "半"
+    },
+    {
+      "class": "6",
+      "code": "6815",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "電機工程學系碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "電機工程學系碩士班",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "EE106"
+      ],
+      "note": "",
+      "number": "60",
+      "number_parsed": 60,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "賴永康",
+      "time": "5234",
+      "time_parsed": [
+        {
+          "day": 5,
+          "time": [
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "title": "高科技專利取得與攻防 `Patent Writing and Defense in Hight Technology",
+      "title_parsed": {
+        "en_US": "Patent Writing and Defense in Hight Technology",
+        "zh_TW": "高科技專利取得與攻防"
+      },
+      "url": "5174",
       "year": "半"
     },
     {
@@ -34577,51 +34577,6 @@
       "department": "材料科學與工程學系碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "材料科學與工程學系材料產業碩士專班",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "ME206"
-      ],
-      "note": "",
-      "number": "3",
-      "number_parsed": 3,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "吳宗明",
-      "time": "1678",
-      "time_parsed": [
-        {
-          "day": 1,
-          "time": [
-            6,
-            7,
-            8
-          ]
-        }
-      ],
-      "title": "繞射原理 `Fundamental of Diffraction",
-      "title_parsed": {
-        "en_US": "Fundamental of Diffraction",
-        "zh_TW": "繞射原理"
-      },
-      "url": "5536",
-      "year": "半"
-    },
-    {
-      "class": "6",
-      "code": "6825",
-      "credits": "3",
-      "credits_parsed": 3,
-      "department": "材料科學與工程學系碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
       "for_dept": "材料科學與工程學系碩士班",
       "hours": "3",
       "hours_parsed": "3",
@@ -34657,6 +34612,51 @@
         "zh_TW": "繞射原理"
       },
       "url": "4011",
+      "year": "半"
+    },
+    {
+      "class": "6",
+      "code": "6825",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "材料科學與工程學系碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "材料科學與工程學系材料產業碩士專班",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "ME206"
+      ],
+      "note": "",
+      "number": "3",
+      "number_parsed": 3,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "吳宗明",
+      "time": "1678",
+      "time_parsed": [
+        {
+          "day": 1,
+          "time": [
+            6,
+            7,
+            8
+          ]
+        }
+      ],
+      "title": "繞射原理 `Fundamental of Diffraction",
+      "title_parsed": {
+        "en_US": "Fundamental of Diffraction",
+        "zh_TW": "繞射原理"
+      },
+      "url": "5536",
       "year": "半"
     },
     {
@@ -34712,51 +34712,6 @@
       "department": "材料科學與工程學系碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "材料科學與工程學系材料產業碩士專班",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "ME206"
-      ],
-      "note": "",
-      "number": "3",
-      "number_parsed": 3,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "顏秀崗",
-      "time": "4678",
-      "time_parsed": [
-        {
-          "day": 4,
-          "time": [
-            6,
-            7,
-            8
-          ]
-        }
-      ],
-      "title": "電化學方法與應用 `Electrochemical Methods and Applications",
-      "title_parsed": {
-        "en_US": "Electrochemical Methods and Applications",
-        "zh_TW": "電化學方法與應用"
-      },
-      "url": "5538",
-      "year": "半"
-    },
-    {
-      "class": "6",
-      "code": "6827",
-      "credits": "3",
-      "credits_parsed": 3,
-      "department": "材料科學與工程學系碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
       "for_dept": "材料科學與工程學系碩士班",
       "hours": "3",
       "hours_parsed": "3",
@@ -34792,6 +34747,51 @@
         "zh_TW": "電化學方法與應用"
       },
       "url": "3971",
+      "year": "半"
+    },
+    {
+      "class": "6",
+      "code": "6827",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "材料科學與工程學系碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "材料科學與工程學系材料產業碩士專班",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "ME206"
+      ],
+      "note": "",
+      "number": "3",
+      "number_parsed": 3,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "顏秀崗",
+      "time": "4678",
+      "time_parsed": [
+        {
+          "day": 4,
+          "time": [
+            6,
+            7,
+            8
+          ]
+        }
+      ],
+      "title": "電化學方法與應用 `Electrochemical Methods and Applications",
+      "title_parsed": {
+        "en_US": "Electrochemical Methods and Applications",
+        "zh_TW": "電化學方法與應用"
+      },
+      "url": "5538",
       "year": "半"
     },
     {
@@ -35072,51 +35072,6 @@
       "department": "材料科學與工程學系碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "材料科學與工程學系碩士班",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "ME203"
-      ],
-      "note": "",
-      "number": "85",
-      "number_parsed": 85,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "薛涵宇",
-      "time": "5678",
-      "time_parsed": [
-        {
-          "day": 5,
-          "time": [
-            6,
-            7,
-            8
-          ]
-        }
-      ],
-      "title": "奈米製程 `Processing of Nanomaterials",
-      "title_parsed": {
-        "en_US": "Processing of Nanomaterials",
-        "zh_TW": "奈米製程"
-      },
-      "url": "3997",
-      "year": "半"
-    },
-    {
-      "class": "6",
-      "code": "6831",
-      "credits": "3",
-      "credits_parsed": 3,
-      "department": "材料科學與工程學系碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
       "for_dept": "生物與永續科技碩士學位學程",
       "hours": "3",
       "hours_parsed": "3",
@@ -35152,6 +35107,51 @@
         "zh_TW": "奈米製程"
       },
       "url": "4694",
+      "year": "半"
+    },
+    {
+      "class": "6",
+      "code": "6831",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "材料科學與工程學系碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "材料科學與工程學系碩士班",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "ME203"
+      ],
+      "note": "",
+      "number": "85",
+      "number_parsed": 85,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "薛涵宇",
+      "time": "5678",
+      "time_parsed": [
+        {
+          "day": 5,
+          "time": [
+            6,
+            7,
+            8
+          ]
+        }
+      ],
+      "title": "奈米製程 `Processing of Nanomaterials",
+      "title_parsed": {
+        "en_US": "Processing of Nanomaterials",
+        "zh_TW": "奈米製程"
+      },
+      "url": "3997",
       "year": "半"
     },
     {
@@ -35297,51 +35297,6 @@
       "department": "材料科學與工程學系碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "材料科學與工程學系材料產業碩士專班",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "ME205"
-      ],
-      "note": "",
-      "number": "3",
-      "number_parsed": 3,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "蔡銘洪",
-      "time": "4678",
-      "time_parsed": [
-        {
-          "day": 4,
-          "time": [
-            6,
-            7,
-            8
-          ]
-        }
-      ],
-      "title": "高熵材料特論 `Special Topics on High Entropy Materials",
-      "title_parsed": {
-        "en_US": "Special Topics on High Entropy Materials",
-        "zh_TW": "高熵材料特論"
-      },
-      "url": "5614",
-      "year": "半"
-    },
-    {
-      "class": "6",
-      "code": "6833",
-      "credits": "3",
-      "credits_parsed": 3,
-      "department": "材料科學與工程學系碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
       "for_dept": "材料科學與工程學系碩士班",
       "hours": "3",
       "hours_parsed": "3",
@@ -35381,13 +35336,58 @@
     },
     {
       "class": "6",
+      "code": "6833",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "材料科學與工程學系碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "材料科學與工程學系材料產業碩士專班",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "ME205"
+      ],
+      "note": "",
+      "number": "3",
+      "number_parsed": 3,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "蔡銘洪",
+      "time": "4678",
+      "time_parsed": [
+        {
+          "day": 4,
+          "time": [
+            6,
+            7,
+            8
+          ]
+        }
+      ],
+      "title": "高熵材料特論 `Special Topics on High Entropy Materials",
+      "title_parsed": {
+        "en_US": "Special Topics on High Entropy Materials",
+        "zh_TW": "高熵材料特論"
+      },
+      "url": "5614",
+      "year": "半"
+    },
+    {
+      "class": "6",
       "code": "6834",
       "credits": "3",
       "credits_parsed": 3,
       "department": "電機工程學系碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "電機工程學系電子系統產業碩士專班",
+      "for_dept": "電機工程學系碩士班",
       "hours": "3",
       "hours_parsed": "3",
       "intern_location": [
@@ -35399,8 +35399,8 @@
         "EE208"
       ],
       "note": "",
-      "number": "7",
-      "number_parsed": 7,
+      "number": "30",
+      "number_parsed": 30,
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
@@ -35421,7 +35421,7 @@
         "en_US": "Electric Motor Control",
         "zh_TW": "電動機控制"
       },
-      "url": "5705",
+      "url": "5409",
       "year": "半"
     },
     {
@@ -35477,7 +35477,7 @@
       "department": "電機工程學系碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "電機工程學系碩士班",
+      "for_dept": "電機工程學系電子系統產業碩士專班",
       "hours": "3",
       "hours_parsed": "3",
       "intern_location": [
@@ -35489,8 +35489,8 @@
         "EE208"
       ],
       "note": "",
-      "number": "30",
-      "number_parsed": 30,
+      "number": "7",
+      "number_parsed": 7,
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
@@ -35511,7 +35511,7 @@
         "en_US": "Electric Motor Control",
         "zh_TW": "電動機控制"
       },
-      "url": "5409",
+      "url": "5705",
       "year": "半"
     },
     {
@@ -35567,51 +35567,6 @@
       "department": "電機工程學系碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "電機工程學系智慧電動車及綠能科技產業碩士專班",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "EE208"
-      ],
-      "note": "",
-      "number": "14",
-      "number_parsed": 14,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "賴慶明",
-      "time": "3234",
-      "time_parsed": [
-        {
-          "day": 3,
-          "time": [
-            2,
-            3,
-            4
-          ]
-        }
-      ],
-      "title": "智慧電動車 `Intelligent Electric Vehicle",
-      "title_parsed": {
-        "en_US": "Intelligent Electric Vehicle",
-        "zh_TW": "智慧電動車"
-      },
-      "url": "5731",
-      "year": "半"
-    },
-    {
-      "class": "6",
-      "code": "6835",
-      "credits": "3",
-      "credits_parsed": 3,
-      "department": "電機工程學系碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
       "for_dept": "電機工程學系碩士班",
       "hours": "3",
       "hours_parsed": "3",
@@ -35647,6 +35602,51 @@
         "zh_TW": "智慧電動車"
       },
       "url": "5591",
+      "year": "半"
+    },
+    {
+      "class": "6",
+      "code": "6835",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "電機工程學系碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "電機工程學系智慧電動車及綠能科技產業碩士專班",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "EE208"
+      ],
+      "note": "",
+      "number": "14",
+      "number_parsed": 14,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "賴慶明",
+      "time": "3234",
+      "time_parsed": [
+        {
+          "day": 3,
+          "time": [
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "title": "智慧電動車 `Intelligent Electric Vehicle",
+      "title_parsed": {
+        "en_US": "Intelligent Electric Vehicle",
+        "zh_TW": "智慧電動車"
+      },
+      "url": "5731",
       "year": "半"
     },
     {
@@ -35747,51 +35747,6 @@
       "department": "材料科學與工程學系碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "材料科學與工程學系材料產業碩士專班",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "ME206"
-      ],
-      "note": "",
-      "number": "3",
-      "number_parsed": 3,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "薛富盛",
-      "time": "1234",
-      "time_parsed": [
-        {
-          "day": 1,
-          "time": [
-            2,
-            3,
-            4
-          ]
-        }
-      ],
-      "title": "材料與永續 `Materials and Sustainability",
-      "title_parsed": {
-        "en_US": "Materials and Sustainability",
-        "zh_TW": "材料與永續"
-      },
-      "url": "5758",
-      "year": "半"
-    },
-    {
-      "class": "6",
-      "code": "6838",
-      "credits": "3",
-      "credits_parsed": 3,
-      "department": "材料科學與工程學系碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
       "for_dept": "材料科學與工程學系碩士班",
       "hours": "3",
       "hours_parsed": "3",
@@ -35827,6 +35782,51 @@
         "zh_TW": "材料與永續"
       },
       "url": "3934",
+      "year": "半"
+    },
+    {
+      "class": "6",
+      "code": "6838",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "材料科學與工程學系碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "材料科學與工程學系材料產業碩士專班",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "ME206"
+      ],
+      "note": "",
+      "number": "3",
+      "number_parsed": 3,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "薛富盛",
+      "time": "1234",
+      "time_parsed": [
+        {
+          "day": 1,
+          "time": [
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "title": "材料與永續 `Materials and Sustainability",
+      "title_parsed": {
+        "en_US": "Materials and Sustainability",
+        "zh_TW": "材料與永續"
+      },
+      "url": "5758",
       "year": "半"
     },
     {
@@ -37132,51 +37132,6 @@
       "department": "國家政策與公共事務研究所碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "國際精準農企業發展碩士學位學程",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "SC218"
-      ],
-      "note": "",
-      "number": "20",
-      "number_parsed": 20,
-      "obligatory": "必修",
-      "obligatory_tf": true,
-      "prerequisite": "",
-      "professor": "李長晏",
-      "time": "4234",
-      "time_parsed": [
-        {
-          "day": 4,
-          "time": [
-            2,
-            3,
-            4
-          ]
-        }
-      ],
-      "title": "公共政策理論與實務專題 `Seminar on Public Policy in Theory and Practice",
-      "title_parsed": {
-        "en_US": "Seminar on Public Policy in Theory and Practice",
-        "zh_TW": "公共政策理論與實務專題"
-      },
-      "url": "3631",
-      "year": "半"
-    },
-    {
-      "class": "6",
-      "code": "6873",
-      "credits": "3",
-      "credits_parsed": 3,
-      "department": "國家政策與公共事務研究所碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
       "for_dept": "國家政策與公共事務研究所碩士班",
       "hours": "3",
       "hours_parsed": "3",
@@ -37212,6 +37167,51 @@
         "zh_TW": "公共政策理論與實務專題"
       },
       "url": "4057",
+      "year": "半"
+    },
+    {
+      "class": "6",
+      "code": "6873",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "國家政策與公共事務研究所碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "國際精準農企業發展碩士學位學程",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "SC218"
+      ],
+      "note": "",
+      "number": "20",
+      "number_parsed": 20,
+      "obligatory": "必修",
+      "obligatory_tf": true,
+      "prerequisite": "",
+      "professor": "李長晏",
+      "time": "4234",
+      "time_parsed": [
+        {
+          "day": 4,
+          "time": [
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "title": "公共政策理論與實務專題 `Seminar on Public Policy in Theory and Practice",
+      "title_parsed": {
+        "en_US": "Seminar on Public Policy in Theory and Practice",
+        "zh_TW": "公共政策理論與實務專題"
+      },
+      "url": "3631",
       "year": "半"
     },
     {
@@ -37535,51 +37535,6 @@
       "department": "通訊工程研究所碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "電機工程學系電子系統產業碩士專班",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "EE201"
-      ],
-      "note": "",
-      "number": "7",
-      "number_parsed": 7,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "陳後守",
-      "time": "3234",
-      "time_parsed": [
-        {
-          "day": 3,
-          "time": [
-            2,
-            3,
-            4
-          ]
-        }
-      ],
-      "title": "錯誤更正碼* `Error Control Coding",
-      "title_parsed": {
-        "en_US": "Error Control Coding",
-        "zh_TW": "錯誤更正碼*"
-      },
-      "url": "5720",
-      "year": "半"
-    },
-    {
-      "class": "6",
-      "code": "6881",
-      "credits": "3",
-      "credits_parsed": 3,
-      "department": "通訊工程研究所碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
       "for_dept": "通訊工程研究所碩士班",
       "hours": "3",
       "hours_parsed": "3",
@@ -37664,6 +37619,51 @@
     },
     {
       "class": "6",
+      "code": "6881",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "通訊工程研究所碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "電機工程學系電子系統產業碩士專班",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "EE201"
+      ],
+      "note": "",
+      "number": "7",
+      "number_parsed": 7,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "陳後守",
+      "time": "3234",
+      "time_parsed": [
+        {
+          "day": 3,
+          "time": [
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "title": "錯誤更正碼* `Error Control Coding",
+      "title_parsed": {
+        "en_US": "Error Control Coding",
+        "zh_TW": "錯誤更正碼*"
+      },
+      "url": "5720",
+      "year": "半"
+    },
+    {
+      "class": "6",
       "code": "6882",
       "credits": "0",
       "credits_parsed": 0,
@@ -37714,7 +37714,7 @@
       "department": "光電工程研究所碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "電機工程學系碩士班",
+      "for_dept": "電機工程學系電子系統產業碩士專班",
       "hours": "3",
       "hours_parsed": "3",
       "intern_location": [
@@ -37726,8 +37726,8 @@
         "EE201"
       ],
       "note": "",
-      "number": "30",
-      "number_parsed": 30,
+      "number": "7",
+      "number_parsed": 7,
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
@@ -37748,7 +37748,7 @@
         "en_US": "Principles and Circuit Design of Flat Panel Display",
         "zh_TW": "平面顯示器原理與電路設計*"
       },
-      "url": "4068",
+      "url": "5721",
       "year": "半"
     },
     {
@@ -37804,7 +37804,7 @@
       "department": "光電工程研究所碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "電機工程學系電子系統產業碩士專班",
+      "for_dept": "電機工程學系碩士班",
       "hours": "3",
       "hours_parsed": "3",
       "intern_location": [
@@ -37816,8 +37816,8 @@
         "EE201"
       ],
       "note": "",
-      "number": "7",
-      "number_parsed": 7,
+      "number": "30",
+      "number_parsed": 30,
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
@@ -37838,7 +37838,7 @@
         "en_US": "Principles and Circuit Design of Flat Panel Display",
         "zh_TW": "平面顯示器原理與電路設計*"
       },
-      "url": "5721",
+      "url": "4068",
       "year": "半"
     },
     {
@@ -38287,51 +38287,6 @@
       "department": "工業與智慧科技碩士學位學程",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "工業與智慧科技碩士學位學程",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "AC102"
-      ],
-      "note": "",
-      "number": "20",
-      "number_parsed": 20,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "林啓明",
-      "time": "4234",
-      "time_parsed": [
-        {
-          "day": 4,
-          "time": [
-            2,
-            3,
-            4
-          ]
-        }
-      ],
-      "title": "金屬材料特論 `Special Treatise on Metallic Materials",
-      "title_parsed": {
-        "en_US": "Special Treatise on Metallic Materials",
-        "zh_TW": "金屬材料特論"
-      },
-      "url": "5646",
-      "year": "半"
-    },
-    {
-      "class": "6",
-      "code": "6913",
-      "credits": "3",
-      "credits_parsed": 3,
-      "department": "工業與智慧科技碩士學位學程",
-      "discipline": "",
-      "enrolled_num": "0",
       "for_dept": "半導體與綠色科技碩士學位學程",
       "hours": "3",
       "hours_parsed": "3",
@@ -38367,6 +38322,51 @@
         "zh_TW": "金屬材料特論"
       },
       "url": "4110",
+      "year": "半"
+    },
+    {
+      "class": "6",
+      "code": "6913",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "工業與智慧科技碩士學位學程",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "工業與智慧科技碩士學位學程",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "AC102"
+      ],
+      "note": "",
+      "number": "20",
+      "number_parsed": 20,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "林啓明",
+      "time": "4234",
+      "time_parsed": [
+        {
+          "day": 4,
+          "time": [
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "title": "金屬材料特論 `Special Treatise on Metallic Materials",
+      "title_parsed": {
+        "en_US": "Special Treatise on Metallic Materials",
+        "zh_TW": "金屬材料特論"
+      },
+      "url": "5646",
       "year": "半"
     },
     {
@@ -38681,51 +38681,6 @@
       "department": "資料科學與資訊計算研究所碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "資料科學與資訊計算研究所碩士班",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中/英文",
-      "location": [
-        "U517"
-      ],
-      "note": "",
-      "number": "24",
-      "number_parsed": 24,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "施因澤",
-      "time": "1234",
-      "time_parsed": [
-        {
-          "day": 1,
-          "time": [
-            2,
-            3,
-            4
-          ]
-        }
-      ],
-      "title": "數據分析數學 `Mathematical Analysis to Data Science",
-      "title_parsed": {
-        "en_US": "Mathematical Analysis to Data Science",
-        "zh_TW": "數據分析數學"
-      },
-      "url": "3008",
-      "year": "半"
-    },
-    {
-      "class": "6",
-      "code": "6922",
-      "credits": "3",
-      "credits_parsed": 3,
-      "department": "資料科學與資訊計算研究所碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
       "for_dept": "應用數學系碩士班",
       "hours": "3",
       "hours_parsed": "3",
@@ -38765,7 +38720,7 @@
     },
     {
       "class": "6",
-      "code": "6923",
+      "code": "6922",
       "credits": "3",
       "credits_parsed": 3,
       "department": "資料科學與資訊計算研究所碩士班",
@@ -38778,34 +38733,34 @@
         ""
       ],
       "intern_time": "",
-      "language": "中文",
+      "language": "中/英文",
       "location": [
-        "U702"
+        "U517"
       ],
       "note": "",
-      "number": "20",
-      "number_parsed": 20,
+      "number": "24",
+      "number_parsed": 24,
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "彭冠舉",
-      "time": "1567",
+      "professor": "施因澤",
+      "time": "1234",
       "time_parsed": [
         {
           "day": 1,
           "time": [
-            5,
-            6,
-            7
+            2,
+            3,
+            4
           ]
         }
       ],
-      "title": "機器學習 `Machine Learning",
+      "title": "數據分析數學 `Mathematical Analysis to Data Science",
       "title_parsed": {
-        "en_US": "Machine Learning",
-        "zh_TW": "機器學習"
+        "en_US": "Mathematical Analysis to Data Science",
+        "zh_TW": "數據分析數學"
       },
-      "url": "4053",
+      "url": "3008",
       "year": "半"
     },
     {
@@ -38851,6 +38806,51 @@
         "zh_TW": "機器學習"
       },
       "url": "3132",
+      "year": "半"
+    },
+    {
+      "class": "6",
+      "code": "6923",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "資料科學與資訊計算研究所碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "資料科學與資訊計算研究所碩士班",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "U702"
+      ],
+      "note": "",
+      "number": "20",
+      "number_parsed": 20,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "彭冠舉",
+      "time": "1567",
+      "time_parsed": [
+        {
+          "day": 1,
+          "time": [
+            5,
+            6,
+            7
+          ]
+        }
+      ],
+      "title": "機器學習 `Machine Learning",
+      "title_parsed": {
+        "en_US": "Machine Learning",
+        "zh_TW": "機器學習"
+      },
+      "url": "4053",
       "year": "半"
     },
     {
@@ -38944,51 +38944,6 @@
       "year": "半"
     },
     {
-      "class": "8",
-      "code": "6925",
-      "credits": "3",
-      "credits_parsed": 3,
-      "department": "資料科學與資訊計算研究所碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
-      "for_dept": "大數據產學研發博士學位學程",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "U702"
-      ],
-      "note": "",
-      "number": "20",
-      "number_parsed": 20,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "戴淯琮",
-      "time": "2567",
-      "time_parsed": [
-        {
-          "day": 2,
-          "time": [
-            5,
-            6,
-            7
-          ]
-        }
-      ],
-      "title": "量子資訊安全入門 `Introduction to Quantum Cybersecurity",
-      "title_parsed": {
-        "en_US": "Introduction to Quantum Cybersecurity",
-        "zh_TW": "量子資訊安全入門"
-      },
-      "url": "3307",
-      "year": "半"
-    },
-    {
       "class": "6",
       "code": "6925",
       "credits": "3",
@@ -39031,6 +38986,51 @@
         "zh_TW": "量子資訊安全入門"
       },
       "url": "4247",
+      "year": "半"
+    },
+    {
+      "class": "8",
+      "code": "6925",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "資料科學與資訊計算研究所碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "大數據產學研發博士學位學程",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "U702"
+      ],
+      "note": "",
+      "number": "20",
+      "number_parsed": 20,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "戴淯琮",
+      "time": "2567",
+      "time_parsed": [
+        {
+          "day": 2,
+          "time": [
+            5,
+            6,
+            7
+          ]
+        }
+      ],
+      "title": "量子資訊安全入門 `Introduction to Quantum Cybersecurity",
+      "title_parsed": {
+        "en_US": "Introduction to Quantum Cybersecurity",
+        "zh_TW": "量子資訊安全入門"
+      },
+      "url": "3307",
       "year": "半"
     },
     {
@@ -39575,51 +39575,6 @@
       "year": "全"
     },
     {
-      "class": "8",
-      "code": "6938",
-      "credits": "1",
-      "credits_parsed": 1,
-      "department": "植物保健碩士學位學程",
-      "discipline": "",
-      "enrolled_num": "0",
-      "for_dept": "植物保健博士學位學程",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "AC101"
-      ],
-      "note": "",
-      "number": "7",
-      "number_parsed": 7,
-      "obligatory": "必修",
-      "obligatory_tf": true,
-      "prerequisite": "",
-      "professor": "張道禾",
-      "time": "4567",
-      "time_parsed": [
-        {
-          "day": 4,
-          "time": [
-            5,
-            6,
-            7
-          ]
-        }
-      ],
-      "title": "植物保健專題討論(一) `Seminar on Plant Health (I)",
-      "title_parsed": {
-        "en_US": "Seminar on Plant Health (I)",
-        "zh_TW": "植物保健專題討論(一)"
-      },
-      "url": "4821",
-      "year": "全"
-    },
-    {
       "class": "6",
       "code": "6938",
       "credits": "1",
@@ -39666,7 +39621,7 @@
     },
     {
       "class": "8",
-      "code": "6939",
+      "code": "6938",
       "credits": "1",
       "credits_parsed": 1,
       "department": "植物保健碩士學位學程",
@@ -39683,21 +39638,30 @@
       "location": [
         "AC101"
       ],
-      "note": "*:上課時間另定，請洽開課單位。",
+      "note": "",
       "number": "7",
       "number_parsed": 7,
-      "obligatory": "選修",
-      "obligatory_tf": false,
+      "obligatory": "必修",
+      "obligatory_tf": true,
       "prerequisite": "",
       "professor": "張道禾",
-      "time": "*",
-      "time_parsed": [],
-      "title": "植物保健專題研究(一) `Special Topic Research in Plant Health (I)",
+      "time": "4567",
+      "time_parsed": [
+        {
+          "day": 4,
+          "time": [
+            5,
+            6,
+            7
+          ]
+        }
+      ],
+      "title": "植物保健專題討論(一) `Seminar on Plant Health (I)",
       "title_parsed": {
-        "en_US": "Special Topic Research in Plant Health (I)",
-        "zh_TW": "植物保健專題研究(一)"
+        "en_US": "Seminar on Plant Health (I)",
+        "zh_TW": "植物保健專題討論(一)"
       },
-      "url": "4860",
+      "url": "4821",
       "year": "全"
     },
     {
@@ -39738,13 +39702,13 @@
     },
     {
       "class": "8",
-      "code": "6948",
+      "code": "6939",
       "credits": "1",
       "credits_parsed": 1,
-      "department": "特用作物及代謝體碩士學位學程",
+      "department": "植物保健碩士學位學程",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "特用作物及代謝體博士學位學程",
+      "for_dept": "植物保健博士學位學程",
       "hours": "3",
       "hours_parsed": "3",
       "intern_location": [
@@ -39755,30 +39719,21 @@
       "location": [
         "AC101"
       ],
-      "note": "",
-      "number": "8",
-      "number_parsed": 8,
-      "obligatory": "必修",
-      "obligatory_tf": true,
+      "note": "*:上課時間另定，請洽開課單位。",
+      "number": "7",
+      "number_parsed": 7,
+      "obligatory": "選修",
+      "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "曹乃文",
-      "time": "4567",
-      "time_parsed": [
-        {
-          "day": 4,
-          "time": [
-            5,
-            6,
-            7
-          ]
-        }
-      ],
-      "title": "特用作物及代謝體專題討論(一) `Seminar on Specialty Crops and Metabolomics (I)",
+      "professor": "張道禾",
+      "time": "*",
+      "time_parsed": [],
+      "title": "植物保健專題研究(一) `Special Topic Research in Plant Health (I)",
       "title_parsed": {
-        "en_US": "Seminar on Specialty Crops and Metabolomics (I)",
-        "zh_TW": "特用作物及代謝體專題討論(一)"
+        "en_US": "Special Topic Research in Plant Health (I)",
+        "zh_TW": "植物保健專題研究(一)"
       },
-      "url": "5176",
+      "url": "4860",
       "year": "全"
     },
     {
@@ -39828,7 +39783,7 @@
     },
     {
       "class": "8",
-      "code": "6949",
+      "code": "6948",
       "credits": "1",
       "credits_parsed": 1,
       "department": "特用作物及代謝體碩士學位學程",
@@ -39845,21 +39800,30 @@
       "location": [
         "AC101"
       ],
-      "note": "*:上課時間另定，請洽開課單位。",
+      "note": "",
       "number": "8",
       "number_parsed": 8,
-      "obligatory": "選修",
-      "obligatory_tf": false,
+      "obligatory": "必修",
+      "obligatory_tf": true,
       "prerequisite": "",
       "professor": "曹乃文",
-      "time": "*",
-      "time_parsed": [],
-      "title": "特用作物及代謝體專題研究(一) `Special Topic Research in Specialty Crops and Metabolomics (I)",
+      "time": "4567",
+      "time_parsed": [
+        {
+          "day": 4,
+          "time": [
+            5,
+            6,
+            7
+          ]
+        }
+      ],
+      "title": "特用作物及代謝體專題討論(一) `Seminar on Specialty Crops and Metabolomics (I)",
       "title_parsed": {
-        "en_US": "Special Topic Research in Specialty Crops and Metabolomics (I)",
-        "zh_TW": "特用作物及代謝體專題研究(一)"
+        "en_US": "Seminar on Specialty Crops and Metabolomics (I)",
+        "zh_TW": "特用作物及代謝體專題討論(一)"
       },
-      "url": "5217",
+      "url": "5176",
       "year": "全"
     },
     {
@@ -39899,14 +39863,14 @@
       "year": "全"
     },
     {
-      "class": "6",
-      "code": "6958",
+      "class": "8",
+      "code": "6949",
       "credits": "1",
       "credits_parsed": 1,
-      "department": "生物與永續科技碩士學位學程",
+      "department": "特用作物及代謝體碩士學位學程",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "生物與永續科技碩士學位學程",
+      "for_dept": "特用作物及代謝體博士學位學程",
       "hours": "3",
       "hours_parsed": "3",
       "intern_location": [
@@ -39917,30 +39881,21 @@
       "location": [
         "AC101"
       ],
-      "note": "",
+      "note": "*:上課時間另定，請洽開課單位。",
       "number": "8",
       "number_parsed": 8,
-      "obligatory": "必修",
-      "obligatory_tf": true,
+      "obligatory": "選修",
+      "obligatory_tf": false,
       "prerequisite": "",
       "professor": "曹乃文",
-      "time": "4567",
-      "time_parsed": [
-        {
-          "day": 4,
-          "time": [
-            5,
-            6,
-            7
-          ]
-        }
-      ],
-      "title": "生物與永續科技專題討論(一) `Seminar on Biological and Substainable Technology  (I)",
+      "time": "*",
+      "time_parsed": [],
+      "title": "特用作物及代謝體專題研究(一) `Special Topic Research in Specialty Crops and Metabolomics (I)",
       "title_parsed": {
-        "en_US": "Seminar on Biological and Substainable Technology  (I)",
-        "zh_TW": "生物與永續科技專題討論(一)"
+        "en_US": "Special Topic Research in Specialty Crops and Metabolomics (I)",
+        "zh_TW": "特用作物及代謝體專題研究(一)"
       },
-      "url": "5293",
+      "url": "5217",
       "year": "全"
     },
     {
@@ -39990,7 +39945,7 @@
     },
     {
       "class": "6",
-      "code": "6959",
+      "code": "6958",
       "credits": "1",
       "credits_parsed": 1,
       "department": "生物與永續科技碩士學位學程",
@@ -40007,21 +39962,30 @@
       "location": [
         "AC101"
       ],
-      "note": "*:上課時間另定，請洽開課單位。",
+      "note": "",
       "number": "8",
       "number_parsed": 8,
-      "obligatory": "選修",
-      "obligatory_tf": false,
+      "obligatory": "必修",
+      "obligatory_tf": true,
       "prerequisite": "",
       "professor": "曹乃文",
-      "time": "*",
-      "time_parsed": [],
-      "title": "生物與永續科技專題研究(一) `Special Topic Research in Biological and Sustainable Technology (I)",
+      "time": "4567",
+      "time_parsed": [
+        {
+          "day": 4,
+          "time": [
+            5,
+            6,
+            7
+          ]
+        }
+      ],
+      "title": "生物與永續科技專題討論(一) `Seminar on Biological and Substainable Technology  (I)",
       "title_parsed": {
-        "en_US": "Special Topic Research in Biological and Sustainable Technology (I)",
-        "zh_TW": "生物與永續科技專題研究(一)"
+        "en_US": "Seminar on Biological and Substainable Technology  (I)",
+        "zh_TW": "生物與永續科技專題討論(一)"
       },
-      "url": "5420",
+      "url": "5293",
       "year": "全"
     },
     {
@@ -40058,6 +40022,42 @@
         "zh_TW": "生物與永續科技專題研究(一)"
       },
       "url": "5421",
+      "year": "全"
+    },
+    {
+      "class": "6",
+      "code": "6959",
+      "credits": "1",
+      "credits_parsed": 1,
+      "department": "生物與永續科技碩士學位學程",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "生物與永續科技碩士學位學程",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "AC101"
+      ],
+      "note": "*:上課時間另定，請洽開課單位。",
+      "number": "8",
+      "number_parsed": 8,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "曹乃文",
+      "time": "*",
+      "time_parsed": [],
+      "title": "生物與永續科技專題研究(一) `Special Topic Research in Biological and Sustainable Technology (I)",
+      "title_parsed": {
+        "en_US": "Special Topic Research in Biological and Sustainable Technology (I)",
+        "zh_TW": "生物與永續科技專題研究(一)"
+      },
+      "url": "5420",
       "year": "全"
     },
     {
@@ -40196,42 +40196,6 @@
       "year": "全"
     },
     {
-      "class": "6",
-      "code": "6969",
-      "credits": "1",
-      "credits_parsed": 1,
-      "department": "國際精準農企業發展碩士學位學程",
-      "discipline": "",
-      "enrolled_num": "0",
-      "for_dept": "國際精準農企業發展碩士學位學程",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "AC101"
-      ],
-      "note": "*:上課時間另定，請洽開課單位。",
-      "number": "7",
-      "number_parsed": 7,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "唐政綱",
-      "time": "*",
-      "time_parsed": [],
-      "title": "國際精準農企業發展專題研究(一) `Special Topic Research in International Precision Agribusiness Development (I)",
-      "title_parsed": {
-        "en_US": "Special Topic Research in International Precision Agribusiness Development (I)",
-        "zh_TW": "國際精準農企業發展專題研究(一)"
-      },
-      "url": "5432",
-      "year": "全"
-    },
-    {
       "class": "8",
       "code": "6969",
       "credits": "1",
@@ -40265,6 +40229,42 @@
         "zh_TW": "國際精準農企業發展專題研究(一)"
       },
       "url": "5433",
+      "year": "全"
+    },
+    {
+      "class": "6",
+      "code": "6969",
+      "credits": "1",
+      "credits_parsed": 1,
+      "department": "國際精準農企業發展碩士學位學程",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "國際精準農企業發展碩士學位學程",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "AC101"
+      ],
+      "note": "*:上課時間另定，請洽開課單位。",
+      "number": "7",
+      "number_parsed": 7,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "唐政綱",
+      "time": "*",
+      "time_parsed": [],
+      "title": "國際精準農企業發展專題研究(一) `Special Topic Research in International Precision Agribusiness Development (I)",
+      "title_parsed": {
+        "en_US": "Special Topic Research in International Precision Agribusiness Development (I)",
+        "zh_TW": "國際精準農企業發展專題研究(一)"
+      },
+      "url": "5432",
       "year": "全"
     },
     {
@@ -40659,51 +40659,6 @@
       "department": "半導體與綠色科技碩士學位學程",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "精密工程研究所碩士班",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "AC101"
-      ],
-      "note": "",
-      "number": "15",
-      "number_parsed": 15,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "劉柏良",
-      "time": "2567",
-      "time_parsed": [
-        {
-          "day": 2,
-          "time": [
-            5,
-            6,
-            7
-          ]
-        }
-      ],
-      "title": "磊晶工程 `Epitaxy Engineering",
-      "title_parsed": {
-        "en_US": "Epitaxy Engineering",
-        "zh_TW": "磊晶工程"
-      },
-      "url": "3222",
-      "year": "半"
-    },
-    {
-      "class": "6",
-      "code": "6981",
-      "credits": "3",
-      "credits_parsed": 3,
-      "department": "半導體與綠色科技碩士學位學程",
-      "discipline": "",
-      "enrolled_num": "0",
       "for_dept": "半導體與綠色科技碩士學位學程",
       "hours": "3",
       "hours_parsed": "3",
@@ -40739,6 +40694,51 @@
         "zh_TW": "磊晶工程"
       },
       "url": "3171",
+      "year": "半"
+    },
+    {
+      "class": "6",
+      "code": "6981",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "半導體與綠色科技碩士學位學程",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "精密工程研究所碩士班",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "AC101"
+      ],
+      "note": "",
+      "number": "15",
+      "number_parsed": 15,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "劉柏良",
+      "time": "2567",
+      "time_parsed": [
+        {
+          "day": 2,
+          "time": [
+            5,
+            6,
+            7
+          ]
+        }
+      ],
+      "title": "磊晶工程 `Epitaxy Engineering",
+      "title_parsed": {
+        "en_US": "Epitaxy Engineering",
+        "zh_TW": "磊晶工程"
+      },
+      "url": "3222",
       "year": "半"
     },
     {
@@ -41073,42 +41073,6 @@
       "year": "全"
     },
     {
-      "class": "6",
-      "code": "6989",
-      "credits": "1",
-      "credits_parsed": 1,
-      "department": "半導體與綠色科技碩士學位學程",
-      "discipline": "",
-      "enrolled_num": "0",
-      "for_dept": "半導體與綠色科技碩士學位學程",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "AC101"
-      ],
-      "note": "*:上課時間另定，請洽開課單位。",
-      "number": "30",
-      "number_parsed": 30,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "林家吟",
-      "time": "*",
-      "time_parsed": [],
-      "title": "半導體與綠色科技專題研究(一) `Topic Study on Semiconductor and Green Technology (I)",
-      "title_parsed": {
-        "en_US": "Topic Study on Semiconductor and Green Technology (I)",
-        "zh_TW": "半導體與綠色科技專題研究(一)"
-      },
-      "url": "5452",
-      "year": "全"
-    },
-    {
       "class": "8",
       "code": "6989",
       "credits": "1",
@@ -41142,6 +41106,42 @@
         "zh_TW": "半導體與綠色科技專題研究(一)"
       },
       "url": "5453",
+      "year": "全"
+    },
+    {
+      "class": "6",
+      "code": "6989",
+      "credits": "1",
+      "credits_parsed": 1,
+      "department": "半導體與綠色科技碩士學位學程",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "半導體與綠色科技碩士學位學程",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "AC101"
+      ],
+      "note": "*:上課時間另定，請洽開課單位。",
+      "number": "30",
+      "number_parsed": 30,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "林家吟",
+      "time": "*",
+      "time_parsed": [],
+      "title": "半導體與綠色科技專題研究(一) `Topic Study on Semiconductor and Green Technology (I)",
+      "title_parsed": {
+        "en_US": "Topic Study on Semiconductor and Green Technology (I)",
+        "zh_TW": "半導體與綠色科技專題研究(一)"
+      },
+      "url": "5452",
       "year": "全"
     },
     {
@@ -46258,51 +46258,6 @@
     },
     {
       "class": "7",
-      "code": "7165",
-      "credits": "1",
-      "credits_parsed": 1,
-      "department": "土壤環境科學系碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
-      "for_dept": "土壤環境科學系碩士班",
-      "hours": "",
-      "hours_parsed": "",
-      "intern_location": [
-        "J4A03"
-      ],
-      "intern_time": "5567",
-      "language": "中文",
-      "location": [
-        ""
-      ],
-      "note": "",
-      "number": "20",
-      "number_parsed": 20,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "劉雨庭",
-      "time": "5567",
-      "time_parsed": [
-        {
-          "day": 5,
-          "time": [
-            5,
-            6,
-            7
-          ]
-        }
-      ],
-      "title": "儀器分析實習 `Practice of Instrumental Analysis",
-      "title_parsed": {
-        "en_US": "Practice of Instrumental Analysis",
-        "zh_TW": "儀器分析實習"
-      },
-      "url": "3604",
-      "year": "半"
-    },
-    {
-      "class": "7",
       "code": "7166",
       "credits": "1",
       "credits_parsed": 1,
@@ -49685,6 +49640,78 @@
       "year": "全"
     },
     {
+      "class": "7",
+      "code": "7286",
+      "credits": "0",
+      "credits_parsed": 0,
+      "department": "應用數學系碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "統計學研究所碩士班",
+      "hours": "1",
+      "hours_parsed": "1",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "*"
+      ],
+      "note": "(合班)上課時間另定,請洽系辦",
+      "number": "60",
+      "number_parsed": 60,
+      "obligatory": "必修",
+      "obligatory_tf": true,
+      "prerequisite": "",
+      "professor": "金璟允",
+      "time": "*",
+      "time_parsed": [],
+      "title": "專題演講(二)* `Seminar(II)",
+      "title_parsed": {
+        "en_US": "Seminar(II)",
+        "zh_TW": "專題演講(二)*"
+      },
+      "url": "4354",
+      "year": "全"
+    },
+    {
+      "class": "7",
+      "code": "7286",
+      "credits": "0",
+      "credits_parsed": 0,
+      "department": "應用數學系碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "應用數學系碩士班",
+      "hours": "1",
+      "hours_parsed": "1",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "*"
+      ],
+      "note": "(合班)上課時間另定,請洽系辦",
+      "number": "60",
+      "number_parsed": 60,
+      "obligatory": "必修",
+      "obligatory_tf": true,
+      "prerequisite": "",
+      "professor": "金璟允",
+      "time": "*",
+      "time_parsed": [],
+      "title": "專題演講(二)* `Seminar(II)",
+      "title_parsed": {
+        "en_US": "Seminar(II)",
+        "zh_TW": "專題演講(二)*"
+      },
+      "url": "4355",
+      "year": "全"
+    },
+    {
       "class": "9",
       "code": "7286",
       "credits": "0",
@@ -49764,42 +49791,6 @@
       "department": "應用數學系碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "統計學研究所碩士班",
-      "hours": "1",
-      "hours_parsed": "1",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "*"
-      ],
-      "note": "(合班)上課時間另定,請洽系辦",
-      "number": "60",
-      "number_parsed": 60,
-      "obligatory": "必修",
-      "obligatory_tf": true,
-      "prerequisite": "",
-      "professor": "金璟允",
-      "time": "*",
-      "time_parsed": [],
-      "title": "專題演講(二)* `Seminar(II)",
-      "title_parsed": {
-        "en_US": "Seminar(II)",
-        "zh_TW": "專題演講(二)*"
-      },
-      "url": "4354",
-      "year": "全"
-    },
-    {
-      "class": "7",
-      "code": "7286",
-      "credits": "0",
-      "credits_parsed": 0,
-      "department": "應用數學系碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
       "for_dept": "資料科學與資訊計算研究所碩士班",
       "hours": "1",
       "hours_parsed": "1",
@@ -49826,42 +49817,6 @@
         "zh_TW": "專題演講(二)*"
       },
       "url": "3412",
-      "year": "全"
-    },
-    {
-      "class": "7",
-      "code": "7286",
-      "credits": "0",
-      "credits_parsed": 0,
-      "department": "應用數學系碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
-      "for_dept": "應用數學系碩士班",
-      "hours": "1",
-      "hours_parsed": "1",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "*"
-      ],
-      "note": "(合班)上課時間另定,請洽系辦",
-      "number": "60",
-      "number_parsed": 60,
-      "obligatory": "必修",
-      "obligatory_tf": true,
-      "prerequisite": "",
-      "professor": "金璟允",
-      "time": "*",
-      "time_parsed": [],
-      "title": "專題演講(二)* `Seminar(II)",
-      "title_parsed": {
-        "en_US": "Seminar(II)",
-        "zh_TW": "專題演講(二)*"
-      },
-      "url": "4355",
       "year": "全"
     },
     {
@@ -51345,42 +51300,6 @@
       "year": "全"
     },
     {
-      "class": "7",
-      "code": "7327",
-      "credits": "1",
-      "credits_parsed": 1,
-      "department": "特用作物及代謝體碩士學位學程",
-      "discipline": "",
-      "enrolled_num": "0",
-      "for_dept": "特用作物及代謝體碩士學位學程",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "*"
-      ],
-      "note": "",
-      "number": "8",
-      "number_parsed": 8,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "曹乃文",
-      "time": "*",
-      "time_parsed": [],
-      "title": "特用作物及代謝體專題研究(二) `Special Topic Research in Specialty Crops and Metabolomics (II)",
-      "title_parsed": {
-        "en_US": "Special Topic Research in Specialty Crops and Metabolomics (II)",
-        "zh_TW": "特用作物及代謝體專題研究(二)"
-      },
-      "url": "5698",
-      "year": "全"
-    },
-    {
       "class": "9",
       "code": "7327",
       "credits": "1",
@@ -51414,6 +51333,42 @@
         "zh_TW": "特用作物及代謝體專題研究(二)"
       },
       "url": "5699",
+      "year": "全"
+    },
+    {
+      "class": "7",
+      "code": "7327",
+      "credits": "1",
+      "credits_parsed": 1,
+      "department": "特用作物及代謝體碩士學位學程",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "特用作物及代謝體碩士學位學程",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "*"
+      ],
+      "note": "",
+      "number": "8",
+      "number_parsed": 8,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "曹乃文",
+      "time": "*",
+      "time_parsed": [],
+      "title": "特用作物及代謝體專題研究(二) `Special Topic Research in Specialty Crops and Metabolomics (II)",
+      "title_parsed": {
+        "en_US": "Special Topic Research in Specialty Crops and Metabolomics (II)",
+        "zh_TW": "特用作物及代謝體專題研究(二)"
+      },
+      "url": "5698",
       "year": "全"
     },
     {
@@ -51505,51 +51460,6 @@
       "year": "半"
     },
     {
-      "class": "9",
-      "code": "7333",
-      "credits": "1",
-      "credits_parsed": 1,
-      "department": "生物與永續科技碩士學位學程",
-      "discipline": "",
-      "enrolled_num": "0",
-      "for_dept": "生物與永續科技博士學位學程",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "AC101"
-      ],
-      "note": "",
-      "number": "8",
-      "number_parsed": 8,
-      "obligatory": "必修",
-      "obligatory_tf": true,
-      "prerequisite": "",
-      "professor": "曹乃文",
-      "time": "4567",
-      "time_parsed": [
-        {
-          "day": 4,
-          "time": [
-            5,
-            6,
-            7
-          ]
-        }
-      ],
-      "title": "生物與永續科技專題討論(二) `Seminar on Biological and Substainable Technology (II)",
-      "title_parsed": {
-        "en_US": "Seminar on Biological and Substainable Technology (II)",
-        "zh_TW": "生物與永續科技專題討論(二)"
-      },
-      "url": "4140",
-      "year": "全"
-    },
-    {
       "class": "7",
       "code": "7333",
       "credits": "1",
@@ -51592,6 +51502,51 @@
         "zh_TW": "生物與永續科技專題討論(二)"
       },
       "url": "3840",
+      "year": "全"
+    },
+    {
+      "class": "9",
+      "code": "7333",
+      "credits": "1",
+      "credits_parsed": 1,
+      "department": "生物與永續科技碩士學位學程",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "生物與永續科技博士學位學程",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "AC101"
+      ],
+      "note": "",
+      "number": "8",
+      "number_parsed": 8,
+      "obligatory": "必修",
+      "obligatory_tf": true,
+      "prerequisite": "",
+      "professor": "曹乃文",
+      "time": "4567",
+      "time_parsed": [
+        {
+          "day": 4,
+          "time": [
+            5,
+            6,
+            7
+          ]
+        }
+      ],
+      "title": "生物與永續科技專題討論(二) `Seminar on Biological and Substainable Technology (II)",
+      "title_parsed": {
+        "en_US": "Seminar on Biological and Substainable Technology (II)",
+        "zh_TW": "生物與永續科技專題討論(二)"
+      },
+      "url": "4140",
       "year": "全"
     },
     {
@@ -51958,50 +51913,6 @@
       "year": "全"
     },
     {
-      "class": "9",
-      "code": "7343",
-      "credits": "1",
-      "credits_parsed": 1,
-      "department": "半導體與綠色科技碩士學位學程",
-      "discipline": "",
-      "enrolled_num": "0",
-      "for_dept": "半導體與綠色科技博士學位學程",
-      "hours": "2",
-      "hours_parsed": "2",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "AC101"
-      ],
-      "note": "",
-      "number": "30",
-      "number_parsed": 30,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "林家吟",
-      "time": "567",
-      "time_parsed": [
-        {
-          "day": 5,
-          "time": [
-            6,
-            7
-          ]
-        }
-      ],
-      "title": "半導體與綠色科技專題討論(二) `Seminar on Semiconductor and Green Technology (II)",
-      "title_parsed": {
-        "en_US": "Seminar on Semiconductor and Green Technology (II)",
-        "zh_TW": "半導體與綠色科技專題討論(二)"
-      },
-      "url": "2555",
-      "year": "全"
-    },
-    {
       "class": "7",
       "code": "7343",
       "credits": "1",
@@ -52047,15 +51958,15 @@
     },
     {
       "class": "9",
-      "code": "7346",
+      "code": "7343",
       "credits": "1",
       "credits_parsed": 1,
-      "department": "國際精準農企業發展碩士學位學程",
+      "department": "半導體與綠色科技碩士學位學程",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "國際精準農企業發展博士學位學程",
-      "hours": "3",
-      "hours_parsed": "3",
+      "for_dept": "半導體與綠色科技博士學位學程",
+      "hours": "2",
+      "hours_parsed": "2",
       "intern_location": [
         ""
       ],
@@ -52065,29 +51976,28 @@
         "AC101"
       ],
       "note": "",
-      "number": "7",
-      "number_parsed": 7,
-      "obligatory": "必修",
-      "obligatory_tf": true,
+      "number": "30",
+      "number_parsed": 30,
+      "obligatory": "選修",
+      "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "唐政綱",
-      "time": "4567",
+      "professor": "林家吟",
+      "time": "567",
       "time_parsed": [
         {
-          "day": 4,
+          "day": 5,
           "time": [
-            5,
             6,
             7
           ]
         }
       ],
-      "title": "國際精準農企業發展專題討論(二) `Seminar on International Precision Agribusiness Development (II)",
+      "title": "半導體與綠色科技專題討論(二) `Seminar on Semiconductor and Green Technology (II)",
       "title_parsed": {
-        "en_US": "Seminar on International Precision Agribusiness Development (II)",
-        "zh_TW": "國際精準農企業發展專題討論(二)"
+        "en_US": "Seminar on Semiconductor and Green Technology (II)",
+        "zh_TW": "半導體與綠色科技專題討論(二)"
       },
-      "url": "5592",
+      "url": "2555",
       "year": "全"
     },
     {
@@ -52137,7 +52047,7 @@
     },
     {
       "class": "9",
-      "code": "7347",
+      "code": "7346",
       "credits": "1",
       "credits_parsed": 1,
       "department": "國際精準農企業發展碩士學位學程",
@@ -52152,23 +52062,32 @@
       "intern_time": "",
       "language": "中文",
       "location": [
-        "*"
+        "AC101"
       ],
-      "note": "上課時間另定，請洽開課單位。",
+      "note": "",
       "number": "7",
       "number_parsed": 7,
-      "obligatory": "選修",
-      "obligatory_tf": false,
+      "obligatory": "必修",
+      "obligatory_tf": true,
       "prerequisite": "",
       "professor": "唐政綱",
-      "time": "*",
-      "time_parsed": [],
-      "title": "國際精準農企業發展專題研究(二) `Special Topic Research in International Precision Agribusiness Development (II)",
+      "time": "4567",
+      "time_parsed": [
+        {
+          "day": 4,
+          "time": [
+            5,
+            6,
+            7
+          ]
+        }
+      ],
+      "title": "國際精準農企業發展專題討論(二) `Seminar on International Precision Agribusiness Development (II)",
       "title_parsed": {
-        "en_US": "Special Topic Research in International Precision Agribusiness Development (II)",
-        "zh_TW": "國際精準農企業發展專題研究(二)"
+        "en_US": "Seminar on International Precision Agribusiness Development (II)",
+        "zh_TW": "國際精準農企業發展專題討論(二)"
       },
-      "url": "5701",
+      "url": "5592",
       "year": "全"
     },
     {
@@ -52205,6 +52124,42 @@
         "zh_TW": "國際精準農企業發展專題研究(二)"
       },
       "url": "5700",
+      "year": "全"
+    },
+    {
+      "class": "9",
+      "code": "7347",
+      "credits": "1",
+      "credits_parsed": 1,
+      "department": "國際精準農企業發展碩士學位學程",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "國際精準農企業發展博士學位學程",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "*"
+      ],
+      "note": "上課時間另定，請洽開課單位。",
+      "number": "7",
+      "number_parsed": 7,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "唐政綱",
+      "time": "*",
+      "time_parsed": [],
+      "title": "國際精準農企業發展專題研究(二) `Special Topic Research in International Precision Agribusiness Development (II)",
+      "title_parsed": {
+        "en_US": "Special Topic Research in International Precision Agribusiness Development (II)",
+        "zh_TW": "國際精準農企業發展專題研究(二)"
+      },
+      "url": "5701",
       "year": "全"
     },
     {
@@ -52345,55 +52300,6 @@
       "department": "電機工程學系碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "電機工程學系碩士班",
-      "hours": "2",
-      "hours_parsed": "2",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "EE106"
-      ],
-      "note": "",
-      "number": "60",
-      "number_parsed": 60,
-      "obligatory": "必修",
-      "obligatory_tf": true,
-      "prerequisite": "",
-      "professor": "歐陽彥杰",
-      "time": "31,41",
-      "time_parsed": [
-        {
-          "day": 3,
-          "time": [
-            1
-          ]
-        },
-        {
-          "day": 4,
-          "time": [
-            1
-          ]
-        }
-      ],
-      "title": "資訊研討(二)* `Seminar on Information(II)",
-      "title_parsed": {
-        "en_US": "Seminar on Information(II)",
-        "zh_TW": "資訊研討(二)*"
-      },
-      "url": "4417",
-      "year": "全"
-    },
-    {
-      "class": "7",
-      "code": "7352",
-      "credits": "0",
-      "credits_parsed": 0,
-      "department": "電機工程學系碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
       "for_dept": "通訊工程研究所碩士班",
       "hours": "2",
       "hours_parsed": "2",
@@ -52433,6 +52339,55 @@
         "zh_TW": "資訊研討(二)*"
       },
       "url": "4418",
+      "year": "全"
+    },
+    {
+      "class": "7",
+      "code": "7352",
+      "credits": "0",
+      "credits_parsed": 0,
+      "department": "電機工程學系碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "電機工程學系碩士班",
+      "hours": "2",
+      "hours_parsed": "2",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "EE106"
+      ],
+      "note": "",
+      "number": "60",
+      "number_parsed": 60,
+      "obligatory": "必修",
+      "obligatory_tf": true,
+      "prerequisite": "",
+      "professor": "歐陽彥杰",
+      "time": "31,41",
+      "time_parsed": [
+        {
+          "day": 3,
+          "time": [
+            1
+          ]
+        },
+        {
+          "day": 4,
+          "time": [
+            1
+          ]
+        }
+      ],
+      "title": "資訊研討(二)* `Seminar on Information(II)",
+      "title_parsed": {
+        "en_US": "Seminar on Information(II)",
+        "zh_TW": "資訊研討(二)*"
+      },
+      "url": "4417",
       "year": "全"
     },
     {
@@ -52577,55 +52532,6 @@
       "department": "電機工程學系碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "電機工程學系電子系統產業碩士專班",
-      "hours": "2",
-      "hours_parsed": "2",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "EE208"
-      ],
-      "note": "",
-      "number": "7",
-      "number_parsed": 7,
-      "obligatory": "必修",
-      "obligatory_tf": true,
-      "prerequisite": "",
-      "professor": "裴靜偉",
-      "time": "41,51",
-      "time_parsed": [
-        {
-          "day": 4,
-          "time": [
-            1
-          ]
-        },
-        {
-          "day": 5,
-          "time": [
-            1
-          ]
-        }
-      ],
-      "title": "電子研討(二) `Seminar on Electronics(II)",
-      "title_parsed": {
-        "en_US": "Seminar on Electronics(II)",
-        "zh_TW": "電子研討(二)"
-      },
-      "url": "4928",
-      "year": "全"
-    },
-    {
-      "class": "7",
-      "code": "7355",
-      "credits": "0",
-      "credits_parsed": 0,
-      "department": "電機工程學系碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
       "for_dept": "電機工程學系碩士班",
       "hours": "2",
       "hours_parsed": "2",
@@ -52665,6 +52571,55 @@
         "zh_TW": "電子研討(二)"
       },
       "url": "4420",
+      "year": "全"
+    },
+    {
+      "class": "7",
+      "code": "7355",
+      "credits": "0",
+      "credits_parsed": 0,
+      "department": "電機工程學系碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "電機工程學系電子系統產業碩士專班",
+      "hours": "2",
+      "hours_parsed": "2",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "EE208"
+      ],
+      "note": "",
+      "number": "7",
+      "number_parsed": 7,
+      "obligatory": "必修",
+      "obligatory_tf": true,
+      "prerequisite": "",
+      "professor": "裴靜偉",
+      "time": "41,51",
+      "time_parsed": [
+        {
+          "day": 4,
+          "time": [
+            1
+          ]
+        },
+        {
+          "day": 5,
+          "time": [
+            1
+          ]
+        }
+      ],
+      "title": "電子研討(二) `Seminar on Electronics(II)",
+      "title_parsed": {
+        "en_US": "Seminar on Electronics(II)",
+        "zh_TW": "電子研討(二)"
+      },
+      "url": "4928",
       "year": "全"
     },
     {
@@ -52773,55 +52728,6 @@
       "department": "電機工程學系碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "電機工程學系碩士班",
-      "hours": "2",
-      "hours_parsed": "2",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "EE108"
-      ],
-      "note": "",
-      "number": "60",
-      "number_parsed": 60,
-      "obligatory": "必修",
-      "obligatory_tf": true,
-      "prerequisite": "",
-      "professor": "張敏寬",
-      "time": "31,41",
-      "time_parsed": [
-        {
-          "day": 3,
-          "time": [
-            1
-          ]
-        },
-        {
-          "day": 4,
-          "time": [
-            1
-          ]
-        }
-      ],
-      "title": "通訊研討(二)* `Seminar on Communication(II)",
-      "title_parsed": {
-        "en_US": "Seminar on Communication(II)",
-        "zh_TW": "通訊研討(二)*"
-      },
-      "url": "4423",
-      "year": "全"
-    },
-    {
-      "class": "7",
-      "code": "7358",
-      "credits": "0",
-      "credits_parsed": 0,
-      "department": "電機工程學系碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
       "for_dept": "通訊工程研究所碩士班",
       "hours": "2",
       "hours_parsed": "2",
@@ -52861,6 +52767,55 @@
         "zh_TW": "通訊研討(二)*"
       },
       "url": "4424",
+      "year": "全"
+    },
+    {
+      "class": "7",
+      "code": "7358",
+      "credits": "0",
+      "credits_parsed": 0,
+      "department": "電機工程學系碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "電機工程學系碩士班",
+      "hours": "2",
+      "hours_parsed": "2",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "EE108"
+      ],
+      "note": "",
+      "number": "60",
+      "number_parsed": 60,
+      "obligatory": "必修",
+      "obligatory_tf": true,
+      "prerequisite": "",
+      "professor": "張敏寬",
+      "time": "31,41",
+      "time_parsed": [
+        {
+          "day": 3,
+          "time": [
+            1
+          ]
+        },
+        {
+          "day": 4,
+          "time": [
+            1
+          ]
+        }
+      ],
+      "title": "通訊研討(二)* `Seminar on Communication(II)",
+      "title_parsed": {
+        "en_US": "Seminar on Communication(II)",
+        "zh_TW": "通訊研討(二)*"
+      },
+      "url": "4423",
       "year": "全"
     },
     {
@@ -53155,42 +53110,6 @@
       "department": "電機工程學系碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "電機工程學系智慧電動車及綠能科技產業碩士專班",
-      "hours": "0",
-      "hours_parsed": "0",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "*"
-      ],
-      "note": "",
-      "number": "14",
-      "number_parsed": 14,
-      "obligatory": "必修",
-      "obligatory_tf": true,
-      "prerequisite": "",
-      "professor": "全體教師",
-      "time": "*",
-      "time_parsed": [],
-      "title": "碩士論文 `Thesis",
-      "title_parsed": {
-        "en_US": "Thesis",
-        "zh_TW": "碩士論文"
-      },
-      "url": "5787",
-      "year": "全"
-    },
-    {
-      "class": "7",
-      "code": "7362",
-      "credits": "3",
-      "credits_parsed": 3,
-      "department": "電機工程學系碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
       "for_dept": "電機工程學系碩士班",
       "hours": "0",
       "hours_parsed": "0",
@@ -53217,6 +53136,42 @@
         "zh_TW": "碩士論文"
       },
       "url": "4427",
+      "year": "全"
+    },
+    {
+      "class": "7",
+      "code": "7362",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "電機工程學系碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "電機工程學系智慧電動車及綠能科技產業碩士專班",
+      "hours": "0",
+      "hours_parsed": "0",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "*"
+      ],
+      "note": "",
+      "number": "14",
+      "number_parsed": 14,
+      "obligatory": "必修",
+      "obligatory_tf": true,
+      "prerequisite": "",
+      "professor": "全體教師",
+      "time": "*",
+      "time_parsed": [],
+      "title": "碩士論文 `Thesis",
+      "title_parsed": {
+        "en_US": "Thesis",
+        "zh_TW": "碩士論文"
+      },
+      "url": "5787",
       "year": "全"
     },
     {
@@ -53431,42 +53386,6 @@
       "department": "材料科學與工程學系碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "材料科學與工程學系材料產業碩士專班",
-      "hours": "0",
-      "hours_parsed": "0",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "*"
-      ],
-      "note": "",
-      "number": "3",
-      "number_parsed": 3,
-      "obligatory": "必修",
-      "obligatory_tf": true,
-      "prerequisite": "",
-      "professor": "全體教師",
-      "time": "*",
-      "time_parsed": [],
-      "title": "碩士論文 `Thesis",
-      "title_parsed": {
-        "en_US": "Thesis",
-        "zh_TW": "碩士論文"
-      },
-      "url": "5642",
-      "year": "全"
-    },
-    {
-      "class": "7",
-      "code": "7366",
-      "credits": "3",
-      "credits_parsed": 3,
-      "department": "材料科學與工程學系碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
       "for_dept": "材料科學與工程學系碩士班",
       "hours": "0",
       "hours_parsed": "0",
@@ -53493,6 +53412,42 @@
         "zh_TW": "碩士論文"
       },
       "url": "4431",
+      "year": "全"
+    },
+    {
+      "class": "7",
+      "code": "7366",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "材料科學與工程學系碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "材料科學與工程學系材料產業碩士專班",
+      "hours": "0",
+      "hours_parsed": "0",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "*"
+      ],
+      "note": "",
+      "number": "3",
+      "number_parsed": 3,
+      "obligatory": "必修",
+      "obligatory_tf": true,
+      "prerequisite": "",
+      "professor": "全體教師",
+      "time": "*",
+      "time_parsed": [],
+      "title": "碩士論文 `Thesis",
+      "title_parsed": {
+        "en_US": "Thesis",
+        "zh_TW": "碩士論文"
+      },
+      "url": "5642",
       "year": "全"
     },
     {

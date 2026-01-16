@@ -926,51 +926,6 @@
       "year": "半"
     },
     {
-      "class": "0",
-      "code": "0122",
-      "credits": "2",
-      "credits_parsed": 2,
-      "department": "不限系別(進修學士班)",
-      "discipline": "法律與政治學群",
-      "enrolled_num": "0",
-      "for_dept": "不限系別(進修學士班)",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        ""
-      ],
-      "note": "【跨校線上課程】細節ewant育網平台另行EMail通知。不開放校際選課及加簽。擬於4/17、5/8、5/22晚間(19:00-21:00)進行直播，該直播單元將列入學期成績評分項目(實際直播時間依平臺公告為準)。 原「國防教育：防衛動員」更名,已修過者請勿再選本課。",
-      "number": "40",
-      "number_parsed": 40,
-      "obligatory": "必修",
-      "obligatory_tf": true,
-      "prerequisite": "",
-      "professor": "全體教師",
-      "time": "5101112",
-      "time_parsed": [
-        {
-          "day": 5,
-          "time": [
-            10,
-            11,
-            12
-          ]
-        }
-      ],
-      "title": "全民國防教育軍事訓練課程-防衛動員 `All-out Defense Education Military Training-Defense Mobilization",
-      "title_parsed": {
-        "en_US": "All-out Defense Education Military Training-Defense Mobilization",
-        "zh_TW": "全民國防教育軍事訓練課程-防衛動員"
-      },
-      "url": "5668",
-      "year": "半"
-    },
-    {
       "class": "",
       "code": "0701",
       "credits": "1",
