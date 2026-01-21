@@ -1,6 +1,51 @@
 {
   "course": [
     {
+      "class": "6",
+      "code": "7591",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "高階經理人碩士在職專班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "高階經理人碩士在職專班",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "SC420"
+      ],
+      "note": "",
+      "number": "40",
+      "number_parsed": 40,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "卓信佑",
+      "time": "3111213",
+      "time_parsed": [
+        {
+          "day": 3,
+          "time": [
+            11,
+            12,
+            13
+          ]
+        }
+      ],
+      "title": "策略行銷管理專題 `Seminar on Strategic Marketing Management",
+      "title_parsed": {
+        "en_US": "Seminar on Strategic Marketing Management",
+        "zh_TW": "策略行銷管理專題"
+      },
+      "url": "5634",
+      "year": "半"
+    },
+    {
       "class": "7",
       "code": "7600",
       "credits": "2",
@@ -69,7 +114,7 @@
       "obligatory": "必修",
       "obligatory_tf": true,
       "prerequisite": "",
-      "professor": "李長晏",
+      "professor": "黃柔翡",
       "time": "65",
       "time_parsed": [
         {
@@ -955,7 +1000,7 @@
       "obligatory": "必修",
       "obligatory_tf": true,
       "prerequisite": "",
-      "professor": "董澍琦",
+      "professor": "李超雄",
       "time": "*",
       "time_parsed": [],
       "title": "投資與風險管理 `Investment and Risk",
@@ -1849,8 +1894,8 @@
         "SC553"
       ],
       "note": "",
-      "number": "40",
-      "number_parsed": 40,
+      "number": "30",
+      "number_parsed": 30,
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
@@ -1866,10 +1911,10 @@
           ]
         }
       ],
-      "title": "人工智慧發展策略 `Artificial Intelligence Development Strategy",
+      "title": "高等電子商務與行銷策略 `Advanced Electronic Commerce and Marketing Strategy",
       "title_parsed": {
-        "en_US": "Artificial Intelligence Development Strategy",
-        "zh_TW": "人工智慧發展策略"
+        "en_US": "Advanced Electronic Commerce and Marketing Strategy",
+        "zh_TW": "高等電子商務與行銷策略"
       },
       "url": "2053",
       "year": "半"
@@ -7510,8 +7555,8 @@
         "C103"
       ],
       "note": "",
-      "number": "50",
-      "number_parsed": 50,
+      "number": "30",
+      "number_parsed": 30,
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
@@ -7527,10 +7572,10 @@
           ]
         }
       ],
-      "title": "GPS衛星定位測量 `GPS Satellite Surveying",
+      "title": "高等測量平差法(一) `Advanced Data Adjustment(I)",
       "title_parsed": {
-        "en_US": "GPS Satellite Surveying",
-        "zh_TW": "GPS衛星定位測量"
+        "en_US": "Advanced Data Adjustment(I)",
+        "zh_TW": "高等測量平差法(一)"
       },
       "url": "4542",
       "year": "半"
@@ -7639,7 +7684,7 @@
         ""
       ],
       "intern_time": "",
-      "language": "中文",
+      "language": "英文",
       "location": [
         "C404"
       ],
@@ -7650,10 +7695,10 @@
       "obligatory_tf": true,
       "prerequisite": "",
       "professor": "林坤儀",
-      "time": "4101112",
+      "time": "2101112",
       "time_parsed": [
         {
-          "day": 4,
+          "day": 2,
           "time": [
             10,
             11,
@@ -8468,6 +8513,50 @@
         "zh_TW": "食品科學研究方法與論文寫作(二)"
       },
       "url": "5826",
+      "year": "半"
+    },
+    {
+      "class": "7",
+      "code": "7799",
+      "credits": "2",
+      "credits_parsed": 2,
+      "department": "法律學系碩士在職專班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "法律學系碩士在職專班",
+      "hours": "2",
+      "hours_parsed": "2",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "SC320"
+      ],
+      "note": "",
+      "number": "20",
+      "number_parsed": 20,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "廖緯民",
+      "time": "51213",
+      "time_parsed": [
+        {
+          "day": 5,
+          "time": [
+            12,
+            13
+          ]
+        }
+      ],
+      "title": "民法解釋與判決論證案例研究 `Seminar on Case Study of Interpretation and Argumentation of Civil Law",
+      "title_parsed": {
+        "en_US": "Seminar on Case Study of Interpretation and Argumentation of Civil Law",
+        "zh_TW": "民法解釋與判決論證案例研究"
+      },
+      "url": "5377",
       "year": "半"
     },
     {

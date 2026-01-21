@@ -855,7 +855,7 @@
       "location": [
         "Y109"
       ],
-      "note": "不開放校際選課|Inter-school course selection closed.",
+      "note": "(芝田典子老師)不開放校際選課|Inter-school course selection closed.",
       "number": "40",
       "number_parsed": 40,
       "obligatory": "必修",
@@ -923,51 +923,6 @@
         "zh_TW": "新生專題：設計人生"
       },
       "url": "3855",
-      "year": "半"
-    },
-    {
-      "class": "0",
-      "code": "0122",
-      "credits": "2",
-      "credits_parsed": 2,
-      "department": "不限系別(進修學士班)",
-      "discipline": "法律與政治學群",
-      "enrolled_num": "0",
-      "for_dept": "不限系別(進修學士班)",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        ""
-      ],
-      "note": "【跨校線上課程】細節ewant育網平台另行EMail通知。不開放校際選課及加簽。擬於4/17、5/8、5/22晚間(19:00-21:00)進行直播，該直播單元將列入學期成績評分項目(實際直播時間依平臺公告為準)。 原「國防教育：防衛動員」更名,已修過者請勿再選本課。",
-      "number": "40",
-      "number_parsed": 40,
-      "obligatory": "必修",
-      "obligatory_tf": true,
-      "prerequisite": "",
-      "professor": "全體教師",
-      "time": "5101112",
-      "time_parsed": [
-        {
-          "day": 5,
-          "time": [
-            10,
-            11,
-            12
-          ]
-        }
-      ],
-      "title": "全民國防教育軍事訓練課程-防衛動員 `All-out Defense Education Military Training-Defense Mobilization",
-      "title_parsed": {
-        "en_US": "All-out Defense Education Military Training-Defense Mobilization",
-        "zh_TW": "全民國防教育軍事訓練課程-防衛動員"
-      },
-      "url": "5668",
       "year": "半"
     },
     {
@@ -2344,7 +2299,7 @@
       "credits_parsed": 2,
       "department": "數位人文與文創產業進修學士學位學程",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "22",
       "for_dept": "數位人文與文創產業進修學士學位學程",
       "hours": "2",
       "hours_parsed": "2",
@@ -2388,7 +2343,7 @@
       "credits_parsed": 2,
       "department": "數位人文與文創產業進修學士學位學程",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "22",
       "for_dept": "數位人文與文創產業進修學士學位學程",
       "hours": "2",
       "hours_parsed": "2",
@@ -2432,7 +2387,7 @@
       "credits_parsed": 2,
       "department": "數位人文與文創產業進修學士學位學程",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "22",
       "for_dept": "數位人文與文創產業進修學士學位學程",
       "hours": "2",
       "hours_parsed": "2",
@@ -2476,7 +2431,7 @@
       "credits_parsed": 2,
       "department": "數位人文與文創產業進修學士學位學程",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "22",
       "for_dept": "數位人文與文創產業進修學士學位學程",
       "hours": "2",
       "hours_parsed": "2",
@@ -2496,7 +2451,15 @@
       "prerequisite": "",
       "professor": "吳政憲",
       "time": "11011",
-      "time_parsed": [],
+      "time_parsed": [
+        {
+          "day": 1,
+          "time": [
+            10,
+            11
+          ]
+        }
+      ],
       "title": "專題講座 `Seminar",
       "title_parsed": {
         "en_US": "Seminar",
@@ -3930,7 +3893,7 @@
       "credits_parsed": 2,
       "department": "數位人文與文創產業進修學士學位學程",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "25",
       "for_dept": "數位人文與文創產業進修學士學位學程",
       "hours": "2",
       "hours_parsed": "2",
@@ -3965,50 +3928,6 @@
         "zh_TW": "文創專案企劃與執行"
       },
       "url": "2349",
-      "year": "半"
-    },
-    {
-      "class": "2",
-      "code": "2542",
-      "credits": "2",
-      "credits_parsed": 2,
-      "department": "數位人文與文創產業進修學士學位學程",
-      "discipline": "",
-      "enrolled_num": "0",
-      "for_dept": "數位人文與文創產業進修學士學位學程",
-      "hours": "2",
-      "hours_parsed": "2",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "Y410"
-      ],
-      "note": "本系二年級學生預先灌課",
-      "number": "40",
-      "number_parsed": 40,
-      "obligatory": "必修",
-      "obligatory_tf": true,
-      "prerequisite": "行銷管理",
-      "professor": "蔡奇睿",
-      "time": "41011",
-      "time_parsed": [
-        {
-          "day": 4,
-          "time": [
-            10,
-            11
-          ]
-        }
-      ],
-      "title": "創意行銷企劃 `Creative Marketing Planning",
-      "title_parsed": {
-        "en_US": "Creative Marketing Planning",
-        "zh_TW": "創意行銷企劃"
-      },
-      "url": "2632",
       "year": "半"
     },
     {
@@ -4057,12 +3976,56 @@
     },
     {
       "class": "2",
+      "code": "2542",
+      "credits": "2",
+      "credits_parsed": 2,
+      "department": "數位人文與文創產業進修學士學位學程",
+      "discipline": "",
+      "enrolled_num": "25",
+      "for_dept": "數位人文與文創產業進修學士學位學程",
+      "hours": "2",
+      "hours_parsed": "2",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "Y410"
+      ],
+      "note": "本系二年級學生預先灌課",
+      "number": "40",
+      "number_parsed": 40,
+      "obligatory": "必修",
+      "obligatory_tf": true,
+      "prerequisite": "行銷管理",
+      "professor": "蔡奇睿",
+      "time": "41011",
+      "time_parsed": [
+        {
+          "day": 4,
+          "time": [
+            10,
+            11
+          ]
+        }
+      ],
+      "title": "創意行銷企劃 `Creative Marketing Planning",
+      "title_parsed": {
+        "en_US": "Creative Marketing Planning",
+        "zh_TW": "創意行銷企劃"
+      },
+      "url": "2632",
+      "year": "半"
+    },
+    {
+      "class": "2",
       "code": "2543",
       "credits": "2",
       "credits_parsed": 2,
       "department": "數位人文與文創產業進修學士學位學程",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "25",
       "for_dept": "數位人文與文創產業進修學士學位學程",
       "hours": "2",
       "hours_parsed": "2",
@@ -4106,7 +4069,7 @@
       "credits_parsed": 2,
       "department": "數位人文與文創產業進修學士學位學程",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "25",
       "for_dept": "數位人文與文創產業進修學士學位學程",
       "hours": "2",
       "hours_parsed": "2",
@@ -4150,7 +4113,7 @@
       "credits_parsed": 2,
       "department": "數位人文與文創產業進修學士學位學程",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "25",
       "for_dept": "數位人文與文創產業進修學士學位學程",
       "hours": "2",
       "hours_parsed": "2",
@@ -4365,46 +4328,47 @@
     },
     {
       "class": "2",
-      "code": "2550",
-      "credits": "2",
-      "credits_parsed": 2,
-      "department": "數位人文與文創產業進修學士學位學程",
+      "code": "2551",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "創新產業經營進修學士學位學程",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "數位人文與文創產業進修學士學位學程",
-      "hours": "2",
-      "hours_parsed": "2",
+      "for_dept": "生物產業管理進修學士學位學程",
+      "hours": "3",
+      "hours_parsed": "3",
       "intern_location": [
         ""
       ],
       "intern_time": "",
       "language": "中文",
       "location": [
-        "Y208"
+        "Y204"
       ],
       "note": "",
-      "number": "35",
-      "number_parsed": 35,
+      "number": "10",
+      "number_parsed": 10,
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "饒凱斐",
-      "time": "21011",
+      "professor": "謝焸君",
+      "time": "391011",
       "time_parsed": [
         {
-          "day": 2,
+          "day": 3,
           "time": [
             10,
-            11
+            11,
+            9
           ]
         }
       ],
-      "title": "消費者行為 `Consumer Behavior",
+      "title": "知識管理與創新A `Knowledge Management and Innovation",
       "title_parsed": {
-        "en_US": "Consumer Behavior",
-        "zh_TW": "消費者行為"
+        "en_US": "Knowledge Management and Innovation",
+        "zh_TW": "知識管理與創新A"
       },
-      "url": "5835",
+      "url": "4037",
       "year": "半"
     },
     {
@@ -4450,51 +4414,6 @@
         "zh_TW": "知識管理與創新"
       },
       "url": "2917",
-      "year": "半"
-    },
-    {
-      "class": "2",
-      "code": "2551",
-      "credits": "3",
-      "credits_parsed": 3,
-      "department": "創新產業經營進修學士學位學程",
-      "discipline": "",
-      "enrolled_num": "0",
-      "for_dept": "生物產業管理進修學士學位學程",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "Y204"
-      ],
-      "note": "",
-      "number": "10",
-      "number_parsed": 10,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "謝焸君",
-      "time": "391011",
-      "time_parsed": [
-        {
-          "day": 3,
-          "time": [
-            10,
-            11,
-            9
-          ]
-        }
-      ],
-      "title": "知識管理與創新A `Knowledge Management and Innovation",
-      "title_parsed": {
-        "en_US": "Knowledge Management and Innovation",
-        "zh_TW": "知識管理與創新A"
-      },
-      "url": "4037",
       "year": "半"
     },
     {
@@ -4954,7 +4873,7 @@
         ""
       ],
       "intern_time": "",
-      "language": "中文",
+      "language": "英文",
       "location": [
         "Y403"
       ],
@@ -5521,6 +5440,51 @@
     },
     {
       "class": "3",
+      "code": "3530",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "生物產業管理進修學士學位學程",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "生物產業管理進修學士學位學程",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "Y605"
+      ],
+      "note": "",
+      "number": "30",
+      "number_parsed": 30,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "楊上禾",
+      "time": "1101112",
+      "time_parsed": [
+        {
+          "day": 1,
+          "time": [
+            10,
+            11,
+            12
+          ]
+        }
+      ],
+      "title": "台灣新式調茶-茶遊世界 `Taiwan's Creative Tea Mocktail and Take Tea To The World",
+      "title_parsed": {
+        "en_US": "Taiwan's Creative Tea Mocktail and Take Tea To The World",
+        "zh_TW": "台灣新式調茶-茶遊世界"
+      },
+      "url": "4059",
+      "year": "半"
+    },
+    {
+      "class": "3",
       "code": "3532",
       "credits": "3",
       "credits_parsed": 3,
@@ -5616,7 +5580,7 @@
       "credits_parsed": 2,
       "department": "數位人文與文創產業進修學士學位學程",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "24",
       "for_dept": "數位人文與文創產業進修學士學位學程",
       "hours": "2",
       "hours_parsed": "2",
@@ -5660,7 +5624,7 @@
       "credits_parsed": 2,
       "department": "數位人文與文創產業進修學士學位學程",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "24",
       "for_dept": "數位人文與文創產業進修學士學位學程",
       "hours": "2",
       "hours_parsed": "2",
@@ -5704,7 +5668,7 @@
       "credits_parsed": 2,
       "department": "數位人文與文創產業進修學士學位學程",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "24",
       "for_dept": "數位人文與文創產業進修學士學位學程",
       "hours": "2",
       "hours_parsed": "2",
@@ -5748,7 +5712,7 @@
       "credits_parsed": 2,
       "department": "數位人文與文創產業進修學士學位學程",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "24",
       "for_dept": "數位人文與文創產業進修學士學位學程",
       "hours": "2",
       "hours_parsed": "2",
@@ -7120,7 +7084,7 @@
       "credits_parsed": 4,
       "department": "數位人文與文創產業進修學士學位學程",
       "discipline": "",
-      "enrolled_num": "0",
+      "enrolled_num": "24",
       "for_dept": "數位人文與文創產業進修學士學位學程",
       "hours": "4",
       "hours_parsed": "4",
@@ -7274,13 +7238,13 @@
       "obligatory_tf": false,
       "prerequisite": "",
       "professor": "許銘華",
-      "time": "21011",
+      "time": "21213",
       "time_parsed": [
         {
           "day": 2,
           "time": [
-            10,
-            11
+            12,
+            13
           ]
         }
       ],
@@ -7659,7 +7623,7 @@
         ""
       ],
       "intern_time": "",
-      "language": "中/英文",
+      "language": "英文",
       "location": [
         "Y409"
       ],
@@ -7836,7 +7800,7 @@
         ""
       ],
       "intern_time": "",
-      "language": "中/英文",
+      "language": "英文",
       "location": [
         "Y208"
       ],
