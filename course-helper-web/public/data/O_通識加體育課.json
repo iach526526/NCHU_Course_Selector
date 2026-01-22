@@ -12253,13 +12253,13 @@
       "obligatory_tf": true,
       "prerequisite": "雙語教材教法",
       "professor": "沈育全",
-      "time": "278",
+      "time": "256",
       "time_parsed": [
         {
           "day": 2,
           "time": [
-            7,
-            8
+            5,
+            6
           ]
         }
       ],
@@ -12297,13 +12297,13 @@
       "obligatory_tf": true,
       "prerequisite": "",
       "professor": "沈育全",
-      "time": "256",
+      "time": "278",
       "time_parsed": [
         {
           "day": 2,
           "time": [
-            5,
-            6
+            7,
+            8
           ]
         }
       ],

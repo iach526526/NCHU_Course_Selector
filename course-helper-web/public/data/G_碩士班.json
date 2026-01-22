@@ -9071,51 +9071,6 @@
       "department": "國際政治研究所碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "亞洲與中國研究英語碩士學位學程",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "英文",
-      "location": [
-        "SC931"
-      ],
-      "note": "",
-      "number": "10",
-      "number_parsed": 10,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "楊三億",
-      "time": "4234",
-      "time_parsed": [
-        {
-          "day": 4,
-          "time": [
-            2,
-            3,
-            4
-          ]
-        }
-      ],
-      "title": "地緣政治與歐亞研究專題 `Special Topic on Geopolitics and Eurasia Studies",
-      "title_parsed": {
-        "en_US": "Special Topic on Geopolitics and Eurasia Studies",
-        "zh_TW": "地緣政治與歐亞研究專題"
-      },
-      "url": "2440",
-      "year": "半"
-    },
-    {
-      "class": "6",
-      "code": "6086",
-      "credits": "3",
-      "credits_parsed": 3,
-      "department": "國際政治研究所碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
       "for_dept": "國際政治研究所碩士班",
       "hours": "3",
       "hours_parsed": "3",
@@ -9151,6 +9106,51 @@
         "zh_TW": "地緣政治與歐亞研究專題"
       },
       "url": "4853",
+      "year": "半"
+    },
+    {
+      "class": "6",
+      "code": "6086",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "國際政治研究所碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "亞洲與中國研究英語碩士學位學程",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "英文",
+      "location": [
+        "SC931"
+      ],
+      "note": "",
+      "number": "10",
+      "number_parsed": 10,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "楊三億",
+      "time": "4234",
+      "time_parsed": [
+        {
+          "day": 4,
+          "time": [
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "title": "地緣政治與歐亞研究專題 `Special Topic on Geopolitics and Eurasia Studies",
+      "title_parsed": {
+        "en_US": "Special Topic on Geopolitics and Eurasia Studies",
+        "zh_TW": "地緣政治與歐亞研究專題"
+      },
+      "url": "2440",
       "year": "半"
     },
     {
@@ -9251,51 +9251,6 @@
       "department": "國際政治研究所碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "國際政治研究所碩士班",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "英文",
-      "location": [
-        "SC430"
-      ],
-      "note": "",
-      "number": "10",
-      "number_parsed": 10,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "辛妮娜",
-      "time": "3678",
-      "time_parsed": [
-        {
-          "day": 3,
-          "time": [
-            6,
-            7,
-            8
-          ]
-        }
-      ],
-      "title": "南亞與東南亞區域安全 `Seminar on Regional Security of South and Southeast Asia",
-      "title_parsed": {
-        "en_US": "Seminar on Regional Security of South and Southeast Asia",
-        "zh_TW": "南亞與東南亞區域安全"
-      },
-      "url": "3331",
-      "year": "半"
-    },
-    {
-      "class": "6",
-      "code": "6088",
-      "credits": "3",
-      "credits_parsed": 3,
-      "department": "國際政治研究所碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
       "for_dept": "亞洲與中國研究英語碩士學位學程",
       "hours": "3",
       "hours_parsed": "3",
@@ -9335,13 +9290,13 @@
     },
     {
       "class": "6",
-      "code": "6089",
+      "code": "6088",
       "credits": "3",
       "credits_parsed": 3,
       "department": "國際政治研究所碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "亞洲與中國研究英語碩士學位學程",
+      "for_dept": "國際政治研究所碩士班",
       "hours": "3",
       "hours_parsed": "3",
       "intern_location": [
@@ -9358,24 +9313,24 @@
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "沈育全",
-      "time": "4567",
+      "professor": "辛妮娜",
+      "time": "3678",
       "time_parsed": [
         {
-          "day": 4,
+          "day": 3,
           "time": [
-            5,
             6,
-            7
+            7,
+            8
           ]
         }
       ],
-      "title": "質性研究方法 `Qualitative ResearchMethods",
+      "title": "南亞與東南亞區域安全 `Seminar on Regional Security of South and Southeast Asia",
       "title_parsed": {
-        "en_US": "Qualitative ResearchMethods",
-        "zh_TW": "質性研究方法"
+        "en_US": "Seminar on Regional Security of South and Southeast Asia",
+        "zh_TW": "南亞與東南亞區域安全"
       },
-      "url": "5251",
+      "url": "3331",
       "year": "半"
     },
     {
@@ -9421,6 +9376,51 @@
         "zh_TW": "質性研究方法"
       },
       "url": "5325",
+      "year": "半"
+    },
+    {
+      "class": "6",
+      "code": "6089",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "國際政治研究所碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "亞洲與中國研究英語碩士學位學程",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "英文",
+      "location": [
+        "SC430"
+      ],
+      "note": "",
+      "number": "10",
+      "number_parsed": 10,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "沈育全",
+      "time": "4567",
+      "time_parsed": [
+        {
+          "day": 4,
+          "time": [
+            5,
+            6,
+            7
+          ]
+        }
+      ],
+      "title": "質性研究方法 `Qualitative ResearchMethods",
+      "title_parsed": {
+        "en_US": "Qualitative ResearchMethods",
+        "zh_TW": "質性研究方法"
+      },
+      "url": "5251",
       "year": "半"
     },
     {
@@ -13947,14 +13947,14 @@
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "陳佳德",
-      "time": "478",
+      "professor": "吳憶真",
+      "time": "434",
       "time_parsed": [
         {
           "day": 4,
           "time": [
-            7,
-            8
+            3,
+            4
           ]
         }
       ],
@@ -14038,7 +14038,7 @@
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "陳佳德",
+      "professor": "吳憶真",
       "time": "589",
       "time_parsed": [
         {
@@ -14276,50 +14276,6 @@
       "department": "植物病理學系碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "植物病理學系碩士班",
-      "hours": "2",
-      "hours_parsed": "2",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "R6B09"
-      ],
-      "note": "",
-      "number": "30",
-      "number_parsed": 30,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "黃姿碧",
-      "time": "534",
-      "time_parsed": [
-        {
-          "day": 5,
-          "time": [
-            3,
-            4
-          ]
-        }
-      ],
-      "title": "微生物訊息傳遞機制與生理機能調控 `Microbial Communication – Mechanisms and Regulation of Physiological",
-      "title_parsed": {
-        "en_US": "Microbial Communication – Mechanisms and Regulation of Physiological",
-        "zh_TW": "微生物訊息傳遞機制與生理機能調控"
-      },
-      "url": "2068",
-      "year": "全"
-    },
-    {
-      "class": "6",
-      "code": "6216",
-      "credits": "2",
-      "credits_parsed": 2,
-      "department": "植物病理學系碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
       "for_dept": "植物保健碩士學位學程",
       "hours": "2",
       "hours_parsed": "2",
@@ -14354,6 +14310,50 @@
         "zh_TW": "微生物訊息傳遞機制與生理機能調控"
       },
       "url": "5605",
+      "year": "全"
+    },
+    {
+      "class": "6",
+      "code": "6216",
+      "credits": "2",
+      "credits_parsed": 2,
+      "department": "植物病理學系碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "植物病理學系碩士班",
+      "hours": "2",
+      "hours_parsed": "2",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "R6B09"
+      ],
+      "note": "",
+      "number": "30",
+      "number_parsed": 30,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "黃姿碧",
+      "time": "534",
+      "time_parsed": [
+        {
+          "day": 5,
+          "time": [
+            3,
+            4
+          ]
+        }
+      ],
+      "title": "微生物訊息傳遞機制與生理機能調控 `Microbial Communication – Mechanisms and Regulation of Physiological",
+      "title_parsed": {
+        "en_US": "Microbial Communication – Mechanisms and Regulation of Physiological",
+        "zh_TW": "微生物訊息傳遞機制與生理機能調控"
+      },
+      "url": "2068",
       "year": "全"
     },
     {
@@ -14847,6 +14847,51 @@
     },
     {
       "class": "6",
+      "code": "6232",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "動物科學系碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "動物科學系碩士班",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "*"
+      ],
+      "note": "",
+      "number": "25",
+      "number_parsed": 25,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "陳彥伯",
+      "time": "5234",
+      "time_parsed": [
+        {
+          "day": 5,
+          "time": [
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "title": "乳品學特論 `Special Topics in Milk Science and Technology",
+      "title_parsed": {
+        "en_US": "Special Topics in Milk Science and Technology",
+        "zh_TW": "乳品學特論"
+      },
+      "url": "4916",
+      "year": "半"
+    },
+    {
+      "class": "6",
       "code": "6233",
       "credits": "2",
       "credits_parsed": 2,
@@ -15238,50 +15283,6 @@
       "year": "半"
     },
     {
-      "class": "8",
-      "code": "6241",
-      "credits": "1",
-      "credits_parsed": 1,
-      "department": "昆蟲學系碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
-      "for_dept": "昆蟲學系博士班",
-      "hours": "2",
-      "hours_parsed": "2",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "EC7C03"
-      ],
-      "note": "",
-      "number": "6",
-      "number_parsed": 6,
-      "obligatory": "必修",
-      "obligatory_tf": true,
-      "prerequisite": "",
-      "professor": "劉威廷",
-      "time": "312",
-      "time_parsed": [
-        {
-          "day": 3,
-          "time": [
-            1,
-            2
-          ]
-        }
-      ],
-      "title": "專題討論(八) `Seminar(VIII)",
-      "title_parsed": {
-        "en_US": "Seminar(VIII)",
-        "zh_TW": "專題討論(八)"
-      },
-      "url": "3467",
-      "year": "半"
-    },
-    {
       "class": "6",
       "code": "6241",
       "credits": "1",
@@ -15326,53 +15327,48 @@
       "year": "半"
     },
     {
-      "class": "6",
-      "code": "6242",
-      "credits": "3",
-      "credits_parsed": 3,
-      "department": "植物醫學暨安全農業碩士學位學程",
+      "class": "8",
+      "code": "6241",
+      "credits": "1",
+      "credits_parsed": 1,
+      "department": "昆蟲學系碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "植物保健碩士學位學程",
-      "hours": "1",
-      "hours_parsed": "1",
+      "for_dept": "昆蟲學系博士班",
+      "hours": "2",
+      "hours_parsed": "2",
       "intern_location": [
-        "2B09"
+        ""
       ],
-      "intern_time": "38910111213",
+      "intern_time": "",
       "language": "中文",
       "location": [
-        "2B09"
+        "EC7C03"
       ],
       "note": "",
-      "number": "3",
-      "number_parsed": 3,
-      "obligatory": "選修",
-      "obligatory_tf": false,
+      "number": "6",
+      "number_parsed": 6,
+      "obligatory": "必修",
+      "obligatory_tf": true,
       "prerequisite": "",
-      "professor": "王智立",
-      "time": "37",
+      "professor": "劉威廷",
+      "time": "312",
       "time_parsed": [
         {
           "day": 3,
           "time": [
-            10,
-            11,
-            12,
-            13,
-            7,
-            8,
-            9
+            1,
+            2
           ]
         }
       ],
-      "title": "植物病蟲害臨床診斷 `Plant Disease and Pest Clinic",
+      "title": "專題討論(八) `Seminar(VIII)",
       "title_parsed": {
-        "en_US": "Plant Disease and Pest Clinic",
-        "zh_TW": "植物病蟲害臨床診斷"
+        "en_US": "Seminar(VIII)",
+        "zh_TW": "專題討論(八)"
       },
-      "url": "5607",
-      "year": "全"
+      "url": "3467",
+      "year": "半"
     },
     {
       "class": "6",
@@ -15421,6 +15417,55 @@
         "zh_TW": "植物病蟲害臨床診斷"
       },
       "url": "3622",
+      "year": "全"
+    },
+    {
+      "class": "6",
+      "code": "6242",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "植物醫學暨安全農業碩士學位學程",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "植物保健碩士學位學程",
+      "hours": "1",
+      "hours_parsed": "1",
+      "intern_location": [
+        "2B09"
+      ],
+      "intern_time": "38910111213",
+      "language": "中文",
+      "location": [
+        "2B09"
+      ],
+      "note": "",
+      "number": "3",
+      "number_parsed": 3,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "王智立",
+      "time": "37",
+      "time_parsed": [
+        {
+          "day": 3,
+          "time": [
+            10,
+            11,
+            12,
+            13,
+            7,
+            8,
+            9
+          ]
+        }
+      ],
+      "title": "植物病蟲害臨床診斷 `Plant Disease and Pest Clinic",
+      "title_parsed": {
+        "en_US": "Plant Disease and Pest Clinic",
+        "zh_TW": "植物病蟲害臨床診斷"
+      },
+      "url": "5607",
       "year": "全"
     },
     {
@@ -15604,50 +15649,6 @@
       "year": "半"
     },
     {
-      "class": "6",
-      "code": "6247",
-      "credits": "1",
-      "credits_parsed": 1,
-      "department": "昆蟲學系碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
-      "for_dept": "昆蟲學系碩士班",
-      "hours": "2",
-      "hours_parsed": "2",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中/英文",
-      "location": [
-        "EC7D09"
-      ],
-      "note": "使用全英文課綱、教材與評量方式Syllabus, teaching materials and assessment methods are all in english",
-      "number": "30",
-      "number_parsed": 30,
-      "obligatory": "必修",
-      "obligatory_tf": true,
-      "prerequisite": "",
-      "professor": "郭美華",
-      "time": "334",
-      "time_parsed": [
-        {
-          "day": 3,
-          "time": [
-            3,
-            4
-          ]
-        }
-      ],
-      "title": "專題演講(二) `Seminar(II)",
-      "title_parsed": {
-        "en_US": "Seminar(II)",
-        "zh_TW": "專題演講(二)"
-      },
-      "url": "5244",
-      "year": "半"
-    },
-    {
       "class": "8",
       "code": "6247",
       "credits": "1",
@@ -15689,6 +15690,50 @@
         "zh_TW": "專題演講(二)"
       },
       "url": "3405",
+      "year": "半"
+    },
+    {
+      "class": "6",
+      "code": "6247",
+      "credits": "1",
+      "credits_parsed": 1,
+      "department": "昆蟲學系碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "昆蟲學系碩士班",
+      "hours": "2",
+      "hours_parsed": "2",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中/英文",
+      "location": [
+        "EC7D09"
+      ],
+      "note": "使用全英文課綱、教材與評量方式Syllabus, teaching materials and assessment methods are all in english",
+      "number": "30",
+      "number_parsed": 30,
+      "obligatory": "必修",
+      "obligatory_tf": true,
+      "prerequisite": "",
+      "professor": "郭美華",
+      "time": "334",
+      "time_parsed": [
+        {
+          "day": 3,
+          "time": [
+            3,
+            4
+          ]
+        }
+      ],
+      "title": "專題演講(二) `Seminar(II)",
+      "title_parsed": {
+        "en_US": "Seminar(II)",
+        "zh_TW": "專題演講(二)"
+      },
+      "url": "5244",
       "year": "半"
     },
     {
@@ -17069,49 +17114,6 @@
       "department": "獸醫學系碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "微生物暨公共衛生學研究所碩士班",
-      "hours": "1",
-      "hours_parsed": "1",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "QB506"
-      ],
-      "note": "",
-      "number": "30",
-      "number_parsed": 30,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "謝嘉裕",
-      "time": "44",
-      "time_parsed": [
-        {
-          "day": 4,
-          "time": [
-            4
-          ]
-        }
-      ],
-      "title": "水生動物病毒學文獻探討(一)* `Seminar on Aquatic Animal Virology(I)",
-      "title_parsed": {
-        "en_US": "Seminar on Aquatic Animal Virology(I)",
-        "zh_TW": "水生動物病毒學文獻探討(一)*"
-      },
-      "url": "3517",
-      "year": "全"
-    },
-    {
-      "class": "6",
-      "code": "6291",
-      "credits": "1",
-      "credits_parsed": 1,
-      "department": "獸醫學系碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
       "for_dept": "獸醫學系碩士班",
       "hours": "1",
       "hours_parsed": "1",
@@ -17145,6 +17147,49 @@
         "zh_TW": "水生動物病毒學文獻探討(一)*"
       },
       "url": "3516",
+      "year": "全"
+    },
+    {
+      "class": "6",
+      "code": "6291",
+      "credits": "1",
+      "credits_parsed": 1,
+      "department": "獸醫學系碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "微生物暨公共衛生學研究所碩士班",
+      "hours": "1",
+      "hours_parsed": "1",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "QB506"
+      ],
+      "note": "",
+      "number": "30",
+      "number_parsed": 30,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "謝嘉裕",
+      "time": "44",
+      "time_parsed": [
+        {
+          "day": 4,
+          "time": [
+            4
+          ]
+        }
+      ],
+      "title": "水生動物病毒學文獻探討(一)* `Seminar on Aquatic Animal Virology(I)",
+      "title_parsed": {
+        "en_US": "Seminar on Aquatic Animal Virology(I)",
+        "zh_TW": "水生動物病毒學文獻探討(一)*"
+      },
+      "url": "3517",
       "year": "全"
     },
     {
@@ -37177,51 +37222,6 @@
       "department": "國家政策與公共事務研究所碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "國家政策與公共事務研究所碩士班",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "SC218"
-      ],
-      "note": "",
-      "number": "20",
-      "number_parsed": 20,
-      "obligatory": "必修",
-      "obligatory_tf": true,
-      "prerequisite": "",
-      "professor": "李長晏",
-      "time": "4234",
-      "time_parsed": [
-        {
-          "day": 4,
-          "time": [
-            2,
-            3,
-            4
-          ]
-        }
-      ],
-      "title": "公共政策理論與實務專題 `Seminar on Public Policy in Theory and Practice",
-      "title_parsed": {
-        "en_US": "Seminar on Public Policy in Theory and Practice",
-        "zh_TW": "公共政策理論與實務專題"
-      },
-      "url": "4057",
-      "year": "半"
-    },
-    {
-      "class": "6",
-      "code": "6873",
-      "credits": "3",
-      "credits_parsed": 3,
-      "department": "國家政策與公共事務研究所碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
       "for_dept": "國際精準農企業發展碩士學位學程",
       "hours": "3",
       "hours_parsed": "3",
@@ -37257,6 +37257,51 @@
         "zh_TW": "公共政策理論與實務專題"
       },
       "url": "3631",
+      "year": "半"
+    },
+    {
+      "class": "6",
+      "code": "6873",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "國家政策與公共事務研究所碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "國家政策與公共事務研究所碩士班",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "SC218"
+      ],
+      "note": "",
+      "number": "20",
+      "number_parsed": 20,
+      "obligatory": "必修",
+      "obligatory_tf": true,
+      "prerequisite": "",
+      "professor": "李長晏",
+      "time": "4234",
+      "time_parsed": [
+        {
+          "day": 4,
+          "time": [
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "title": "公共政策理論與實務專題 `Seminar on Public Policy in Theory and Practice",
+      "title_parsed": {
+        "en_US": "Seminar on Public Policy in Theory and Practice",
+        "zh_TW": "公共政策理論與實務專題"
+      },
+      "url": "4057",
       "year": "半"
     },
     {
@@ -37759,51 +37804,6 @@
       "department": "光電工程研究所碩士班",
       "discipline": "",
       "enrolled_num": "0",
-      "for_dept": "電機工程學系電子系統產業碩士專班",
-      "hours": "3",
-      "hours_parsed": "3",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "EE201"
-      ],
-      "note": "",
-      "number": "7",
-      "number_parsed": 7,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "汪芳興",
-      "time": "4234",
-      "time_parsed": [
-        {
-          "day": 4,
-          "time": [
-            2,
-            3,
-            4
-          ]
-        }
-      ],
-      "title": "平面顯示器原理與電路設計* `Principles and Circuit Design of Flat Panel Display",
-      "title_parsed": {
-        "en_US": "Principles and Circuit Design of Flat Panel Display",
-        "zh_TW": "平面顯示器原理與電路設計*"
-      },
-      "url": "5721",
-      "year": "半"
-    },
-    {
-      "class": "6",
-      "code": "6883",
-      "credits": "3",
-      "credits_parsed": 3,
-      "department": "光電工程研究所碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
       "for_dept": "光電工程研究所碩士班",
       "hours": "3",
       "hours_parsed": "3",
@@ -37884,6 +37884,51 @@
         "zh_TW": "平面顯示器原理與電路設計*"
       },
       "url": "4068",
+      "year": "半"
+    },
+    {
+      "class": "6",
+      "code": "6883",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "光電工程研究所碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "電機工程學系電子系統產業碩士專班",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "EE201"
+      ],
+      "note": "",
+      "number": "7",
+      "number_parsed": 7,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "汪芳興",
+      "time": "4234",
+      "time_parsed": [
+        {
+          "day": 4,
+          "time": [
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "title": "平面顯示器原理與電路設計* `Principles and Circuit Design of Flat Panel Display",
+      "title_parsed": {
+        "en_US": "Principles and Circuit Design of Flat Panel Display",
+        "zh_TW": "平面顯示器原理與電路設計*"
+      },
+      "url": "5721",
       "year": "半"
     },
     {
@@ -38021,6 +38066,51 @@
     },
     {
       "class": "6",
+      "code": "6893",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "教師專業發展研究所碩士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "教師專業發展研究所碩士班",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "中文",
+      "location": [
+        "SC747"
+      ],
+      "note": "",
+      "number": "30",
+      "number_parsed": 30,
+      "obligatory": "選修",
+      "obligatory_tf": false,
+      "prerequisite": "",
+      "professor": "吳文琪",
+      "time": "4678",
+      "time_parsed": [
+        {
+          "day": 4,
+          "time": [
+            6,
+            7,
+            8
+          ]
+        }
+      ],
+      "title": "教育科技研究 `Studies on Educational Technology",
+      "title_parsed": {
+        "en_US": "Studies on Educational Technology",
+        "zh_TW": "教育科技研究"
+      },
+      "url": "2516",
+      "year": "半"
+    },
+    {
+      "class": "6",
       "code": "6895",
       "credits": "1",
       "credits_parsed": 1,
@@ -38103,49 +38193,6 @@
         "zh_TW": "獨立研究(一)b"
       },
       "url": "2446",
-      "year": "半"
-    },
-    {
-      "class": "6",
-      "code": "6897",
-      "credits": "1",
-      "credits_parsed": 1,
-      "department": "教師專業發展研究所碩士班",
-      "discipline": "",
-      "enrolled_num": "0",
-      "for_dept": "教師專業發展研究所碩士班",
-      "hours": "1",
-      "hours_parsed": "1",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "中文",
-      "location": [
-        "SC913"
-      ],
-      "note": "",
-      "number": "30",
-      "number_parsed": 30,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "吳文琪",
-      "time": "25",
-      "time_parsed": [
-        {
-          "day": 2,
-          "time": [
-            5
-          ]
-        }
-      ],
-      "title": "獨立研究(一)c `Independent Study(I)",
-      "title_parsed": {
-        "en_US": "Independent Study(I)",
-        "zh_TW": "獨立研究(一)c"
-      },
-      "url": "5044",
       "year": "半"
     },
     {
@@ -44573,7 +44620,7 @@
         ""
       ],
       "intern_time": "",
-      "language": "中文",
+      "language": "英文",
       "location": [
         "EC7C03"
       ],
