@@ -9223,7 +9223,7 @@
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "待聘",
+      "professor": "辛妮娜",
       "time": "2234",
       "time_parsed": [
         {
@@ -9268,7 +9268,7 @@
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "待聘",
+      "professor": "辛妮娜",
       "time": "3678",
       "time_parsed": [
         {
@@ -9313,7 +9313,7 @@
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "待聘",
+      "professor": "辛妮娜",
       "time": "3678",
       "time_parsed": [
         {
@@ -11171,8 +11171,8 @@
         "SC553"
       ],
       "note": "",
-      "number": "50",
-      "number_parsed": 50,
+      "number": "40",
+      "number_parsed": 40,
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
@@ -12456,7 +12456,7 @@
       "obligatory": "必修",
       "obligatory_tf": true,
       "prerequisite": "",
-      "professor": "待聘",
+      "professor": "許鈺群",
       "time": "4678",
       "time_parsed": [
         {
@@ -23602,14 +23602,14 @@
       "obligatory_tf": false,
       "prerequisite": "",
       "professor": "蕭鶴軒",
-      "time": "5234",
+      "time": "3678",
       "time_parsed": [
         {
-          "day": 5,
+          "day": 3,
           "time": [
-            2,
-            3,
-            4
+            6,
+            7,
+            8
           ]
         }
       ],
