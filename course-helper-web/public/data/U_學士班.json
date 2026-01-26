@@ -3577,7 +3577,7 @@
       "credits_parsed": 3,
       "department": "昆蟲學系學士班",
       "discipline": "",
-      "enrolled_num": "50",
+      "enrolled_num": "49",
       "for_dept": "昆蟲學系學士班",
       "hours": "2",
       "hours_parsed": "2",
@@ -3764,7 +3764,7 @@
       "credits_parsed": 3,
       "department": "昆蟲學系學士班",
       "discipline": "",
-      "enrolled_num": "50",
+      "enrolled_num": "49",
       "for_dept": "昆蟲學系學士班",
       "hours": "3",
       "hours_parsed": "3",
@@ -3809,7 +3809,7 @@
       "credits_parsed": 1,
       "department": "昆蟲學系學士班",
       "discipline": "",
-      "enrolled_num": "50",
+      "enrolled_num": "49",
       "for_dept": "昆蟲學系學士班",
       "hours": "",
       "hours_parsed": "",
@@ -6207,7 +6207,7 @@
       "credits_parsed": 1,
       "department": "化學系學士班",
       "discipline": "",
-      "enrolled_num": "50",
+      "enrolled_num": "49",
       "for_dept": "昆蟲學系學士班",
       "hours": "",
       "hours_parsed": "",
@@ -6477,7 +6477,7 @@
       "credits_parsed": 3,
       "department": "化學系學士班",
       "discipline": "",
-      "enrolled_num": "50",
+      "enrolled_num": "49",
       "for_dept": "昆蟲學系學士班",
       "hours": "3",
       "hours_parsed": "3",
@@ -9322,7 +9322,7 @@
       "credits_parsed": 3,
       "department": "應用數學系應用數學組學士班",
       "discipline": "",
-      "enrolled_num": "47",
+      "enrolled_num": "46",
       "for_dept": "財務金融學系學士班",
       "hours": "3",
       "hours_parsed": "3",
@@ -15136,7 +15136,7 @@
       "obligatory": "必修",
       "obligatory_tf": true,
       "prerequisite": "",
-      "professor": "待聘",
+      "professor": "凃智文",
       "time": "*",
       "time_parsed": [],
       "title": "醫學人文(三)：醫學初心、走入偏鄉b `Medical Humanity III：The First Lesson, Entering Rural Communities",
@@ -25816,13 +25816,13 @@
         "U414"
       ],
       "note": "",
-      "number": "31",
-      "number_parsed": 31,
+      "number": "45",
+      "number_parsed": 45,
       "obligatory": "必修",
       "obligatory_tf": true,
       "prerequisite": "",
       "professor": "李渭天",
-      "time": "14,26,36",
+      "time": "16,26,36",
       "time_parsed": [
         {
           "day": 3,
@@ -25833,7 +25833,7 @@
         {
           "day": 1,
           "time": [
-            4
+            6
           ]
         },
         {
@@ -25871,13 +25871,13 @@
         "U414"
       ],
       "note": "",
-      "number": "65",
-      "number_parsed": 65,
+      "number": "45",
+      "number_parsed": 45,
       "obligatory": "必修",
       "obligatory_tf": true,
       "prerequisite": "",
       "professor": "李渭天",
-      "time": "14,26,36",
+      "time": "16,26,36",
       "time_parsed": [
         {
           "day": 3,
@@ -25888,7 +25888,7 @@
         {
           "day": 1,
           "time": [
-            4
+            6
           ]
         },
         {
@@ -44290,7 +44290,7 @@
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "待聘",
+      "professor": "林宗岳",
       "time": "5567",
       "time_parsed": [
         {
@@ -55935,7 +55935,7 @@
       "obligatory": "必修",
       "obligatory_tf": true,
       "prerequisite": "",
-      "professor": "陳詩華",
+      "professor": "陳文賢",
       "time": "*",
       "time_parsed": [],
       "title": "影像醫學實習 `Medical Imaging Clerkship",
@@ -56131,7 +56131,7 @@
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "楊靜瑩",
+      "professor": "陳建德",
       "time": "*",
       "time_parsed": [],
       "title": "農藝學研究法(三) `Research Methods for Agronomy Science (Ⅲ)",
@@ -56333,7 +56333,7 @@
         ""
       ],
       "intern_time": "",
-      "language": "中文",
+      "language": "英文",
       "location": [
         "V000"
       ],
