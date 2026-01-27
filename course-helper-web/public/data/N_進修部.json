@@ -1955,7 +1955,7 @@
         ""
       ],
       "intern_time": "",
-      "language": "英文",
+      "language": "中/英文",
       "location": [
         "AA201"
       ],
@@ -1999,7 +1999,7 @@
         ""
       ],
       "intern_time": "",
-      "language": "英文",
+      "language": "中/英文",
       "location": [
         "AA201"
       ],
@@ -3196,7 +3196,7 @@
       "number_parsed": 15,
       "obligatory": "必修",
       "obligatory_tf": true,
-      "prerequisite": "英文作文(一)",
+      "prerequisite": "英文作文(一) OR 英文作文(一)",
       "professor": "陳柏助",
       "time": "21011",
       "time_parsed": [
@@ -3240,7 +3240,7 @@
       "number_parsed": 15,
       "obligatory": "必修",
       "obligatory_tf": true,
-      "prerequisite": "英文作文(一)",
+      "prerequisite": "英文作文(一) OR 英文作文(一)",
       "professor": "林佑容",
       "time": "21011",
       "time_parsed": [
@@ -3284,7 +3284,7 @@
       "number_parsed": 35,
       "obligatory": "必修",
       "obligatory_tf": true,
-      "prerequisite": "英語口語訓練(一)",
+      "prerequisite": "英語口語訓練(一) OR 英語口語訓練(一)",
       "professor": "陳柏助",
       "time": "21213",
       "time_parsed": [
@@ -6082,8 +6082,8 @@
       "note": "",
       "number": "50",
       "number_parsed": 50,
-      "obligatory": "必修",
-      "obligatory_tf": true,
+      "obligatory": "選修",
+      "obligatory_tf": false,
       "prerequisite": "",
       "professor": "陳姿伶",
       "time": "29",
@@ -6523,7 +6523,7 @@
       "number_parsed": 50,
       "obligatory": "必修",
       "obligatory_tf": true,
-      "prerequisite": "聲韻學 OR 文字學",
+      "prerequisite": "聲韻學 AND 文字學",
       "professor": "高榮鴻",
       "time": "31011",
       "time_parsed": [

@@ -10750,7 +10750,7 @@
       "intern_time": "",
       "language": "中文",
       "location": [
-        "SC732"
+        "SC731"
       ],
       "note": "",
       "number": "15",
@@ -23763,7 +23763,7 @@
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "待聘",
+      "professor": "蔡振彥",
       "time": "5234",
       "time_parsed": [
         {
@@ -39032,7 +39032,7 @@
         ""
       ],
       "intern_time": "",
-      "language": "中文",
+      "language": "英文",
       "location": [
         "U602"
       ],
@@ -49391,7 +49391,7 @@
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "待聘",
+      "professor": "蔡振彥",
       "time": "*",
       "time_parsed": [],
       "title": "專題研究h `Special Topics Research",

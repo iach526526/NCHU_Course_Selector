@@ -15488,50 +15488,6 @@
     },
     {
       "class": "0",
-      "code": "0959",
-      "credits": "2",
-      "credits_parsed": 2,
-      "department": "語言中心",
-      "discipline": "",
-      "enrolled_num": "0",
-      "for_dept": "不限系所",
-      "hours": "2",
-      "hours_parsed": "2",
-      "intern_location": [
-        ""
-      ],
-      "intern_time": "",
-      "language": "英文",
-      "location": [
-        "AA402"
-      ],
-      "note": "",
-      "number": "31",
-      "number_parsed": 31,
-      "obligatory": "選修",
-      "obligatory_tf": false,
-      "prerequisite": "",
-      "professor": "徐筱玲",
-      "time": "434",
-      "time_parsed": [
-        {
-          "day": 4,
-          "time": [
-            3,
-            4
-          ]
-        }
-      ],
-      "title": "英文演說與學術簡報 `Public Speaking and Academic Presentations",
-      "title_parsed": {
-        "en_US": "Public Speaking and Academic Presentations",
-        "zh_TW": "英文演說與學術簡報"
-      },
-      "url": "3766",
-      "year": "半"
-    },
-    {
-      "class": "0",
       "code": "0960",
       "credits": "2",
       "credits_parsed": 2,
@@ -29219,7 +29175,7 @@
         ""
       ],
       "intern_time": "",
-      "language": "中文",
+      "language": "中/英文",
       "location": [
         "AA201"
       ],

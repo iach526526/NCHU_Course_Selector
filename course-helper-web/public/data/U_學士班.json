@@ -6450,7 +6450,7 @@
       "obligatory": "必修",
       "obligatory_tf": true,
       "prerequisite": "",
-      "professor": "待聘",
+      "professor": "蔡振彥",
       "time": "2567",
       "time_parsed": [
         {
@@ -9375,7 +9375,7 @@
         ""
       ],
       "intern_time": "",
-      "language": "中文",
+      "language": "中/英文",
       "location": [
         "P106"
       ],
@@ -56121,7 +56121,7 @@
         ""
       ],
       "intern_time": "",
-      "language": "中文",
+      "language": "英文",
       "location": [
         "*"
       ],
@@ -60695,11 +60695,11 @@
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "待聘",
-      "time": "4678",
+      "professor": "蔡振彥",
+      "time": "1678",
       "time_parsed": [
         {
-          "day": 4,
+          "day": 1,
           "time": [
             6,
             7,
