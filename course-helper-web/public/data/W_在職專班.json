@@ -7606,10 +7606,10 @@
       "obligatory_tf": false,
       "prerequisite": "",
       "professor": "林坤儀",
-      "time": "31011",
+      "time": "21011",
       "time_parsed": [
         {
-          "day": 3,
+          "day": 2,
           "time": [
             10,
             11
@@ -7695,10 +7695,10 @@
       "obligatory_tf": true,
       "prerequisite": "",
       "professor": "林坤儀",
-      "time": "2101112",
+      "time": "3101112",
       "time_parsed": [
         {
-          "day": 2,
+          "day": 3,
           "time": [
             10,
             11,

@@ -474,10 +474,10 @@
       "obligatory_tf": false,
       "prerequisite": "",
       "professor": "施武陽",
-      "time": "2567",
+      "time": "3567",
       "time_parsed": [
         {
-          "day": 2,
+          "day": 3,
           "time": [
             5,
             6,
@@ -519,10 +519,10 @@
       "obligatory_tf": false,
       "prerequisite": "",
       "professor": "施武陽",
-      "time": "2567",
+      "time": "3567",
       "time_parsed": [
         {
-          "day": 2,
+          "day": 3,
           "time": [
             5,
             6,
@@ -26192,7 +26192,7 @@
       "intern_time": "",
       "language": "中文",
       "location": [
-        " Z1111"
+        "Z1119"
       ],
       "note": "",
       "number": "15",
@@ -41614,7 +41614,7 @@
       "credits_parsed": 3,
       "department": "中國文學系碩士班",
       "discipline": "",
-      "enrolled_num": "36",
+      "enrolled_num": "35",
       "for_dept": "中國文學系碩士班",
       "hours": "0",
       "hours_parsed": "0",
@@ -51838,7 +51838,7 @@
       "intern_time": "",
       "language": "中文",
       "location": [
-        "Z1104"
+        "Z1118"
       ],
       "note": "",
       "number": "30",
@@ -51881,7 +51881,7 @@
       "intern_time": "",
       "language": "中文",
       "location": [
-        "Z1104"
+        "Z1118"
       ],
       "note": "",
       "number": "30",
@@ -60482,7 +60482,7 @@
       "intern_time": "",
       "language": "中文",
       "location": [
-        "Z1118"
+        "Z1104"
       ],
       "note": "",
       "number": "30",
@@ -64551,7 +64551,7 @@
       "intern_time": "",
       "language": "中文",
       "location": [
-        "Z1118"
+        "Z1104"
       ],
       "note": "",
       "number": "30",
@@ -65751,7 +65751,7 @@
       "credits_parsed": 6,
       "department": "生物與永續科技碩士學位學程",
       "discipline": "",
-      "enrolled_num": "5",
+      "enrolled_num": "4",
       "for_dept": "生物與永續科技博士學位學程",
       "hours": "0",
       "hours_parsed": "0",
