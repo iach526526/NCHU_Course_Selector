@@ -4813,7 +4813,7 @@
       "intern_time": "",
       "language": "中文",
       "location": [
-        "L215"
+        "L208"
       ],
       "note": "",
       "number": "30",
@@ -4822,14 +4822,14 @@
       "obligatory_tf": false,
       "prerequisite": "",
       "professor": "馮正一",
-      "time": "6567",
+      "time": "6123",
       "time_parsed": [
         {
           "day": 6,
           "time": [
-            5,
-            6,
-            7
+            1,
+            2,
+            3
           ]
         }
       ],
@@ -5526,7 +5526,7 @@
       "intern_time": "",
       "language": "中文",
       "location": [
-        "L208"
+        "L215"
       ],
       "note": "",
       "number": "30",
@@ -5535,14 +5535,14 @@
       "obligatory_tf": false,
       "prerequisite": "",
       "professor": "魏士超",
-      "time": "6123",
+      "time": "6567",
       "time_parsed": [
         {
           "day": 6,
           "time": [
-            1,
-            2,
-            3
+            5,
+            6,
+            7
           ]
         }
       ],
