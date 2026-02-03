@@ -936,6 +936,51 @@
       "year": "半"
     },
     {
+      "class": "6",
+      "code": "8024",
+      "credits": "3",
+      "credits_parsed": 3,
+      "department": "生物科技學研究所博士班",
+      "discipline": "",
+      "enrolled_num": "0",
+      "for_dept": "植物暨微生物國際碩士學位學程",
+      "hours": "3",
+      "hours_parsed": "3",
+      "intern_location": [
+        ""
+      ],
+      "intern_time": "",
+      "language": "英文",
+      "location": [
+        "*"
+      ],
+      "note": "國際研究生學程(中研院上課)",
+      "number": "60",
+      "number_parsed": 60,
+      "obligatory": "必修",
+      "obligatory_tf": true,
+      "prerequisite": "",
+      "professor": "郭志鴻",
+      "time": "2678",
+      "time_parsed": [
+        {
+          "day": 2,
+          "time": [
+            6,
+            7,
+            8
+          ]
+        }
+      ],
+      "title": "微生物學特論 `Special Topics in Microbiology",
+      "title_parsed": {
+        "en_US": "Special Topics in Microbiology",
+        "zh_TW": "微生物學特論"
+      },
+      "url": "3247",
+      "year": "半"
+    },
+    {
       "class": "8",
       "code": "8024",
       "credits": "3",
@@ -2053,7 +2098,7 @@
       "obligatory": "必修",
       "obligatory_tf": true,
       "prerequisite": "",
-      "professor": "鄭任鈞",
+      "professor": "陳韋志",
       "time": "17",
       "time_parsed": [
         {
@@ -2132,7 +2177,7 @@
       "intern_time": "",
       "language": "英文",
       "location": [
-        "2A04"
+        "2B09"
       ],
       "note": "",
       "number": "30",
@@ -2753,7 +2798,7 @@
       "intern_time": "",
       "language": "英文",
       "location": [
-        "2A04"
+        "2B09"
       ],
       "note": "",
       "number": "30",
