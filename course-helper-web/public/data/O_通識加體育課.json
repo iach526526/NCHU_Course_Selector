@@ -5945,7 +5945,7 @@
       "credits_parsed": 2,
       "department": "通識教育中心",
       "discipline": "文化學群",
-      "enrolled_num": "120",
+      "enrolled_num": "119",
       "for_dept": "不限系所",
       "hours": "2",
       "hours_parsed": "2",
@@ -8148,7 +8148,7 @@
       "credits_parsed": 2,
       "department": "通識教育中心",
       "discipline": "法律與政治學群",
-      "enrolled_num": "70",
+      "enrolled_num": "69",
       "for_dept": "不限系所",
       "hours": "2",
       "hours_parsed": "2",
@@ -9558,7 +9558,7 @@
       "credits_parsed": 2,
       "department": "通識教育中心",
       "discipline": "生命科學學群",
-      "enrolled_num": "100",
+      "enrolled_num": "99",
       "for_dept": "不限系所",
       "hours": "2",
       "hours_parsed": "2",
@@ -10747,7 +10747,7 @@
       "credits_parsed": 1,
       "department": "通識教育中心",
       "discipline": "",
-      "enrolled_num": "50",
+      "enrolled_num": "49",
       "for_dept": "不限系所",
       "hours": "1",
       "hours_parsed": "1",
@@ -14091,7 +14091,7 @@
         ""
       ],
       "intern_time": "",
-      "language": "英文",
+      "language": "中/英文",
       "location": [
         "AA202"
       ],
@@ -19004,7 +19004,7 @@
       "credits_parsed": 2,
       "department": "通識教育中心",
       "discipline": "",
-      "enrolled_num": "40",
+      "enrolled_num": "39",
       "for_dept": "不限系所",
       "hours": "2",
       "hours_parsed": "2",
@@ -31451,7 +31451,7 @@
       "location": [
         ""
       ],
-      "note": "TAICA研究所課程，限本校生，欲修習請填表:https://forms.gle/e76Bw9u6zgpL3Fkr8，請詳閱注意事項。探索應用(人工智慧應用課程)、工業應用(機器人專題)、視覺技術(人工智慧影像應用課程)。",
+      "note": "TAICA研究所課程，限本校生，不接受期中退選，欲修習請填表:https://forms.gle/e76Bw9u6zgpL3Fkr8，請詳閱注意事項。探索應用(人工智慧應用課程)、工業應用(機器人專題)、視覺技術(人工智慧影像應用課程)。",
       "number": "0",
       "number_parsed": 0,
       "obligatory": "選修",
