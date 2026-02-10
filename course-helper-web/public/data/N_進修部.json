@@ -855,13 +855,13 @@
       "location": [
         "Y109"
       ],
-      "note": "(芝田典子老師)不開放校際選課|Inter-school course selection closed.",
+      "note": "不開放校際選課|Inter-school course selection closed.",
       "number": "40",
       "number_parsed": 40,
       "obligatory": "必修",
       "obligatory_tf": true,
       "prerequisite": "",
-      "professor": "待聘",
+      "professor": "芝田典子",
       "time": "11112",
       "time_parsed": [
         {
@@ -4307,7 +4307,7 @@
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
-      "professor": "待聘",
+      "professor": "芝田典子",
       "time": "1910",
       "time_parsed": [
         {
@@ -7625,7 +7625,7 @@
       "intern_time": "",
       "language": "英文",
       "location": [
-        "Y409"
+        "Y109"
       ],
       "note": "使用全英文課綱、教材與評量方式Syllabus, teaching materials and assessment methods are all in english",
       "number": "30",
