@@ -8411,8 +8411,8 @@
         "SC416"
       ],
       "note": "",
-      "number": "35",
-      "number_parsed": 35,
+      "number": "30",
+      "number_parsed": 30,
       "obligatory": "必修",
       "obligatory_tf": true,
       "prerequisite": "",
@@ -8500,8 +8500,8 @@
         "SC416"
       ],
       "note": "",
-      "number": "40",
-      "number_parsed": 40,
+      "number": "30",
+      "number_parsed": 30,
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
@@ -8590,8 +8590,8 @@
         "SC416"
       ],
       "note": "",
-      "number": "40",
-      "number_parsed": 40,
+      "number": "30",
+      "number_parsed": 30,
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",

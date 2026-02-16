@@ -17142,8 +17142,8 @@
         "SC123"
       ],
       "note": "",
-      "number": "90",
-      "number_parsed": 90,
+      "number": "70",
+      "number_parsed": 70,
       "obligatory": "必修",
       "obligatory_tf": true,
       "prerequisite": "經濟學",
@@ -20313,8 +20313,8 @@
         "SC123"
       ],
       "note": "",
-      "number": "85",
-      "number_parsed": 85,
+      "number": "80",
+      "number_parsed": 80,
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
@@ -20537,8 +20537,8 @@
         "SC123"
       ],
       "note": "",
-      "number": "80",
-      "number_parsed": 80,
+      "number": "70",
+      "number_parsed": 70,
       "obligatory": "必修",
       "obligatory_tf": true,
       "prerequisite": "財務管理",
@@ -20582,8 +20582,8 @@
         "SC123"
       ],
       "note": "",
-      "number": "85",
-      "number_parsed": 85,
+      "number": "80",
+      "number_parsed": 80,
       "obligatory": "選修",
       "obligatory_tf": false,
       "prerequisite": "",
