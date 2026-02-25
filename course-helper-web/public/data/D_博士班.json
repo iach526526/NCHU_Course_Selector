@@ -43,7 +43,7 @@
       "credits_parsed": 3,
       "department": "台灣與跨文化研究國際博士學位學程",
       "discipline": "",
-      "enrolled_num": "2",
+      "enrolled_num": "3",
       "for_dept": "全球事務研究跨洲碩士學位學程",
       "hours": "3",
       "hours_parsed": "3",
@@ -310,7 +310,7 @@
       "credits_parsed": 1,
       "department": "組織工程與再生醫學博士學位學程",
       "discipline": "",
-      "enrolled_num": "4",
+      "enrolled_num": "5",
       "for_dept": "組織工程與再生醫學博士學位學程",
       "hours": "1",
       "hours_parsed": "1",
@@ -2167,7 +2167,7 @@
       "credits_parsed": 1,
       "department": "國際農學博士學位學程",
       "discipline": "",
-      "enrolled_num": "6",
+      "enrolled_num": "7",
       "for_dept": "國際農學博士學位學程",
       "hours": "2",
       "hours_parsed": "2",
@@ -2221,7 +2221,7 @@
       "intern_time": "",
       "language": "英文",
       "location": [
-        "2A05"
+        "AN811"
       ],
       "note": "",
       "number": "30",
@@ -2265,7 +2265,7 @@
       "intern_time": "",
       "language": "英文",
       "location": [
-        "2A04"
+        "AN811"
       ],
       "note": "",
       "number": "30",
