@@ -8675,9 +8675,9 @@
           ]
         }
       ],
-      "title": "系統晶片研討(一) `Seminar on System on Chip(I)",
+      "title": "系統晶片研討(一) `Seminar in System on Chip (I)",
       "title_parsed": {
-        "en_US": "Seminar on System on Chip(I)",
+        "en_US": "Seminar in System on Chip (I)",
         "zh_TW": "系統晶片研討(一)"
       },
       "url": "5004",
@@ -8719,9 +8719,9 @@
           ]
         }
       ],
-      "title": "系統晶片研討(二) `Seminar on System on Chip(II)",
+      "title": "系統晶片研討(二) `Seminar in System on Chip (Ⅱ)",
       "title_parsed": {
-        "en_US": "Seminar on System on Chip(II)",
+        "en_US": "Seminar in System on Chip (Ⅱ)",
         "zh_TW": "系統晶片研討(二)"
       },
       "url": "5005",
@@ -8898,9 +8898,9 @@
           ]
         }
       ],
-      "title": "控制研討(一) `Seminar on Control Systems(I)",
+      "title": "控制研討(一) `Seminar in Control Systems (I)",
       "title_parsed": {
-        "en_US": "Seminar on Control Systems(I)",
+        "en_US": "Seminar in Control Systems (I)",
         "zh_TW": "控制研討(一)"
       },
       "url": "5009",
@@ -8943,9 +8943,9 @@
           ]
         }
       ],
-      "title": "元件物理 `Device Physics",
+      "title": "元件物理 `Physics of Semiconductor Devices",
       "title_parsed": {
-        "en_US": "Device Physics",
+        "en_US": "Physics of Semiconductor Devices",
         "zh_TW": "元件物理"
       },
       "url": "5011",
@@ -8987,9 +8987,9 @@
           ]
         }
       ],
-      "title": "電子研討(一) `Seminar on Electronics(I)",
+      "title": "電子研討(一) `Seminar in Electronics (I)",
       "title_parsed": {
-        "en_US": "Seminar on Electronics(I)",
+        "en_US": "Seminar in Electronics (I)",
         "zh_TW": "電子研討(一)"
       },
       "url": "5012",
@@ -9122,9 +9122,9 @@
           ]
         }
       ],
-      "title": "電腦輔助超大型積體電路設計 `Design of Computer Aided VLSI Circuit",
+      "title": "電腦輔助超大型積體電路設計 `Design of Computer Aided VLSI Circuits",
       "title_parsed": {
-        "en_US": "Design of Computer Aided VLSI Circuit",
+        "en_US": "Design of Computer Aided VLSI Circuits",
         "zh_TW": "電腦輔助超大型積體電路設計"
       },
       "url": "5015",
@@ -9166,9 +9166,9 @@
           ]
         }
       ],
-      "title": "控制研討(二) `Seminar on Control Systems(II)",
+      "title": "控制研討(二) `Seminar in Control Systems (Ⅱ)",
       "title_parsed": {
-        "en_US": "Seminar on Control Systems(II)",
+        "en_US": "Seminar in Control Systems (Ⅱ)",
         "zh_TW": "控制研討(二)"
       },
       "url": "5016",
@@ -9210,9 +9210,9 @@
           ]
         }
       ],
-      "title": "電子研討(二) `Seminar on Electronics(II)",
+      "title": "電子研討(二) `Seminar in Electronics (Ⅱ)",
       "title_parsed": {
-        "en_US": "Seminar on Electronics(II)",
+        "en_US": "Seminar in Electronics (Ⅱ)",
         "zh_TW": "電子研討(二)"
       },
       "url": "5017",
@@ -9254,9 +9254,9 @@
           ]
         }
       ],
-      "title": "通訊資訊研討(一) `Seminar on Communications and Information (I)",
+      "title": "通訊資訊研討(一) `Seminar in Communication and Information (I)",
       "title_parsed": {
-        "en_US": "Seminar on Communications and Information (I)",
+        "en_US": "Seminar in Communication and Information (I)",
         "zh_TW": "通訊資訊研討(一)"
       },
       "url": "5018",
@@ -9415,9 +9415,9 @@
           ]
         }
       ],
-      "title": "通訊資訊研討(二) `Seminar on Communications and Information (II)",
+      "title": "通訊資訊研討(二) `Seminar in Communication and Information (Ⅱ)",
       "title_parsed": {
-        "en_US": "Seminar on Communications and Information (II)",
+        "en_US": "Seminar in Communication and Information (Ⅱ)",
         "zh_TW": "通訊資訊研討(二)"
       },
       "url": "5022",
