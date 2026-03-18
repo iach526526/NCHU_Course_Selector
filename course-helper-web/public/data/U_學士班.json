@@ -8909,7 +8909,7 @@
       "intern_time": "",
       "language": "中文",
       "location": [
-        "Y204"
+        "Y206"
       ],
       "note": "",
       "number": "60",
@@ -16955,8 +16955,8 @@
       "discipline": "",
       "enrolled_num": "49",
       "for_dept": "歷史學系學士班",
-      "hours": "0",
-      "hours_parsed": "0",
+      "hours": "2",
+      "hours_parsed": "2",
       "intern_location": [
         ""
       ],
