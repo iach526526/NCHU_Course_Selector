@@ -15950,13 +15950,13 @@
       "obligatory_tf": false,
       "prerequisite": "",
       "professor": "王建鎧",
-      "time": "11011",
+      "time": "512",
       "time_parsed": [
         {
-          "day": 1,
+          "day": 5,
           "time": [
-            10,
-            11
+            1,
+            2
           ]
         }
       ],
@@ -33131,7 +33131,7 @@
       "intern_time": "",
       "language": "中文",
       "location": [
-        "EE208"
+        "EE818"
       ],
       "note": "",
       "number": "30",
@@ -33176,7 +33176,7 @@
       "intern_time": "",
       "language": "中文",
       "location": [
-        "EE208"
+        "EE818"
       ],
       "note": "",
       "number": "7",

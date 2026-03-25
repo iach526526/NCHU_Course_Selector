@@ -58918,13 +58918,13 @@
       "obligatory_tf": false,
       "prerequisite": "",
       "professor": "江信毅",
-      "time": "41011",
+      "time": "589",
       "time_parsed": [
         {
-          "day": 4,
+          "day": 5,
           "time": [
-            10,
-            11
+            8,
+            9
           ]
         }
       ],
